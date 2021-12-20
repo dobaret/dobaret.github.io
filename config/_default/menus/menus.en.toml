@@ -1,19 +1,19 @@
 [[docs]]
-  name = "Prologue"
+  name = "Jobs"
   weight = 10
-  identifier = "prologue"
-  url = "/docs/prologue/"
+  identifier = "jobs"
+  url = "/docs/jobs/"
 
 [[docs]]
-  name = "Help"
+  name = "Education"
   weight = 60
-  identifier = "help"
-  url = "/docs/help/"
+  identifier = "edu"
+  url = "/docs/edu/"
 
 [[main]]
   name = "Docs"
-  url = "/docs/prologue/introduction/"
-# url = "/docs/1.0/prologue/introduction/"
+  url = "/docs/cv/talend/"
+# url = "/docs/1.0/cv/talend/"
   weight = 10
 
 [[main]]

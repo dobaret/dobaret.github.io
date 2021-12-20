@@ -1,7 +1,7 @@
 ---
 title : "Bonjour !"
 description: "Doks is a Hugo theme for building secure, fast, and SEO-ready documentation websites, which you can easily update and customize."
-lead: "My name is Dorian Baret, I’m a software technical writer @ Talend and a student @
+lead: "<br>My name is Dorian Baret, I’m a software technical writer @ Talend and a student @
 Université de Paris, where I’m honing my craft.<br><br>At the moment, I write technical documentation
 in DITA, managed through Git. We may have known one another when I worked in translation. I'm an
 all-around language enthusiast."
