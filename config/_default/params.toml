@@ -81,5 +81,5 @@ editPage = false
   highLight = true
   kaTex = false
   collapsibleSidebar = true
-  multilingualMode = false
+  multilingualMode = true
   docsVersioning = false
