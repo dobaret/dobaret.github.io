@@ -12,8 +12,11 @@ images: []
 
 <p><br></p>
 
-<form class="contact1-form">
-    <label for="name">Enter your name: </label>
+<form action="https://formkeep.com/f/839a991c9e0c"
+   accept-charset="UTF-8"
+   enctype="multipart/form-data"
+   method="POST">    
+	<label for="name">Enter your name: </label>
     <input type="text" name="name" id="name" required>
         <br>
     <label for="email">Enter your email: </label>
@@ -28,35 +31,3 @@ images: []
         <br>
     <input type="submit" value="Send!">
 </form>
-
-<script>
-$('.contact1-form').on('submit',function(e){
-        //optional validation code here
-  
-        e.preventDefault();
-
-        $.ajax({
-            url: "https://script.google.com/macros/s/AKfycby-p4VWqDavCUkIn3cB5U3OSzBurL5_1j7UEstqP71CKb2VMPY/exec",
-            method: "POST",
-            dataType: "json",
-            data: $(".contact1-form").serialize(),
-            success: function(response) {
-
-                if(response.result == "success") {
-                    $('.contact1-form')[0].reset();
-                    alert('Thank you for contacting us.');
-                    return true;
-                }
-                else {
-                    alert("Something went wrong. Please try again.")
-                }
-            },
-            error: function() {
-
-                alert("Something went wrong. Please try again.")
-            }
-        })
-    });
-<script>
-
-<!-- markdownlint-disable-file MD011 -->
