@@ -1,6 +1,6 @@
 ---
 title: "Trans4europe"
-description: "September 2021 to September 2022 - Apprenticeship in technical writing"
+description: "June 2020 to August 2021 - Translation project management"
 lead: "June 2020 to August 2021 - Translation project management"
 date: 2020-11-12T13:26:54+01:00
 lastmod: 2020-11-12T13:26:54+01:00

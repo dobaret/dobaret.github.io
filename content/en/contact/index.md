@@ -1,6 +1,6 @@
 ---
-title: "Contact"
-description: "Drop us an email."
+title: "Let's get in touch?"
+description: "Let's get in touch?"
 date: 2020-08-27T19:25:12+02:00
 lastmod: 2020-08-27T19:25:12+02:00
 draft: false
@@ -13,26 +13,23 @@ Or, just fill the following form:
 <form
   action="https://formspree.io/f/mlezdrln"
   method="POST">
-<table style="table-layout: fixed; width: 100%;">
+<table style="table-layout: fixed; width: 90%;">
 <tbody>
 <tr>
-<td colspan="2"><b>Let's get in touch</b></td>
-</tr>
-<tr>
 <td><label for="name">Enter your name: </label></td>
-<td><input type="text" name="name" id="name" required></td>
+<td><input type="text" name="name" id="name" required placeholder="Paul Atreides"></td>
 </tr>
 <tr>
 <td><label for="email">Enter your email: </label></td>
-<td><input type="email" name="email" id="email" required></td>
+<td><input type="email" name="email" id="email" required placeholder="p.atreides@spice.cldn"></td>
 </tr>
 <tr>
 <td><label for="subject">Enter a subject: </label></td>
-<td><input type="text" name="subject" id="subject" required></td>
+<td><input type="text" name="subject" id="subject" required placeholder="Shai-Hulud"></td>
 </tr>
 <tr>
 <td><label for="message">Enter your message: </label></td>
-<td><textarea name="message" style="max-width: 100%;"></textarea></td>
+<td><textarea name="message" style="max-width: 100%;" required placeholder="Hello, would you like a job?"></textarea></td>
 </tr>
 </tbody>
 </table>
