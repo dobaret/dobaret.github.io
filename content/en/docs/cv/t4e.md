@@ -1,7 +1,7 @@
 ---
 title: "Trans4europe"
-description: "Regularly update the installed npm packages to keep your Doks website stable, usable, and secure."
-lead: "Regularly update the installed npm packages to keep your Doks website stable, usable, and secure."
+description: "September 2021 to September 2022 - Apprenticeship in technical writing"
+lead: "June 2020 to August 2021 - Translation project management"
 date: 2020-11-12T13:26:54+01:00
 lastmod: 2020-11-12T13:26:54+01:00
 draft: false
@@ -13,20 +13,55 @@ weight: 610
 toc: true
 ---
 
-{{< alert icon="💡" text="Learn more about <a href=\"https://docs.npmjs.com/about-semantic-versioning\">semantic versioning</a> and <a href=\"https://docs.npmjs.com/cli/v6/using-npm/semver#advanced-range-syntax\">advanced range syntax</a>." />}}
+<img src="../../t4e_logo.png" alt=" slice atop a pile of other slices" style="max-width:100px; max-height:69px;  width: auto;  height: auto;">
 
-## Check for outdated packages
+#### Description of tasks
 
-The [`npm outdated`](https://docs.npmjs.com/cli/v7/commands/npm-outdated) command will check the registry to see if any (or, specific) installed packages are currently outdated:
+- Organization and management of multilingual translation projects.
+- Analysis and preparation of work packages for CAT tools.
+- Management of ~20 internal translators as well as freelance translators.
+- Correspondence with our clients' project managers.
+- Translation quality monitoring.
+- Management of a shared email inbox.
 
-```bash
-npm outdated [[<@scope>/]<pkg> ...]
-```
+#### Tools used
 
-## Update packages
+<table style="table-layout: fixed; width: 100%;">
+<tbody>
+<tr>
+<td colspan="2"><b>CAT tools</b></td>
+</tr>
+<tr>
+<td><img src="../../trados_logo.png" alt="Grapefruit slice atop a pile of other slices" style="max-width:67px; max-height:30px;  width: auto;  height: auto;"></td>
+<td>Trados Studio</td>
+</tr>
+<tr>
+<td><img src="../../memoq_logo.png" alt="Grapefruit slice atop a pile of other slices" style="max-width:67px; max-height:30px;  width: auto;  height: auto;"></td>
+<td>MemoQ</td>
+</tr>
+<tr>
+<td><img src="../../memsource_logo.jpg" alt="Grapefruit slice atop a pile of other slices" style="max-width:68px; max-height:30px;  width: auto;  height: auto;"></td>
+<td>Memsource</td>
+</tr>
+<tr>
+<td><img src="../../xtm_logo.png" alt="Grapefruit slice atop a pile of other slices" style="max-width:60px; max-height:30px;  width: auto;  height: auto;"></td>
+<td>XTM</td>
+</tr>
+</tbody>
+</table>
 
-The [`npm update`](https://docs.npmjs.com/cli/v7/commands/npm-update) command will update all the packages listed to the latest version (specified by the tag config), respecting semver:
-
-```bash
-npm update [<pkg>...]
-```
+<table style="table-layout: fixed; width: 100%;">
+<tbody>
+<tr>
+<td colspan="2"><b>Project management</b></td>
+</tr>
+<tr>
+<td><img src="../../projetex_logo.jpg" alt="Grapefruit slice atop a pile of other slices" style="max-width:67px; max-height:35px;  width: auto;  height: auto;"></td>
+<td>Projetex</td>
+</tr>
+<tr>
+<td><img src="../../skype_logo.jpg" alt="Grapefruit slice atop a pile of other slices" style="max-width:67px; max-height:30px;  width: auto;  height: auto;"></td>
+<td>Skype</td>
+</tr>
+</tbody>
+</table>

@@ -20,6 +20,11 @@
   name = "Blog"
   url = "/blog/"
   weight = 20
+  
+[[main]]
+  name = "Contact"
+  url = "/contact/"
+  weight = 20
 
 [[social]]
   name = "GitHub"

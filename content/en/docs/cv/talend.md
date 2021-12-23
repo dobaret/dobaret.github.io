@@ -13,7 +13,7 @@ weight: 600
 toc: true
 ---
 
-<img src="../../talend_logo.png" alt="Grapefruit slice atop a pile of other slices" style="max-width:69px; max-height:69;  width: auto;  height: auto;">
+<img src="../../talend_logo.png" alt="Grapefruit slice atop a pile of other slices" style="max-width:69px; max-height:69px;  width: auto;  height: auto;">
 
 #### Description of tasks
 
@@ -53,11 +53,11 @@ toc: true
 <td colspan="2"><b>Communication</b></td>
 </tr>
 <tr>
-<td><img src="../../jira_logo.png" alt="Grapefruit slice atop a pile of other slices" style="max-width:100px; max-height:60;  width: auto;  height: auto;"></td>
+<td><img src="../../jira_logo.png" alt="Grapefruit slice atop a pile of other slices" style="max-width:100px; max-height:60px;  width: auto;  height: auto;"></td>
 <td>JIRA</td>
 </tr>
 <tr>
-<td><img src="../../slack_logo.png" alt="Grapefruit slice atop a pile of other slices" style="max-width:80px; max-height:60;  width: auto;  height: auto;"></td>
+<td><img src="../../slack_logo.png" alt="Grapefruit slice atop a pile of other slices" style="max-width:80px; max-height:60px;  width: auto;  height: auto;"></td>
 <td>Slack</td>
 </tr>
 </tbody>
