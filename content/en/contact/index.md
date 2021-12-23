@@ -30,7 +30,6 @@ images: []
 </form>
 
 <script>
-<!-- markdownlint-disable MD011 -->
 $('.contact1-form').on('submit',function(e){
         //optional validation code here
   
@@ -59,3 +58,5 @@ $('.contact1-form').on('submit',function(e){
         })
     });
 <script>
+
+<!-- markdownlint-disable-file MD011 -->
