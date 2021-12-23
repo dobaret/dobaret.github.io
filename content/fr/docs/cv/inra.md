@@ -17,8 +17,8 @@ toc: true
 
 #### Description des tâches
 
--  Stage en traduction scientifique et terminologie sur l’ontologie ATOL (atol-ontology.com).
-    -  Traduction EN>FR des noms et définitions des caractères phénotypiques des animaux d'élevage. 
+- Stage en traduction scientifique et terminologie sur l’ontologie ATOL (atol-ontology.com).
+  - Traduction EN>FR des noms et définitions des caractères phénotypiques des animaux d'élevage.
 
 #### Outils utilisés
 

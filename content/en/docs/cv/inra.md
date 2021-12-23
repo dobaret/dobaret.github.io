@@ -18,7 +18,7 @@ toc: true
 #### Description of tasks
 
 - Scientific translation and terminology for the ATOL ontology (atol-ontology.com).
-  -  English to French translation of the names and definitions of the phenotypical traits of livestock.
+  - English to French translation of the names and definitions of the phenotypical traits of livestock.
 
 #### Tools used
 
