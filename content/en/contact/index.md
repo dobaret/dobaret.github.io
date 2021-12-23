@@ -15,7 +15,7 @@ images: []
 <form action="https://formkeep.com/f/839a991c9e0c"
    accept-charset="UTF-8"
    enctype="multipart/form-data"
-   method="POST">   
+   method="POST">
    <label for="name">Enter your name: </label>
     <input type="text" name="name" id="name" required>
         <br>
