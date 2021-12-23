@@ -12,7 +12,7 @@ images: []
 
 <p><br></p>
 
-<form>
+<form class="contact1-form">
     <label for="name">Enter your name: </label>
     <input type="text" name="name" id="name" required>
         <br>
@@ -26,7 +26,7 @@ images: []
     <input type="text" name="message" id="message" required>
         <br>
         <br>
-    <input type="submit" value="Send!">	
+    <input type="submit" value="Send!">
 </form>
 
 <script>
@@ -34,14 +34,14 @@ $('.contact1-form').on('submit',function(e){
         //optional validation code here
   
         e.preventDefault();
-      
+
         $.ajax({
             url: "https://script.google.com/macros/s/AKfycby-p4VWqDavCUkIn3cB5U3OSzBurL5_1j7UEstqP71CKb2VMPY/exec",
             method: "POST",
             dataType: "json",
             data: $(".contact1-form").serialize(),
             success: function(response) {
-                
+
                 if(response.result == "success") {
                     $('.contact1-form')[0].reset();
                     alert('Thank you for contacting us.');
@@ -52,7 +52,7 @@ $('.contact1-form').on('submit',function(e){
                 }
             },
             error: function() {
-                
+
                 alert("Something went wrong. Please try again.")
             }
         })
