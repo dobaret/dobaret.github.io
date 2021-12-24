@@ -1,7 +1,7 @@
 ---
 title: "Trans4europe"
-description: "September 2021 to September 2022 - Apprenticeship in technical writing"
-lead: "Juin 2020 à Août 2021 - Gestion de projets de traduction"
+description: "Juin 2020 à août 2021 - Gestion de projets de traduction"
+lead: "Juin 2020 à août 2021 - Gestion de projets de traduction"
 date: 2020-11-12T13:26:54+01:00
 lastmod: 2020-11-12T13:26:54+01:00
 draft: false

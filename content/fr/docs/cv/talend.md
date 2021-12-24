@@ -1,7 +1,7 @@
 ---
 title: "Talend"
-description: "September 2021 to September 2022 - Apprenticeship in technical writing"
-lead: "Septembre 2021 à Septembre 2022 - Alternance en rédaction technique."
+description: "Septembre 2021 à septembre 2022 - Alternance en rédaction technique"
+lead: "Septembre 2021 à septembre 2022 - Alternance en rédaction technique."
 date: 2020-11-12T15:22:20+01:00
 lastmod: 2020-11-12T15:22:20+01:00
 draft: false

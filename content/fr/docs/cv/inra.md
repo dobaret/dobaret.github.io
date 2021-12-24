@@ -1,7 +1,7 @@
 ---
 title: "INRA"
-description: "Mars 2019 à Juin 2019 - Stage en traduction scientifique"
-lead: "Mars 2019 à Juin 2019 - Stage en traduction scientifique"
+description: "Mars 2019 à juin 2019 - Stage en traduction scientifique"
+lead: "Mars 2019 à juin 2019 - Stage en traduction scientifique"
 date: 2020-10-06T08:49:31+00:00
 lastmod: 2020-10-06T08:49:31+00:00
 draft: false
