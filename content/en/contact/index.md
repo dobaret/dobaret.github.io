@@ -13,7 +13,7 @@ Or, just fill the following form:
 <form
   action="https://formspree.io/f/mlezdrln"
   method="POST">
-<table style="table-layout: fixed; width: 90%;">
+<table style="table-layout: fixed; width: 80%;">
 <tbody>
 <tr>
 <td><label for="name">Enter your name: </label></td>

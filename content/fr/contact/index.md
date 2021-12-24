@@ -14,7 +14,7 @@ Vous pouvez également remplir ce formulaire :
 <form
   action="https://formspree.io/f/mlezdrln"
   method="POST">
-<table style="table-layout: fixed; width: 90%;">
+<table style="table-layout: fixed; width: 80%;">
 <tbody>
 <tr>
 <td><label for="name">Entrez votre nom: </label></td>
