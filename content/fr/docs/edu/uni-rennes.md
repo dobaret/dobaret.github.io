@@ -19,3 +19,4 @@ toc: true
 
 - Master EMT (European Master's in Translation) - Spécialité Traduction, localisation et gestion de projets.
   - Formation à la traduction technique, à la localisation, à leurs outils (TAO) ainsi qu'à la gestion de projets.
+  
