@@ -30,3 +30,5 @@
   weight = 10
   [fr.params]
     languageISO = "FR"
+    footer = "Ce site fonctionne grâce à <a href=\"https://www.netlify.com/\">Netlify</a>, <a href=\"https://gohugo.io/\">Hugo</a> et <a href=\"https://getdoks.org/\">Doks</a>."
+
