@@ -280,9 +280,9 @@ Do not worry, this is a common bug due to insufficient connection speed, try the
 
 {{< alert icon="👉" text="You can also press F5 or CTRL+R on Windows, or Command+R on Mac OS." />}}
 
-2.  If this doesn't solve your issue, consider reading [Geoguessr is inaccessible](troubleshooting_no_network.md).
+2. If this doesn't solve your issue, consider reading <a href="#no_network">Geoguessr is inaccessible</a>.
 
-### Geoguessr is inaccessible
+### Geoguessr is inaccessible <a id="no_network"/>
 <!-- markdownlint-disable MD029 MD030 -->
 i can't reach geoguessr.com anymore! pls halp!
 
