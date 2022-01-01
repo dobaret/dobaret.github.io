@@ -13,7 +13,7 @@ weight: 150
 toc: true
 ---
 
-{{< alert icon="⚠️" >}} 
+{{< alert icon="⚠️" >}}
 This guide was originally written in DITA, then transformed to Markdown through the <a href="https://github.com/dita-ot/dita-ot">DITA Open Toolkit</a>. As a result, it may contain errors.<br/><br/>Thank you for your understanding.
 {{< /alert >}}
 
@@ -51,7 +51,7 @@ In its paid version, the game uses imagery from Google Street View, a feature of
 
 In its free version, the game uses imagery from Mapillary, a competitor of Google Street View.
 
-### And, what modes can you play? 
+### And, what modes can you play?
 
 As a free player, only Classic mode is available.As a Pro player, many modes of play are available.
 
@@ -103,7 +103,7 @@ The free version of Geoguessr offers limited features in comparison to its Pro v
     With the free version, at the 3rd round, the game is interrupted for 10 seconds by a prompt to subscribe to the Pro version.
 
 - The user is limited to one Map: "World".
- 
+
 ## Where the heck am I?!
 
 Mapping the world is a colossal task. Hence, Google Street View offers a limited range of destinations.Hence, Mapillary offers a limited range of destinations, which is also lower than of Google.
@@ -120,17 +120,17 @@ Let's familiarize ourselves with the Geoguessr interface.
 
 In the image below, you will see the Geoguessr interface divided in six zones. Let's give them names:
 
-1.  <a href="#controls">Controls</a>
+1. <a href="#controls">Controls</a>
 
-2.  <a href="#compass">Compass</a>
+2. <a href="#compass">Compass</a>
 
-3.  <a href="#status">Status</a>
+3. <a href="#status">Status</a>
 
-4.  <a href="#map">Map</a>
+4. <a href="#map">Map</a>
 
-5.  <a href="#panorama">Panorama</a>
+5. <a href="#panorama">Panorama</a>
 
-6.  <a href="#arrows">Movement arrows</a>
+6. <a href="#arrows">Movement arrows</a>
 
 #### Controls <a id="controls"/>
 
@@ -155,7 +155,7 @@ The Controls have multiple purposes:
 
     It can also be triggered by pressing **C** anytime during a game.
 
-    - After it is clicked, <img src="../../return_to_checkpoint.png"> appears and allows the player to **Return to checkpoint**.
+  - After it is clicked, <img src="../../return_to_checkpoint.png"> appears and allows the player to **Return to checkpoint**.
 
         It can also be triggered by pressing **C**, once a checkpoint has been set.
 
@@ -198,17 +198,15 @@ The Geoguessr Status displays three information:
 
 - Under **Map** is displayed the current Map.
 
-    For example: **"World"**.
-
+  For example: **"World"**.
 
 - Under **Round** is displayed the current round.
 
-    A round of Geoguessr last five rounds.
-
+  A round of Geoguessr last five rounds.
 
 - Under **Score** is displayed the current score.
 
-    The maximum score in a game of Geoguessr is 25000, with 5000 points per round.
+  The maximum score in a game of Geoguessr is 25000, with 5000 points per round.
 
 #### Map <a id="map"/>
 
@@ -245,7 +243,6 @@ The Panorama is a feature of Google MapsMapillary, called Street View. It allows
 The Movement arrows are a feature of Google MapsMapillary, which allows the player to navigate through the Panorama in the direction they're facing.
 
 Once clicked, the Panorama changes to the next available image.
-
 
 ### Recognizing your location through language
 
@@ -286,7 +283,7 @@ Do not worry, this is a common bug due to insufficient connection speed, try the
 2.  If this doesn't solve your issue, consider reading [Geoguessr is inaccessible](troubleshooting_no_network.md).
 
 ### Geoguessr is inaccessible
-
+<!-- markdownlint-disable MD029 MD030 -->
 i can't reach geoguessr.com anymore! pls halp!
 
 <br/>
@@ -297,23 +294,23 @@ i can't reach geoguessr.com anymore! pls halp!
 
 It seems you're not connected to the Internet anymore, try the following course of action:
 
-1.  Begin by checking your **Network** settings.
+1. Begin by checking your **Network** settings.
 
-    -   On Windows, go to **Start Menu** \> **Settings** \> **Network & internet**.
-    -   On Mac OS, go to **Apple menu** \> **System Preferences** \> **Network**.
-2.  If you're indeed disconnected, try the following course of action:
+    - On Windows, go to **Start Menu** \> **Settings** \> **Network & internet**.
+    - On Mac OS, go to **Apple menu** \> **System Preferences** \> **Network**.
+2. If you're indeed disconnected, try the following course of action:
 
-    -   If you're connected through **Wifi**, try turning off then on the **Wifi** option.
-    -   If you're connected through ethernet, try removing the cable from your computer then plugging it in again.
-3.  If this doesn't solve your issue, try turning your computer off then on.
+    - If you're connected through **Wifi**, try turning off then on the **Wifi** option.
+    - If you're connected through ethernet, try removing the cable from your computer then plugging it in again.
+3. If this doesn't solve your issue, try turning your computer off then on.
 
-4.  If this doesn't solve your issue, go check your router.
+4. If this doesn't solve your issue, go check your router.
 
     A red blinking red light might be sign of a problem with the router's connection.
 
-5.  If it does seem to be malfunctioning, try turning it off and on.
+5. If it does seem to be malfunctioning, try turning it off and on.
 
-6.  If after rebooting the issue persists, try calling your ISP or go see your local IT shop.
+6. If after rebooting the issue persists, try calling your ISP or go see your local IT shop.
 
 ## Conclusion
 
