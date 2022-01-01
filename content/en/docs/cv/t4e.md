@@ -15,7 +15,7 @@ toc: true
 
 <img src="../../t4e_logo.png" alt=" slice atop a pile of other slices" style="max-width:100px; max-height:69px;  width: auto;  height: auto;">
 
-#### Description of tasks
+## Description of tasks
 
 - Organization and management of multilingual translation projects.
 - Analysis and preparation of work packages for CAT tools.
@@ -24,7 +24,7 @@ toc: true
 - Translation quality monitoring.
 - Management of a shared email inbox.
 
-#### Tools used
+## Tools used
 
 <table style="table-layout: fixed; width: 100%;">
 <tbody>

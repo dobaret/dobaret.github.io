@@ -15,13 +15,13 @@ toc: true
 
 <img src="../../talend_logo.png" alt="Grapefruit slice atop a pile of other slices" style="max-width:69px; max-height:69px;  width: auto;  height: auto;">
 
-#### Description of tasks
+## Description of tasks
 
 - Technical writing in DITA, managed through Git (e.g. updates to the internal localization guidelines of documentation and products).
 - Creation of "how-to" software tutorials.  
 - EN>FR translation.
 
-#### Tools used
+## Tools used
 
 <table style="table-layout: fixed; width: 100%;">
 <tbody>

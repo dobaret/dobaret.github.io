@@ -15,12 +15,12 @@ toc: true
 
 <img src="../../inra_logo.jpg" alt=" slice atop a pile of other slices" style="max-width:100px; max-height:69px;  width: auto;  height: auto;">
 
-#### Description of tasks
+## Description of tasks
 
 - Scientific translation and terminology for the ATOL ontology (atol-ontology.com).
   - English to French translation of the names and definitions of the phenotypical traits of livestock.
 
-#### Tools used
+## Tools used
 
 <table style="table-layout: fixed; width: 100%;">
 <tbody>

@@ -15,7 +15,7 @@ toc: true
 
 <img src="../../paris_logo.jpg" alt="Grapefruit slice atop a pile of other slices" style="max-width:69px; max-height:69px;  width: auto;  height: auto;">
 
-#### Description
+## Description
 
 - Bilingual Master's degree (EN/FR) and apprenticeship (2 weeks at a company / 2 weeks at university).
   - Courses in technical writing, in its technologies (DITA), introduction to e-learning.

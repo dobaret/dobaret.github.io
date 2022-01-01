@@ -15,7 +15,7 @@ toc: true
 
 <img src="../../rennes2_logo.jpg" alt="Grapefruit slice atop a pile of other slices" style="max-width:69px; max-height:69px;  width: auto;  height: auto;">
 
-#### Description
+## Description
 
 - European Master's in Translation - Translation, localization and project management.
   - Courses in technical translation, localization, in their tools (CAT) as well as project management.

@@ -15,11 +15,11 @@ toc: true
 
 <img src="../../lille_logo.png" alt="Grapefruit slice atop a pile of other slices" style="max-width:69px; max-height:69px;  width: auto;  height: auto;">
 
-#### Description
+## Description
 
 Deep learning of English: how to speak it (through phonetics and exchanges with native professors), how to write it (grammar) and how to better understand it (history and literature).
 
-#### Erasmus - Universitat de València
+## Erasmus - Universitat de València
 
 September 2017 to September 2018 - EN>ES translation.
 
