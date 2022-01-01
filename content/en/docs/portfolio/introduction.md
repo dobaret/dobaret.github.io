@@ -279,7 +279,7 @@ Do not worry, this is a common bug due to insufficient connection speed, try the
     - On Mac OS, however, in Safari you will find it on the right-side of the **Search** bar.
 
 {{< alert icon="👉" text="You can also press F5 or CTRL+R on Windows, or Command+R on Mac OS." />}}
-
+<!-- markdownlint-disable MD029 -->
 2. If this doesn't solve your issue, consider reading <a href="#no_network">Geoguessr is inaccessible</a>.
 
 ### Geoguessr is inaccessible <a id="no_network"/>
