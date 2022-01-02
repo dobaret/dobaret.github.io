@@ -262,7 +262,7 @@ Here are a few issues reported by our readers while playing Geoguessr, and our s
 
 ### The Geoguessr Panorama displays a black screen
 
-geoguessr only shows me a black screen, aaaaaaaggghhhh!!!!!!!!
+> geoguessr only shows me a black screen, aaaaaaaggghhhh!!!!!!!!
 
 <br/>
 
@@ -284,7 +284,7 @@ Do not worry, this is a common bug due to insufficient connection speed, try the
 
 ### Geoguessr is inaccessible <a id="no_network"/>
 <!-- markdownlint-disable MD029 MD030 -->
-i can't reach geoguessr.com anymore! pls halp!
+> i can't reach geoguessr.com anymore! pls halp!
 
 <br/>
 
