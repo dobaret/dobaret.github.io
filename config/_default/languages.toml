@@ -4,6 +4,7 @@
   weight = 10
   [en.params]
     languageISO = "EN"
+    footer = "Written in Markdown and powered by <a href=\"https://www.netlify.com/\">Netlify</a>, <a href=\"https://gohugo.io/\">Hugo</a> and <a href=\"https://getdoks.org/\">Doks</a>."
 
 [de]
   languageName = "de"
@@ -30,5 +31,5 @@
   weight = 10
   [fr.params]
     languageISO = "FR"
-    footer = "Ce site fonctionne grâce à <a href=\"https://www.netlify.com/\">Netlify</a>, <a href=\"https://gohugo.io/\">Hugo</a> et <a href=\"https://getdoks.org/\">Doks</a>."
+    footer = "Ce site a été écrit en Markdown et fonctionne grâce à <a href=\"https://www.netlify.com/\">Netlify</a>, <a href=\"https://gohugo.io/\">Hugo</a> et <a href=\"https://getdoks.org/\">Doks</a>."
 

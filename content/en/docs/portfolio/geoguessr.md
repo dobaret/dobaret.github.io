@@ -4,7 +4,7 @@ description: ""
 lead: ""
 date: 2020-11-16T13:59:39+01:00
 lastmod: 2020-11-16T13:59:39+01:00
-draft: true
+draft: false
 images: []
 menu:
   docs:
@@ -157,7 +157,7 @@ The Controls have multiple purposes:
 
   - After it is clicked, <img src="../../return_to_checkpoint.png"> appears and allows the player to **Return to checkpoint**.
 
-        It can also be triggered by pressing **C**, once a checkpoint has been set.
+    It can also be triggered by pressing **C**, once a checkpoint has been set.
 
 - The <img src="../../undo_move.png"> allows the player to **Undo move**.
 
