@@ -10,11 +10,11 @@
   identifier = "edu"
   url = "/docs/edu/"
 
-[[docs]]
-  name = "Portfolio"
-  weight = 70
-  identifier = "portfolio"
-  url = "/docs/portfolio/"
+# [[docs]]
+#  name = "Portfolio"
+#  weight = 70
+#  identifier = "portfolio"
+#  url = "/docs/portfolio/"
 
 [[main]]
   name = "Docs"
