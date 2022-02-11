@@ -1,6 +1,4 @@
-assets/scss/vendor
-assets/scss/app.scss
-assets/scss/common
-assets/scss/components
-assets/scss/layouts
+assets/scss/common/_dark.scss
+assets/scss/common/_global.scss
+assets/scss/common/_variables.scss
 node_modules
