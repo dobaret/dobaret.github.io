@@ -1,5 +1,5 @@
 [en]
-  languageName = "en"
+  languageName = "🇺🇸 English"
   contentDir = "content/en"
   weight = 10
   [en.params]
@@ -26,7 +26,7 @@
     alertText = "Introductie van het Doks-kinderthema, verschillende DX + UX-updates en meer! <a class=\"alert-link stretched-link\" href=\"https://getdoks.org/blog/doks-v0.2/\">Bekijk Doks v0.2</a>"
 	
 [fr]
-  languageName = "fr"
+  languageName = "🇫🇷 Français"
   contentDir = "content/fr"
   weight = 10
   [fr.params]
