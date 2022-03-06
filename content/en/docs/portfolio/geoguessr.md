@@ -77,7 +77,6 @@ Geoguessr is an online video game. Geoguessr takes you around the world, as a ch
 Geoguessr is a freemium. Let's define what a freemium is:
 
 > A combination of the words "free" and "premium," freemium \[...\] offers basic features of a product or service to users at no cost and charges a premium for supplemental \[...\] features.
-
 > [*Investopedia*](https://www.investopedia.com/terms/f/freemium.asp)
 
 In its paid version, the game uses imagery from Google Street View. Google Street View provides interactive Panoramas from locations all around the world.
@@ -152,13 +151,10 @@ In Pro Leagues, you can create or join **leagues** to compete with friends.
 
 Map Maker allows you to create your own Geoguessr Map. Let's discover how to use this mode.
 
-1.  Open [Geoguessr](https://www.geoguessr.com/).
-
-2.  Click **Classic**.
-
-3.  Click Map Maker.
-
-4.  Select your locations using the method of your choice.
+1. Open [Geoguessr](https://www.geoguessr.com/).
+2. Click **Classic**.
+3. Click Map Maker.
+4. Select your locations using the method of your choice.
 
     -   You can use **Handpicked Locations** <img src="../../handpicked.png">.
 
@@ -180,31 +176,23 @@ Map Maker allows you to create your own Geoguessr Map. Let's discover how to use
         </figure>
         </div>
 
-5.  Enter your Map **name**.
-
-6.  Enter your Map **description**.
-
-7.  Select your Map **avatar**.
+5. Enter your Map **name**.
+6. Enter your Map **description**.
+7. Select your Map **avatar**.
 
     By default, the **avatar** is the following:</br>
     <img src="../../avatar_default.png" alt="The default Map avatar.">
 
-    1.  Select a **background**.</br>
+    1. Select a **background**.</br>
         <img src="../../avatar_background.png" alt="The Map avatar with a different background than the default background.">
-
-    2.  Select a **ground**.</br>
+    2. Select a **ground**.</br>
         <img src="../../avatar_ground.png" alt="The Map avatar with a different ground than the default ground.">
-
-    3.  Select a **landscape**.</br>
+    3. Select a **landscape**.</br>
         <img src="../../avatar_landscape.png" alt="The Map avatar with a different landscape than the default landscape.">
-
-    4.  Select **decorations**.</br>
+    4. Select **decorations**.</br>
         <img src="../../avatar_decorations.png" alt="The Map avatar with different decorations than the default decorations.">
-
-8.  Select **Visible to others**.
-
-9.  Select **Highlight on profile page**.
-
+8. Select **Visible to others**.
+9. Select **Highlight on profile page**.
 10. Click **Create map**.
 
 You have created your very own Geoguessr Map! Congratulations. You can now share it with friends.
@@ -355,15 +343,13 @@ You can choose to start a game of Geoguessr with Default Settings or Custom Sett
 
 Most players use **Default settings**. **Default settings** are a great pick as a beginner.
 
-1.  Open [Geoguessr](https://www.geoguessr.com/).
-
-2.  Click **Classic**.
-
-3.  Click on the Map of your choice.
+1. Open [Geoguessr](https://www.geoguessr.com/).
+2. Click **Classic**.
+3. Click on the Map of your choice.
 
     You could give **World** a try.
 
-4.  Click **Start game!** when you are ready.
+4. Click **Start game!** when you are ready.
 
 You are put in a random place in the Map of your choice. Break a leg!
 
@@ -371,21 +357,18 @@ You are put in a random place in the Map of your choice. Break a leg!
 
 Fewer players use **Custom settings** than Default Settings. **Custom settings** suit advanced players better.
 
-1.  Open [Geoguessr](https://www.geoguessr.com/).
-
-2.  Click **Classic**.
-
-3.  Click on the Map of your choice.
+1. Open [Geoguessr](https://www.geoguessr.com/).
+2. Click **Classic**.
+3. Click on the Map of your choice.
 
     You could give **World** a try.
 
-4.  Uncheck **Use default settings**.
-
-5.  Set a custom **Time limit** by dragging the handle <img src="../../cursor.png" alt="The time limit handle in Custom Settings to start a game in Geoguessr. It is a circle."> from left to right.
+4. Uncheck **Use default settings**.
+5. Set a custom **Time limit** by dragging the handle <img src="../../cursor.png" alt="The time limit handle in Custom Settings to start a game in Geoguessr. It is a circle."> from left to right.
 
     By default, the handle is on the far left, which means **No time limit**. The more you drag it to the right, the more time you add, up to 10 minutes a round.
 
-6.  Set custom **Movement settings**.
+6. Set custom **Movement settings**.
 
     The default option is **Moving, panning and zooming allowed**. 4 other options are available:
 
@@ -394,7 +377,7 @@ Fewer players use **Custom settings** than Default Settings. **Custom settings**
     -   No move, no zoom
     -   No move, no pan, no zoom
 
-7.  Click **Start game!** when you are ready.
+7. Click **Start game!** when you are ready.
 
 You are put in a random place in the Map of your choice. Break a leg!
 
@@ -1012,7 +995,7 @@ Recognizing Asian languages is difficult. Let's explore their writing difference
 
 Let's try distinguishing East Asian countries through their writing:
 
-1.  You can recognize written Korean through two characteristics: it has the most right-angles, and bears a significant amount of ovals and circles.
+1. You can recognize written Korean through two characteristics: it has the most right-angles, and bears a significant amount of ovals and circles.
 
     Hangul is an alphabet, it has a limited amount of characters.
 
@@ -1023,7 +1006,7 @@ Let's try distinguishing East Asian countries through their writing:
         </figure>
         </div>
 
-2.  Written Mandarin, the largest dialect group in China, does not have an alphabet.
+2. Written Mandarin, the largest dialect group in China, does not have an alphabet.
 
     Mandarin has different characters, with unique meanings, which can be assembled to form words. As a consequence, Mandarin characters are dense.
 
@@ -1036,7 +1019,7 @@ Let's try distinguishing East Asian countries through their writing:
 
     {{< alert icon="💡" >}}Google Street View does not cover mainland China. If you recognize Mandarin, you should be either in Hong Kong or Taiwan. In Hong Kong, as a former British colony, you will spot a lot of English text as well. Taiwan is mountainous in its center, and looks tropical.{{< /alert >}}
     
-3.  You can recognize Japanese because, in comparison to Mandarin, it has simpler characters. They are also more visually open.
+3. You can recognize Japanese because, in comparison to Mandarin, it has simpler characters. They are also more visually open.
 
     <div style="text-align: center;">
         <figure>
@@ -1056,7 +1039,7 @@ Let's try distinguishing East Asian countries through their writing:
 
 Let's try distinguishing Southeast Asian countries through their writing:
 
-1.  Thai bears loops or circles in its characters.
+1. Thai bears loops or circles in its characters.
 
     <div style="text-align: center;">
         <figure>
@@ -1065,7 +1048,7 @@ Let's try distinguishing Southeast Asian countries through their writing:
         </figure>
         </div>
 
-2.  If you are familiar with Hindi writing, you will undoubtedly recognize it as similar to Bengali.
+2. If you are familiar with Hindi writing, you will undoubtedly recognize it as similar to Bengali.
 
     A horizontal bar runs through words in both Bengali and Hindi. However, Google Street View does not cover India.
 
@@ -1076,7 +1059,7 @@ Let's try distinguishing Southeast Asian countries through their writing:
         </figure>
         </div>
 
-3.  You can recognize Khmer \(the language of Cambodia\) through the wave pattern in some of its characters. It also has loops, although some of them are not closed.
+3. You can recognize Khmer \(the language of Cambodia\) through the wave pattern in some of its characters. It also has loops, although some of them are not closed.
 
     <div style="text-align: center;">
         <figure>
@@ -1085,7 +1068,7 @@ Let's try distinguishing Southeast Asian countries through their writing:
         </figure>
         </div>
 
-4.  Singapore is a linguistically unique place.
+4. Singapore is a linguistically unique place.
 
     In Singapore, you will find a majority of English, notably in road signs. However, Asian influence shows in the names of streets and districts. This includes names such as "Ang Mo Kio", "Serangoon Gardens" and "Tiong Bahru".
 
@@ -1098,7 +1081,7 @@ Let's try distinguishing Southeast Asian countries through their writing:
         </figure>
         </div>
 
-5.  The Philippines gained independence from the United States of America in 1946.
+5. The Philippines gained independence from the United States of America in 1946.
 
     They were previously a colony of Spain. You can recognize the influences of both English and Spanish in the Philippines.
 
@@ -1119,7 +1102,7 @@ A barangay is:
 You can zoom in the Map to find the word abbreviated by "BRGY." followed by its number.
 {{< /alert >}}
 
-6.  Lastly, Malay and Indonesian are mutually intelligible. Both languages use the letter a often.
+6. Lastly, Malay and Indonesian are mutually intelligible. Both languages use the letter a often.
 
     <div style="text-align: center;">
         <figure>
@@ -1524,13 +1507,13 @@ To validate a Geoguessr record, you need video proof. Windows includes a native 
 
 Make sure your computer runs Windows 10, or a later version of Windows.
 
-1.  Click **Start** \> **Xbox game bar**.
+1. Click **Start** \> **Xbox game bar**.
 
     You can also use Windows+G.
 
-2.  Click **Capture**.
+2. Click **Capture**.
 
-3.  Click **Start recording**.
+3. Click **Start recording**.
 
     You can also use Windows+Alt+R.
 
@@ -1542,11 +1525,11 @@ Make sure your computer runs Windows 10, or a later version of Windows.
         </figure>
         </div>
 
-4.  Click **Start microphone recording** to include your voice in the clip.
+4. Click **Start microphone recording** to include your voice in the clip.
 
 {{< alert icon="⚠️" >}}You must have functioning audio input.{{< /alert >}}
 
-5.  Click **Stop recording** after capturing your game.
+5. Click **Stop recording** after capturing your game.
 
 By default, Windows saves the recordings in C:\\Users\\YourUserName\\Videos\\Captures.
 
