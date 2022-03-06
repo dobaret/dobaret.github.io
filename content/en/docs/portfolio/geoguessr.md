@@ -703,7 +703,7 @@ Take a look at the following Map. Google Street View covers these countries.
 |<img src="../../private_businesses_tourist.png" alt="A dark green square.">|Countries with views of selected businesses and/or tourist attractions only|
 |<img src="../../private_businesses_only.png" alt="A light green square.">|Countries with views of private businesses only|
 |<img src="../../no_coverage.png" alt="A gray square.">|Countries with no current or planned coverage|
-
+<!-- markdownlint-disable MD001 -->
 ##### Using the location of the Sun to determine your hemisphere
 
 You can use the location of the sun in the sky to know which part of the world you are in.
@@ -1017,7 +1017,7 @@ Let's try distinguishing East Asian countries through their writing:
         </div>
 
     {{< alert icon="💡" >}}Google Street View does not cover mainland China. If you recognize Mandarin, you should be either in Hong Kong or Taiwan. In Hong Kong, as a former British colony, you will spot a lot of English text as well. Taiwan is mountainous in its center, and looks tropical.{{< /alert >}}
-    
+
 3. You can recognize Japanese because, in comparison to Mandarin, it has simpler characters. They are also more visually open.
 
     <div style="text-align: center;">
@@ -1099,7 +1099,7 @@ A barangay is:
 
 You can zoom in the Map to find the word abbreviated by "BRGY." followed by its number.
 {{< /alert >}}
-
+<!-- markdownlint-disable MD029 -->
 6. Lastly, Malay and Indonesian are mutually intelligible. Both languages use the letter a often.
 
     <div style="text-align: center;">
@@ -1454,7 +1454,7 @@ It seems you are not connected to the Internet anymore. Try the following course
 -   Retired Records.
 
 You can choose to limit yourself in order to make the game harder, with one of the following restrictions:
-
+<!-- markdownlint-disable MD001 -->
 ##### NM: No moving
 
 In a NM (No Moving) game, you cannot move. However, you can pan or zoom. NM makes use of Custom Settings.
@@ -1551,7 +1551,7 @@ You can of course learn patterns and clues inherent to Geoguessr. However, what 
 ### More Resources
 
 If you are still here, here are a few resources to be a Geoguessr Master.
-
+<!-- markdownlint-disable MD001 -->
 ##### Become a vexillologist
 
 You may be thinking: vexillo... what?!
