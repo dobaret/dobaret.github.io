@@ -12,7 +12,7 @@ menu:
 weight: 150
 toc: true
 ---
-
+<!-- markdownlint-disable MD001 -->
 {{< alert icon="⚠️" >}}
 This guide was originally written in DITA, then transformed to Markdown through the <a href="https://github.com/dita-ot/dita-ot">DITA Open Toolkit</a>. As a result, it may contain errors.<br/><br/>Thank you for your understanding.
 {{< /alert >}}
@@ -421,13 +421,13 @@ Let's divide the Geoguessr interface into 7 zones, with the following names:
 
 There are 5 different Controls:
 
-##### Zoom
+###### Zoom
 
 <img src="../../zoom_in.png" alt="Zoom in button, a plus sign."> allows you to zoom in in the Panorama.
 
 <img src="../../zoom_out.png" alt="Zoom out button, a minus sign."> allows you to zoom out in the Panorama.
 
-##### Options
+###### Options
 
 <img src="../../options.png" alt="Options button, a cog."> allows you to access the **Options**.
 
@@ -435,25 +435,25 @@ In the **Options**, you can control the **Effect volume** and the **Music volume
 
 You can turn **ON** or **OFF** the **Sound**, **Classic Compass** and **Fullscreen**.
 
-##### Return to start
+###### Return to start
 
 <img src="../../return_to_start.png" alt="Return to start button, a flag."> allows you to **Return to start**.
 
 {{< alert icon="💡" >}}You can also trigger the function by pressing **R** anytime during a game.{{< /alert >}}
 
-##### Set checkpoint
+###### Set checkpoint
 
 <img src="../../set_checkpoint.png" alt="Set checkpoint button, a pin."> allows you to **Set checkpoint**.
 
 {{< alert icon="💡" >}}You can also trigger the function by pressing **C** anytime during a game.{{< /alert >}}
 
-##### Return to checkpoint
+###### Return to checkpoint
 
 <img src="../../return_to_checkpoint.png" alt="Return to checkpoint button, a pin with an arrow."> appears appears after clicking <img src="../../set_checkpoint.png" alt="Set checkpoint button, a pin.">. <img src="../../return_to_checkpoint.png" alt="Return to checkpoint button, a pin with an arrow."> allows you to **Return to checkpoint**.
 
 {{< alert icon="💡" >}}You can also trigger the function by pressing **C**, once a checkpoint has been set.{{< /alert >}}
 
-##### Undo move
+###### Undo move
 
 <img src="../../undo_move.png" alt="Undo move button, a backward arrow."> allows you to **Undo move**.
 
@@ -468,7 +468,7 @@ You can turn **ON** or **OFF** the **Sound**, **Classic Compass** and **Fullscre
         </figure>
         </div>
 
-##### Presentation
+###### Presentation
 
 The Compass automatically displays the orientation of your view in its center, as you move through the Panorama. By default, at the beginning of each round, you face North.
 
@@ -485,7 +485,7 @@ The Compass automatically displays the orientation of your view in its center, a
 |SE|Southeast|
 |NE|Northeast|
 
-##### Using the Compass to pinpoint your location
+###### Using the Compass to pinpoint your location
 
 You can use the Compass and the Map to identify which street you may be in. American cities, for example, use a grid system, allowing you to identify possible locations. This is less effective in a city constructed in a more organic manner (in Europe for example).
 
@@ -540,19 +540,19 @@ The Geoguessr Status displays three information:
 
 The Geoguessr Map displays Google Maps in a small window. You are free to zoom in and zoom out of the Map to figure out your location. You can then click anywhere to put down your guessed location.
 
-##### Zoom
+###### Zoom
 
 <img src="../../zoom_in.png" alt="Zoom in button, a plus sign."> allows you to zoom in the Map.
 
 <img src="../../zoom_out.png" alt="Zoom out button, a minus sign."> allows you to zoom out in the Map.
 
-##### Map size
+###### Map size
 
 <img src="../../increase_size.png" alt="The button to increase the size of the Map. It is an arrow pointing to the Northwest."> allows you to make the Map window bigger, while <img src="../../decrease_size.png" alt="The button to decrease the size of the Map. It is an arrow pointing to the Southwest."> allows you to make the Map smaller.
 
 <img src="../../sticky_map.png" alt="The button to set the size of the Map. It is a pin pointing to the South."> allows you to keep the Map window in its expanded state. <img src="../../sticky_map_left.png" alt="The button to unset the size of the Map. It is a pin pointing to the East."> allows you to make the Map window non-expanded again.
 
-##### Guess button
+###### Guess button
 
 The Guess button displays **Place your pin on the Map** before you choose a location.
 
@@ -564,7 +564,7 @@ The Panorama is a feature of Google Maps, called Street View. The Panorama is a 
 
 Three actions are available in the Panorama: moving, panning and zooming.
 
-##### Original location
+###### Original location
 
 <div style="text-align: center;">
         <figure>
@@ -572,7 +572,7 @@ Three actions are available in the Panorama: moving, panning and zooming.
         </figure>
         </div>
 
-##### Moving
+###### Moving
 
 <div style="text-align: center;">
         <figure>
@@ -582,7 +582,7 @@ Three actions are available in the Panorama: moving, panning and zooming.
 
 Moving allows you to go to the next available location.
 
-##### Panning
+###### Panning
 
 <div style="text-align: center;">
         <figure>
@@ -598,7 +598,7 @@ Spanning allows you to rotate on yourself, while staying in the same location.
         </figure>
         </div>
 
-##### Zooming
+###### Zooming
 
 <div style="text-align: center;">
         <figure>
@@ -627,7 +627,7 @@ The Panorama changes to the next available image after clicking the Movement Arr
 
 Image Metadata indicate the origin of the Panorama.
 
-##### Regular Image Metadata
+###### Regular Image Metadata
 
 In Regular Image Metadata, you can see the name of the company responsible for the Panorama (Google or Mapillary). You can also read the **Terms of Use** of Google or Mapillary, and **Report a problem**.
 
@@ -638,7 +638,7 @@ In Regular Image Metadata, you can see the name of the company responsible for t
         </figure>
         </div>
 
-##### Photo Spheres Image Metadata
+###### Photo Spheres Image Metadata
 
 <div style="text-align: center;">
         <figure>
@@ -703,8 +703,8 @@ Take a look at the following Map. Google Street View covers these countries.
 |<img src="../../private_businesses_tourist.png" alt="A dark green square.">|Countries with views of selected businesses and/or tourist attractions only|
 |<img src="../../private_businesses_only.png" alt="A light green square.">|Countries with views of private businesses only|
 |<img src="../../no_coverage.png" alt="A gray square.">|Countries with no current or planned coverage|
-<!-- markdownlint-disable MD001 -->
-##### Using the location of the Sun to determine your hemisphere
+
+###### Using the location of the Sun to determine your hemisphere
 
 You can use the location of the sun in the sky to know which part of the world you are in.
 
@@ -750,7 +750,7 @@ You will find the best represented countries in the following table. This table 
 |Nigeria|<ol><li>Right-hand traffic and kph.</li><li>Nigerians mostly speak English.</li><li>[Roof Racks](03_08_01_roof_rack.md), see [Nigeria](03_08_01_roof_rack.md#nigeria).<ul><li>A white Toyota pick-up truck can follow you.</li></ul></li></ul>
 |Tunisia|<ol><li>Right-hand traffic and kph.</li><li>Tunisians mostly speak Arabic, followed by French. Road signs in Tunisia are in Arabic and French.</li><li>Due to French influence, French brands of cars are popular. You can spot Renault <img src="../../renault.png" alt="The logo of Renault, a lozenge."> and Citroën <img src="../../citroen.png" alt="The logo of Citroën, one chevron over another."> cars.
 
-##### Climate
+###### Climate
 
 <div style="text-align: center;">
         <figure>
@@ -793,7 +793,7 @@ You will find the best represented countries in the following table. This table 
 |Singapore|<ol><li>Left-hand traffic and kph.</li><li>In Singapore, you will find a majority of English, notably in road signs. However, Asian influence shows in the names of streets and districts.</li><li>Singapore appears very frequently in Geoguessr.</li></ol>
 |Philippines|<ol><li>Right-hand traffic and kph.</li><li>You can recognize the influences of both English and Spanish in the Philippines.</li></ol>
 
-##### Climate
+###### Climate
 
 <div style="text-align: center;">
         <figure>
@@ -821,7 +821,7 @@ As far as road-handedness goes, all European countries but the United Kingdom, M
 
 Languages should offer you a better chance of finding your location, consult European Languages.
 
-##### Climate
+###### Climate
 
 <div style="text-align: center;">
         <figure>
@@ -853,7 +853,7 @@ Canada and the United States of America are harder to distinguish. Both countrie
         </figure>
         </div>
 
-##### Climate
+###### Climate
 
 <div style="text-align: center;">
         <figure>
@@ -894,7 +894,7 @@ Both countries speak English and drive on the left-side on the road.
 
 New Zealand is more mountainous than Australia. A large part of Australia, the Outback, is a desert.
 
-##### Climate
+###### Climate
 
 <div style="text-align: center;">
         <figure>
@@ -914,7 +914,7 @@ Regarding climate, New Zealand is colder, and as a consequence "greener".
         </figure>
         </div>
 
-##### Brazil
+###### Brazil
 
 You can easily recognize the Southeast of Brazil thanks to *terra rossa*, a rich dark red soil.
 
@@ -926,7 +926,7 @@ You can easily recognize the Southeast of Brazil thanks to *terra rossa*, a rich
         </figure>
         </div>
 
-##### Climate
+###### Climate
 
 <div style="text-align: center;">
         <figure>
@@ -983,7 +983,7 @@ A *lingua franca* is:
 
 Recognizing Asian languages is difficult. Let's explore their writing differences.
 
-##### Languages of East Asia
+###### Languages of East Asia
 
 <div style="text-align: center;">
         <figure>
@@ -1027,7 +1027,7 @@ Let's try distinguishing East Asian countries through their writing:
         </figure>
         </div>
 
-##### Languages of Southeast Asia
+###### Languages of Southeast Asia
 
 <div style="text-align: center;">
         <figure>
@@ -1140,17 +1140,17 @@ You can zoom in the Map to find the word abbreviated by "BRGY." followed by its 
 |<img src="../../uralic_languages.png" alt="A dark green square.">|Uralic languages|
 |<img src="../../baltic_languages.png" alt="A dark blue square.">|Baltic languages|
 
-##### Romance Languages
+###### Romance Languages
 
 By numbers of native speakers, Romance languages are French, Italian, Spanish, Romanian, Portuguese and Catalan.
 
 Click the following link to read a comparison of [Spanish vs. Portuguese](03_07_06_south_america_languages.md#spa_vs_port).
 
-##### Germanic Languages
+###### Germanic Languages
 
 By numbers of native speakers, Germanic languages are German, English, Dutch, Swedish, Danish, Norwegian, Luxembourgish and Icelandic.
 
-##### Slavic Languages
+###### Slavic Languages
 
 There are two groups of Slavic languages: Cyrillic script languages and Latin script languages.
 
@@ -1172,7 +1172,7 @@ By numbers of native speakers, Latin Slavic languages are Polish, Czech, Serbian
         </figure>
         </div>
 
-##### Uralic Languages
+###### Uralic Languages
 
 By numbers of native speakers, Uralic languages are Hungarian, Finnish and Estonian.
 
@@ -1187,7 +1187,7 @@ You can recognize Finnish and Estonian through their repeated letters. You can r
 
  {{< alert icon="💡" >}}If you spot a lot of double letters and the letters "õ" and "ü", you should be looking at Estonian.{{< /alert >}}
 
-##### Baltic Languages
+###### Baltic Languages
 
 By numbers of native speakers, Baltic languages are Lithuanian and Latvian.
 
@@ -1200,7 +1200,7 @@ By numbers of native speakers, Baltic languages are Lithuanian and Latvian.
 
  {{< alert icon="💡" >}}In European languages, Latvian is the only language to have the letter "ī" (an "i" with a horizontal bar).{{< /alert >}}
 
-##### Others
+###### Others
 
 The four following languages are the only ones of their family group in Europe: Turkish, Greek, Albanian and Basque.
 
@@ -1265,7 +1265,7 @@ At the moment of writing, Geoguessr only covers Australia and New Zealand in Oce
 
 Most countries in South America speak Spanish. The exceptions are Guyana, Suriname and French Guiana. You will not find Guyana, Suriname or French Guiana in Geoguessr.
 
-##### Spanish vs. Portuguese
+###### Spanish vs. Portuguese
 
 <div style="text-align: center;">
         <figure>
@@ -1306,7 +1306,7 @@ Roof racks are a recurring motif in African countries. Roof racks hold the 360°
 
 {{< alert icon="⚠️" >}}Not all images from a given country are taken from the same car. Try to find other hints.{{< /alert >}}
 
-##### Ghana
+###### Ghana
 
 In Ghana, for example, the roof rack has black tape on one of its sides.
 
@@ -1317,7 +1317,7 @@ In Ghana, for example, the roof rack has black tape on one of its sides.
         </figure>
         </div>
 
-##### Nigeria
+###### Nigeria
 
 In Nigeria, the roof rack has black-and-yellow tape.
 
@@ -1328,7 +1328,7 @@ In Nigeria, the roof rack has black-and-yellow tape.
         </figure>
         </div>
 
-##### Kenya
+###### Kenya
 
 In Kenya, the roof rack bears no significant hint. However, on the left front of the car you can spot a protruding arm.
 
@@ -1341,7 +1341,7 @@ In Kenya, the roof rack bears no significant hint. However, on the left front of
 
 Two non-African countries use a roof rack: Mongolia and Kyrgyzstan.
 
-##### Mongolia
+###### Mongolia
 
 In Mongolia, the roof rack has two beams crossing the racks.
 
@@ -1352,7 +1352,7 @@ In Mongolia, the roof rack has two beams crossing the racks.
         </figure>
         </div>
 
-##### Kyrgyzstan
+###### Kyrgyzstan
 
 In Kyrgyzstan, the roof rack has no distinguishing feature. Try to find other hints.
 
@@ -1454,8 +1454,8 @@ It seems you are not connected to the Internet anymore. Try the following course
 -   Retired Records.
 
 You can choose to limit yourself in order to make the game harder, with one of the following restrictions:
-<!-- markdownlint-disable MD001 -->
-##### NM: No moving
+
+###### NM: No moving
 
 In a NM (No Moving) game, you cannot move. However, you can pan or zoom. NM makes use of Custom Settings.
 
@@ -1466,7 +1466,7 @@ In a NM (No Moving) game, you cannot move. However, you can pan or zoom. NM make
         </figure>
         </div>
 
-##### NMPZ: No moving, panning or zooming
+###### NMPZ: No moving, panning or zooming
 
 In a NMPZ (No Moving Panning or Zooming) game, you cannot move, pan or zoom. NMPZ makes use of Custom Settings.
 
@@ -1481,7 +1481,7 @@ No player has ever had a perfect game (25,000 points) playing this way.
         </figure>
         </div>
 
-##### NCNC: No Car No Compass
+###### NCNC: No Car No Compass
 
 You can choose to apply scripts to Geoguessr to make the game harder. For example, in "NCNC" or "No Car No Compass" you choose to gray out the car. You cannot get a clue from it (see Meta Clues).
 
@@ -1551,8 +1551,8 @@ You can of course learn patterns and clues inherent to Geoguessr. However, what 
 ### More Resources
 
 If you are still here, here are a few resources to be a Geoguessr Master.
-<!-- markdownlint-disable MD001 -->
-##### Become a vexillologist
+
+###### Become a vexillologist
 
 You may be thinking: vexillo... what?!
 
@@ -1560,7 +1560,7 @@ While playing Geoguessr, you often spot flags. Therefore, vexillology, or the st
 
 {{< alert icon="💡" >}}The subreddit [/r/Vexillology](https://www.reddit.com/r/vexillology) is quite interesting, while the website [Flags of the World Quiz](https://world-geography-games.com/en/flags_world.html) can also be a good resource.{{< /alert >}}
 
-##### Grow into an Internet country domains expert
+###### Grow into an Internet country domains expert
 
 You may be saying: what is that again?
 
@@ -1572,7 +1572,7 @@ For example, `.za` stands for Zuid-Afrika, meaning South-Africa. `.dz` stands fo
 
 {{< alert icon="💡" >}}A good resource is the website [WorldStandards](https://www.worldstandards.eu/other/tlds/).{{< /alert >}}
 
-##### Learn from the best
+###### Learn from the best
 
 Tom Davies, better known as [GeoWizard](https://www.youtube.com/c/GeoWizard), is a British YouTuber specialized in Geoguessr play-alongs, as well as hiking. He currently holds the third best time in the [25k Speedrun category](https://geotips.net/world-records/) of Map **United Kingdom \(Better Map\)**. Click [here](https://www.youtube.com/watch?v=ztdEKJv8TTA) for his video on the subject.
 
