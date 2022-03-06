@@ -1,7 +1,6 @@
-assets/scss/components/_syntax.scss
-assets/scss/vendor
-assets/scss/app.scss
 assets/scss/common/_dark.scss
 assets/scss/common/_global.scss
 assets/scss/common/_variables.scss
+assets/scss/app.scss
+assets/scss/components/_buttons.scss
 node_modules

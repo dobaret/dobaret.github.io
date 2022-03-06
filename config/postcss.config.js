@@ -22,6 +22,8 @@ module.exports = {
         'td',
         'h5',
         'alert-link',
+		'container-xxl',
+		'container-fluid',
         ...whitelister([
           './node_modules/@hyas/doks/assets/scss/common/_variables.scss',
           './node_modules/@hyas/doks/assets/scss/components/_buttons.scss',
@@ -30,6 +32,8 @@ module.exports = {
           './node_modules/@hyas/doks/assets/scss/components/_search.scss',
           './node_modules/@hyas/doks/assets/scss/common/_dark.scss',
           './node_modules/katex/dist/katex.css',
+          './node_modules/@hyas/doks/assets/scss/components/_alerts.scss',
+          './node_modules/bootstrap/scss/_dropdown.scss',
         ]),
       ],
     }),
