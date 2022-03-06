@@ -156,7 +156,7 @@ Map Maker allows you to create your own Geoguessr Map. Let's discover how to use
 3. Click Map Maker.
 4. Select your locations using the method of your choice.
 
-    -   You can use **Handpicked Locations** <img src="../../handpicked.png">.
+    - You can use **Handpicked Locations** <img src="../../handpicked.png">.
 
     {{< alert icon="👉" >}}You must choose at least 5 locations.{{< /alert >}}
 
@@ -167,7 +167,7 @@ Map Maker allows you to create your own Geoguessr Map. Let's discover how to use
         </figure>
         </div>
 
-    -   You can use **Polygonal Regions** <img src="../../polygonal.png">.
+    - You can use **Polygonal Regions** <img src="../../polygonal.png">.
 
     <div style="text-align: center;">
         <figure>
@@ -317,15 +317,15 @@ In a Geoguessr **party**, you can play with one to 9 other players in a selected
 
 The games are the same as in Career Modes mode, but you can play them with players you choose. The games are:
 
--   Battle Royale Countries
--   Battle Royale Distance
--   City Streaks
--   Duels
--   Team Duels
+- Battle Royale Countries
+- Battle Royale Distance
+- City Streaks
+- Duels
+- Team Duels
 
     You can play **Team Duels** the same way as Duels. However, you and your friends have to be part of either a **Team Red** or a **Team Blue**. The closest guess per team wins.
 
--   **Bulls Eye**
+- **Bulls Eye**
 
     You can play **Bulls Eye** collaboratively with two to 5 other players. You have to guess your location by drawing a circle on the Map. If the location is inside the perimeter of the circle, the team wins points.
 
@@ -372,10 +372,10 @@ Fewer players use **Custom settings** than Default Settings. **Custom settings**
 
     The default option is **Moving, panning and zooming allowed**. 4 other options are available:
 
-    -   No move
-    -   No zoom
-    -   No move, no zoom
-    -   No move, no pan, no zoom
+    - No move
+    - No zoom
+    - No move, no zoom
+    - No move, no pan, no zoom
 
 7. Click **Start game!** when you are ready.
 
@@ -976,7 +976,6 @@ Often, the fastest way to recognize where you are is to read a road sign, or a b
 A *lingua franca* is:
 
 > a language used for communication between groups of people who speak different languages
-
 > [*Cambridge Dictionary*](https://dictionary.cambridge.org/dictionary/english/lingua-franca)
 {{< /alert >}}
 
@@ -1096,7 +1095,6 @@ Let's try distinguishing Southeast Asian countries through their writing:
 A barangay is:
 
 > the smallest administrative division in the Philippines and [...] the native Filipino term for a village, district, or ward.
-
 > [*Wikipedia*](https://en.wikipedia.org/wiki/Barangay)
 
 You can zoom in the Map to find the word abbreviated by "BRGY." followed by its number.
@@ -1218,7 +1216,6 @@ Greek has its own alphabet, present in no other language in the world.
 Basque is a language isolate.
 
 > Language isolates are languages that cannot be classified into larger language families with any other languages. Korean and Basque are two of the most commonly cited language isolates.
-
 > [*Wikipedia*](https://en.wikipedia.org/wiki/Language_isolate)
 
 <div style="text-align: center;">
