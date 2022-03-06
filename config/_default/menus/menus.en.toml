@@ -10,22 +10,25 @@
   identifier = "edu"
   url = "/docs/edu/"
 
-# [[docs]]
-#  name = "Portfolio"
-#  weight = 70
-#  identifier = "portfolio"
-#  url = "/docs/portfolio/"
+[[main]]
+  name = "Jobs"
+  url = "/docs/jobs/talend/"
+  weight = 10
 
 [[main]]
-  name = "Docs"
-  url = "/docs/cv/talend/"
-# url = "/docs/1.0/cv/talend/"
-  weight = 10
+  name = "Education"
+  url = "/docs/edu/uni-paris/"
+  weight = 20
 
 [[main]]
   name = "Contact"
   url = "/contact/"
-  weight = 20
+  weight = 40
+
+[[main]]
+  name = "Portfolio"
+  url = "/docs/portfolio/geoguessr/"
+  weight = 30
 
 [[social]]
   name = "GitHub"
