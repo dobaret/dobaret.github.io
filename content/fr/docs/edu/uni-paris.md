@@ -1,5 +1,5 @@
 ---
-title: "Université de Paris"
+title: "Université Paris Cité"
 description: "Septembre 2021 à septembre 2022 - Master en Communication Technique Multilingue (CTM)"
 lead: "Septembre 2021 à septembre 2022 - Master en Communication Technique Multilingue (CTM)"
 date: 2020-10-13T15:21:01+02:00

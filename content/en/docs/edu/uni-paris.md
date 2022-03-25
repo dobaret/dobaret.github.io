@@ -1,5 +1,5 @@
 ---
-title: "Université de Paris"
+title: "Université Paris Cité"
 description: "September 2021 to September 2022 - Master's degree in multingual technical communication (CTM)"
 lead: "September 2021 to September 2022 - Master's degree in multingual technical communication (CTM)"
 date: 2020-10-13T15:21:01+02:00
