@@ -17,6 +17,7 @@ toc: true
 
 ## Description
 
-- Bilingual Master's degree (EN/FR) and apprenticeship (2 weeks at a company / 2 weeks at university).
-  - Courses in technical writing, in its technologies (DITA), introduction to e-learning.
+Bilingual Master's degree (EN/FR) and apprenticeship (2 weeks at a company / 2 weeks at university).
+
+Courses in technical writing, in its technologies (DITA), introduction to e-learning.
   

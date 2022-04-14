@@ -17,6 +17,7 @@ toc: true
 
 #### Description
 
-- Master LEA bilingue anglais/français en alternance (2 semaines entreprise / 2 semaines université)
-  - Formation à la rédaction technique, à ses technologies (DITA), initiation à l'e-learning.
+Master LEA bilingue anglais/français en alternance (2 semaines entreprise / 2 semaines université)
+
+Formation à la rédaction technique, à ses technologies (DITA), initiation à l'e-learning.
   

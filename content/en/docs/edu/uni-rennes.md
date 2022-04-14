@@ -17,5 +17,6 @@ toc: true
 
 ## Description
 
-- European Master's in Translation - Translation, localization and project management.
-  - Courses in technical translation, localization, in their tools (CAT) as well as project management.
+European Master's in Translation - Translation, localization and project management.
+
+Courses in technical translation, localization, in their tools (CAT) as well as project management.
