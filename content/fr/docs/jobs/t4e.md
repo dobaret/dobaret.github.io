@@ -15,7 +15,7 @@ menu:
 ---
 <img src="../../t4e_logo.png" alt=" slice atop a pile of other slices" style="max-width:100px; max-height:69px;  width: auto;  height: auto;">
 
-![slice atop a pile of other slices](t4e_logo.png "A green sea turtle hatchling cautiously surfaces for air, to a sky full of hungry birds.")
+![slice atop a pile of other slices](../t4e_logo.png "A green sea turtle hatchling cautiously surfaces for air, to a sky full of hungry birds.")
 
 #### Description des tâches
 
