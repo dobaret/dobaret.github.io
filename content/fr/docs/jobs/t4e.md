@@ -15,7 +15,7 @@ menu:
 ---
 <img src="../../t4e_logo.png" alt=" slice atop a pile of other slices" style="max-width:100px; max-height:69px;  width: auto;  height: auto;">
 
-![](../../t4e_logo.png)
+![slice atop a pile of other slices](../../t4e_logo.png)
 
 #### Description des tâches
 
