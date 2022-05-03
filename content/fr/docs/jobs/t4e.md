@@ -1,28 +1,30 @@
 ---
-title: "Trans4europe"
-description: "Juin 2020 à août 2021 - Gestion de projets de traduction"
-lead: "Juin 2020 à août 2021 - Gestion de projets de traduction"
-date: 2020-11-12T13:26:54+01:00
-lastmod: 2020-11-12T13:26:54+01:00
-draft: false
+title: Trans4europe
+description: Juin 2020 à août 2021 - Gestion de projets de traduction
+lead: Juin 2020 à août 2021 - Gestion de projets de traduction
+date: 2020-11-12T13:26:54.000+01:00
+lastmod: 2020-11-12T13:26:54.000+01:00
 images: []
+weight: "610"
+toc: true
 menu:
   docs:
-    parent: "jobs"
-weight: 610
-toc: true
----
+    parent: jobs
+    weight: 610
 
+---
 <img src="../../t4e_logo.png" alt=" slice atop a pile of other slices" style="max-width:100px; max-height:69px;  width: auto;  height: auto;">
+
+![](../../t4e_logo.png)
 
 #### Description des tâches
 
-- Organisation et gestion de projets multilingues de traduction.
-- Analyse et préparation de packages de travail pour outils de TAO.
-- Management d’une vingtaine de traducteurs internes, ainsi que de traducteurs freelances.
-- Dialogue avec les chefs de projet de nos entreprises partenaires.
-- Suivi de la qualité de la traduction des projets.
-- Gestion d’une boîte mail partagée d’entreprise.
+* Organisation et gestion de projets multilingues de traduction.
+* Analyse et préparation de packages de travail pour outils de TAO.
+* Management d’une vingtaine de traducteurs internes, ainsi que de traducteurs freelances.
+* Dialogue avec les chefs de projet de nos entreprises partenaires.
+* Suivi de la qualité de la traduction des projets.
+* Gestion d’une boîte mail partagée d’entreprise.
 
 #### Outils utilisés
 
