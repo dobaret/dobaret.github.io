@@ -21,12 +21,7 @@ This guide was originally written in DITA, then transformed to Markdown through 
 
 Welcome to How to master Geoguessr --or where the heck am I?!
 
-<div style="text-align: center;">
-<figure>
-<figcaption><b>Geoguessr logo</b></figcaption>
-<img src="../../geoguessr_logo.png" alt="Logo for Geoguessr. The logo is the word &quot;Geoguessr&quot; with the letter &quot;o&quot; replaced by a pin.">
-</figure>
-</div>
+{{< fig src="geoguessr_logo.png" title="Geoguessr logo" alt="Logo for Geoguessr. The logo is the word &quot;Geoguessr&quot; with the letter &quot;o&quot; replaced by a pin." >}}
 
 Through this hopefully thorough guide, we wish to introduce you to a wonderful game called Geoguessr. May this lecture help you master it.
 
@@ -34,12 +29,7 @@ Through this hopefully thorough guide, we wish to introduce you to a wonderful g
 
 Mastering Video Games is a technical documentation group, made out of 5 students from Université de Paris.
 
-<div style="text-align: center;">
-<figure>
-<figcaption><b>Logo for Mastering Video Games</b></figcaption>
-<img src="../../logo.png" alt="Logo for Mastering Video Games, a shield with a trophy on top of three game controllers, and the name of the group.">
-</figure>
-</div>
+{{< fig src="logo.png" title="Logo for Mastering Video Games" alt="Logo for Mastering Video Games, a shield with a trophy on top of three game controllers, and the name of the group." >}}
 
 Our names are Dorian Baret, Néda El Hadj Mimoune, Andréï Georgescu, Samy Oubouaziz and Mélissa Stocchi.
 
@@ -49,12 +39,7 @@ We wished to document the ways in which you can master some of our favorites and
 
 We have but one motto: Break a leg!
 
-<div style="text-align: center;">
-<figure>
-<figcaption><b>The members of Mastering Video Games</b></br>Members from left to right, starting from the top: Dorian Baret, Néda El Hadj Mimoune, Andréï Georgescu, Samy Oubouaziz and Mélissa Stocchi.</figcaption>
-<img src="../../us.png" alt="Portraits of the members of Mastering Video Games. They are on two rows, three members on top, two members on the bottom.">
-</figure>
-</div>
+{{< fig src="us.png" title="The members of Mastering Video Games" desc="Members from left to right, starting from the top: Dorian Baret, Néda El Hadj Mimoune, Andréï Georgescu, Samy Oubouaziz and Mélissa Stocchi." alt="Portraits of the members of Mastering Video Games. They are on two rows, three members on top, two members on the bottom." >}}
 
 ### Legal Disclaimer
 
@@ -116,16 +101,11 @@ You can get a medal for each country played, depending on your score.
 
 |Medal|Minimum score|
 |-----|-------------|
-|<img src="../../gold.png" alt="A gold medal with a blue, white and red ribbon."> Gold medal|22,500|
-|<img src="../../silver.png" alt="A silver medal with a blue, white and red ribbon."> Silver medal|15,000|
-|<img src="../../bronze.png" alt="A bronze medal with a blue, white and red ribbon."> Bronze medal|5,000|
+|![A gold medal with a blue, white and red ribbon.](gold.png) Gold medal|22,500|
+|![A silver medal with a blue, white and red ribbon.](silver.png) Silver medal|15,000|
+|![A bronze medal with a blue, white and red ribbon.](bronze.png) Bronze medal|5,000|
 
-<div style="text-align: center;">
-<figure>
-<figcaption><b>The Explorer screen</b></br>The Explorer screen has a Map of the World. The countries color according to the medal you earn in a given country. There is a medal count.</figcaption>
-<img src="../../explorer_mode.png">
-</figure>
-</div>
+{{< fig src="explorer_mode.png" title="The Explorer screen" desc="The Explorer screen has a Map of the World. The countries color according to the medal you earn in a given country. There is a medal count." >}}
 
 ##### Streaks
 
@@ -156,41 +136,31 @@ Map Maker allows you to create your own Geoguessr Map. Let's discover how to use
 3. Click Map Maker.
 4. Select your locations using the method of your choice.
 
-    - You can use **Handpicked Locations** <img src="../../handpicked.png">.
+    - You can use **Handpicked Locations** ![](handpicked.png).
 
     {{< alert icon="👉" >}}You must choose at least 5 locations.{{< /alert >}}
 
-    <div style="text-align: center;">
-        <figure>
-        <figcaption><b>A handpicked location of the Olympe de Gouges building of Université de Paris</b></figcaption>
-        <img src="../../handpicked_fac.png" alt="The Geoguessr interface, when you choose Handpicked locations. There is a zoomed Map of Paris, and a Panorama. The Panorama represents the Olympe de Gouges building of Université de Paris.">
-        </figure>
-        </div>
+    {{< fig src="handpicked_fac.png" title="A handpicked location of the Olympe de Gouges building of Université de Paris" alt="The Geoguessr interface, when you choose Handpicked locations. There is a zoomed Map of Paris, and a Panorama. The Panorama represents the Olympe de Gouges building of Université de Paris." >}}
 
-    - You can use **Polygonal Regions** <img src="../../polygonal.png">.
-
-    <div style="text-align: center;">
-        <figure>
-        <figcaption><b>A polygonal selection of the city of Nantes and some of its surroundings</b></br>The drawn region contains 4,055 locations.</figcaption>
-        <img src="../../polygonal_nantes.png" alt="The Geoguessr interface, when you choose Polygonal regions. There is a zoomed Map of Nantes. Nantes, and some of its surroundings, have been selected.">
-        </figure>
-        </div>
+    - You can use **Polygonal Regions** ![](polygonal.png).
+        
+        {{< fig src="polygonal_nantes.png" title="A polygonal selection of the city of Nantes and some of its surroundings" desc="The drawn region contains 4,055 locations." alt="The Geoguessr interface, when you choose Polygonal regions. There is a zoomed Map of Nantes. Nantes, and some of its surroundings, have been selected." >}}
 
 5. Enter your Map **name**.
 6. Enter your Map **description**.
 7. Select your Map **avatar**.
 
     By default, the **avatar** is the following:</br>
-    <img src="../../avatar_default.png" alt="The default Map avatar.">
+    ![The default Map avatar.](avatar_default.png)
 
     1. Select a **background**.</br>
-        <img src="../../avatar_background.png" alt="The Map avatar with a different background than the default background.">
+        ![The Map avatar with a different background than the default background.](avatar_background.png)
     2. Select a **ground**.</br>
-        <img src="../../avatar_ground.png" alt="The Map avatar with a different ground than the default ground.">
+        ![The Map avatar with a different ground than the default ground.](avatar_ground.png)
     3. Select a **landscape**.</br>
-        <img src="../../avatar_landscape.png" alt="The Map avatar with a different landscape than the default landscape.">
+        ![The Map avatar with a different landscape than the default landscape.](avatar_landscape.png)
     4. Select **decorations**.</br>
-        <img src="../../avatar_decorations.png" alt="The Map avatar with different decorations than the default decorations.">
+        ![The Map avatar with different decorations than the default decorations.](avatar_decorations.png)
 8. Select **Visible to others**.
 9. Select **Highlight on profile page**.
 10. Click **Create map**.
@@ -203,12 +173,7 @@ Career Modes mode allows you to compete against other unknown players.
 
 According to your score each game, your Career Modes ranking evolves and you can win **trophies**.
 
-<div style="text-align: center;">
-        <figure>
-        <figcaption><b>Career Modes ranking</b></figcaption>
-        <img src="../../career.png" alt="The Career Modes ranking interface, with your Battle Royale ranking, your Streaks ranking and your Duels ranking.">
-        </figure>
-        </div>
+{{< fig src="career.png" title="Career Modes ranking" alt="The Career Modes ranking interface, with your Battle Royale ranking, your Streaks ranking and your Duels ranking." >}}
 
 ##### Battle Royale Countries
 
@@ -218,12 +183,7 @@ You can click anywhere within the borders of a country. Each round lasts a minut
 
 In each round, you have 3 guesses. All players can see the countries wrongly guessed by other players. The correct country reveals itself after you guess right or fail.
 
-<div style="text-align: center;">
-        <figure>
-        <figcaption><b>Battle Royale Countries in-game ranking</b></figcaption>
-        <img src="../../battle_royale_countries.png" alt="The Battle Royale Countries in-game ranking interface. Players have hearts, for number of guesses, and flags indicate guessed countries.">
-        </figure>
-        </div>
+{{< fig src="battle_royale_countries.png" title="Battle Royale Countries in-game ranking" alt="The Battle Royale Countries in-game ranking interface. Players have hearts, for number of guesses, and flags indicate guessed countries." >}}
 
 Meaning: <b>Matthewcdr09</b> has been eliminated due to 3 wrong guesses. <b>OngoGablogian</b> has
 made one wrong guess with Tunisia. <b>Vorobey</b> and <b>Vargaton2</b> have made no guess. Tunisia,
@@ -238,21 +198,11 @@ Each round lasts a minute. There are as many rounds as there are players, up to 
 
 Every time you guess, you are shown the distance between your guess and your two closest competitors. You are only shown the distance between your guess and the next best guess if you are the closest to the location. You can try to get closer to the location by making more guesses. However, you will have to wait 5 seconds between each guess.
 
-<div style="text-align: center;">
-        <figure>
-        <figcaption><b>Battle Royale Distance when first</b></figcaption>
-        <img src="../../battle_royale_distance_first.png" alt="The Battle Royale Distance in-game ranking interface. Winning players are green, while the losing player is red. Each player has a number of remaining guesses.">
-        </figure>
-        </div>
+{{< fig src="battle_royale_distance_first.png" title="Battle Royale Distance when first" alt="The Battle Royale Distance in-game ranking interface. Winning players are green, while the losing player is red. Each player has a number of remaining guesses." >}}
 
 <b>Meaning</b>: the best guess by <b>Adz</b> is 58 km away from the second best guess by <b>lourxrdes</b>. <b>Jean-Erik</b> will be eliminated if they cannot guess closer than at least <b>Vlad Dr</b> before the time is up.
 
-<div style="text-align: center;">
-        <figure>
-        <figcaption><b>Battle Royale Distance when at another place than first</b></figcaption>
-        <img src="../../battle_royale_distance.png" alt="The Battle Royale Distance in-game ranking interface. Winning players are green, while the losing player is red. Each player has a number of remaining guesses.">
-        </figure>
-        </div>
+{{< fig src="battle_royale_distance.png" title="Battle Royale Distance when at another place than first" alt="The Battle Royale Distance in-game ranking interface. Winning players are green, while the losing player is red. Each player has a number of remaining guesses." >}}
 
 <b>Meaning</b>: the second best guess by <b>Adz</b> is 62 km away from the best guess by <b>lourxrdes</b>. It is 102 km from the third best guess by <b>Jean-Erik</b>. <b>Jari P Niemela</b> will be eliminated if they cannot guess closer than at least <b>Kanush Karan</b> before the time is up.
 
@@ -264,20 +214,9 @@ A game lasts 3 minutes. There are as many rounds as there are players, up to 10.
 
 You must guess the maximum number of cities in a row in the allotted time.
 
-<div style="text-align: center;">
-        <figure>
-        <figcaption><b>The City Streaks interface</b><br>Proposed cities appear as pink dots in the Map. In this case, the answer was Hong Kong. Hong
-Kong is the pink dot on the right of the Map.</figcaption>
-        <img src="../../streaks_proposed_cities.png" alt="The City Streaks interface. A Panorama shows tall buildings and a tunnel passing through the buildings.">
-        </figure>
-        </div>
+{{< fig src="streaks_proposed_cities.png" title="The City Streaks interface" desc="Proposed cities appear as pink dots in the Map. In this case, the answer was Hong Kong. Hong Kong is the pink dot on the right of the Map." alt="The City Streaks interface. A Panorama shows tall buildings and a tunnel passing through the buildings." >}}
 
-<div style="text-align: center;">
-        <figure>
-        <figcaption><b>City Streaks in-game ranking</b></figcaption>
-        <img src="../../streaks.png" alt="The City Streaks in-game ranking interface. Players rank according to the number of cities they guessed. Hearts indicate their number of guesses left.">
-        </figure>
-        </div>
+{{< fig src="streaks.png" title="City Streaks in-game ranking" alt="The City Streaks in-game ranking interface. Players rank according to the number of cities they guessed. Hearts indicate their number of guesses left." >}}
 
 Meaning: <b>Adz</b> has guessed right one city and has 3 remaining guesses. <b>tintinho</b> has guessed 4
 cities and has one remaining guess before losing.
@@ -288,19 +227,16 @@ In Duels, you compete against another unknown player to guess your location.
 
 You begin the game with 6,000 points. In each round, you and another player must guess the location of a Panorama. The score of the losing guess is subtracted from the score of the winning guess. The result is subtracted from the points total of the loser of the round.
 
-<div style="text-align: center;">
-        <figure>
-        <figcaption><b>The Duels interface</b></figcaption>
-        <img src="../../duel_selection.png" alt="The Duels interface. A Panorama shows a street in a seemingly cold country.">
-        </figure>
-        </div>
+{{< fig src="duel_selection.png" title="The Duels interface" alt="The Duels interface. A Panorama shows a street in a seemingly cold country." >}}
 
-<div style="text-align: center;">
+{{< fig src="duel_score.png" title="Result of the Duels" desc="__Adz__ is the farthest away from the actual location with 9,493 kilometers, against 1,401 kilometers for <b>Haqzarta</b>" alt="The Duels result interface with the guess of each player on the Map. The player Adz has guessed in Brazil while the player Haqzarta has guessed in Sweden.">}}
+
+<!-- <div style="text-align: center;">
         <figure>
         <figcaption><b>Result of the Duels</b><br><b>Adz</b> is the farthest away from the actual location with 9,493 kilometers, against 1,401 kilometers for <b>Haqzarta</b>.</figcaption>
         <img src="../../duel_score.png" alt="The Duels result interface with the guess of each player on the Map. The player Adz has guessed in Brazil while the player Haqzarta has guessed in Sweden.">
         </figure>
-        </div>
+        </div> -->
 
 <div style="text-align: center;">
         <figure>
@@ -1484,6 +1420,8 @@ No player has ever had a perfect game (25,000 points) playing this way.
 ###### NCNC: No Car No Compass
 
 You can choose to apply scripts to Geoguessr to make the game harder. For example, in "NCNC" or "No Car No Compass" you choose to gray out the car. You cannot get a clue from it (see Meta Clues).
+
+{{< youtube z59fXJevBzw >}}
 
 <div style="text-align: center;">
         <figure>
