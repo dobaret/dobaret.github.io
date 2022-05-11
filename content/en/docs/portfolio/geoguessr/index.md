@@ -136,15 +136,15 @@ Map Maker allows you to create your own Geoguessr Map. Let's discover how to use
 3. Click Map Maker.
 4. Select your locations using the method of your choice.
 
-    - You can use **Handpicked Locations** ![](handpicked.png).
+    - You can use **Handpicked Locations** ![Logo for handpicked locations, a pin.](handpicked.png).
 
     {{< alert icon="👉" >}}You must choose at least 5 locations.{{< /alert >}}
 
     {{< fig src="handpicked_fac.png" title="A handpicked location of the Olympe de Gouges building of Université de Paris" alt="The Geoguessr interface, when you choose Handpicked locations. There is a zoomed Map of Paris, and a Panorama. The Panorama represents the Olympe de Gouges building of Université de Paris." >}}
 
-    - You can use **Polygonal Regions** ![](polygonal.png).
-        
-        {{< fig src="polygonal_nantes.png" title="A polygonal selection of the city of Nantes and some of its surroundings" desc="The drawn region contains 4,055 locations." alt="The Geoguessr interface, when you choose Polygonal regions. There is a zoomed Map of Nantes. Nantes, and some of its surroundings, have been selected." >}}
+    - You can use **Polygonal Regions** ![Logo for polygonal regions, a trapezium.](polygonal.png).
+    
+    {{< fig src="polygonal_nantes.png" title="A polygonal selection of the city of Nantes and some of its surroundings" desc="The drawn region contains 4,055 locations." alt="The Geoguessr interface, when you choose Polygonal regions. There is a zoomed Map of Nantes. Nantes, and some of its surroundings, have been selected." >}}
 
 5. Enter your Map **name**.
 6. Enter your Map **description**.
@@ -229,7 +229,7 @@ You begin the game with 6,000 points. In each round, you and another player must
 
 {{< fig src="duel_selection.png" title="The Duels interface" alt="The Duels interface. A Panorama shows a street in a seemingly cold country." >}}
 
-{{< fig src="duel_score.png" title="Result of the Duels" desc="__Adz__ is the farthest away from the actual location with 9,493 kilometers, against 1,401 kilometers for <b>Haqzarta</b>" alt="The Duels result interface with the guess of each player on the Map. The player Adz has guessed in Brazil while the player Haqzarta has guessed in Sweden.">}}
+{{< fig src="duel_score.png" title="Result of the Duels" desc="**Adz** is the farthest away from the actual location with 9,493 kilometers, against 1,401 kilometers for <b>Haqzarta</b>" alt="The Duels result interface with the guess of each player on the Map. The player Adz has guessed in Brazil while the player Haqzarta has guessed in Sweden.">}}
 
 <!-- <div style="text-align: center;">
         <figure>

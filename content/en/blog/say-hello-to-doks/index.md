@@ -9,8 +9,4 @@ weight: 50
 contributors: ["Henk Verlinde"]
 ---
 
-![](say-hello-to-doks.png)
-![](geoguessr_logo.png)
-
-
 Hahahah ! ah ! ah...
