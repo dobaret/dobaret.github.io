@@ -143,7 +143,7 @@ Map Maker allows you to create your own Geoguessr Map. Let's discover how to use
     {{< fig src="handpicked_fac.png" title="A handpicked location of the Olympe de Gouges building of Université de Paris" alt="The Geoguessr interface, when you choose Handpicked locations. There is a zoomed Map of Paris, and a Panorama. The Panorama represents the Olympe de Gouges building of Université de Paris." >}}
 
     - You can use **Polygonal Regions** ![Logo for polygonal regions, a trapezium.](polygonal.png).
-    
+
     {{< fig src="polygonal_nantes.png" title="A polygonal selection of the city of Nantes and some of its surroundings" desc="The drawn region contains 4,055 locations." alt="The Geoguessr interface, when you choose Polygonal regions. There is a zoomed Map of Nantes. Nantes, and some of its surroundings, have been selected." >}}
 
 5. Enter your Map **name**.
