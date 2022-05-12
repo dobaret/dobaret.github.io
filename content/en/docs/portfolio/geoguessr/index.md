@@ -234,14 +234,14 @@ You begin the game with 6,000 points. In each round, you and another player must
 <!-- <div style="text-align: center;">
         <figure>
         <figcaption><b>Result of the Duels</b><br><b>Adz</b> is the farthest away from the actual location with 9,493 kilometers, against 1,401 kilometers for <b>Haqzarta</b>.</figcaption>
-        <img src="../../duel_score.png" alt="The Duels result interface with the guess of each player on the Map. The player Adz has guessed in Brazil while the player Haqzarta has guessed in Sweden.">
+        <img src="duel_score.png" alt="The Duels result interface with the guess of each player on the Map. The player Adz has guessed in Brazil while the player Haqzarta has guessed in Sweden.">
         </figure>
         </div> -->
 
 <div style="text-align: center;">
         <figure>
         <figcaption><b>Points result of the Duel</b><br><b>Haqzarta</b> received 1,954 points and <b>Adz</b> received 9. <b>Adz</b> will be subtracted 1,945 points. <b>Adz</b> will have 4,055 points after the first round (6,000-1,945).</figcaption>
-        <img src="../../duel_result.png" alt="The Duels result interface with the guess of each player on the Map. The player Adz has guessed in Brazil while the player Haqzarta has guessed in Sweden. Adz has scored 9 points and Haqzarta 1,954 points.">
+        <img src="duel_result.png" alt="The Duels result interface with the guess of each player on the Map. The player Adz has guessed in Brazil while the player Haqzarta has guessed in Sweden. Adz has scored 9 points and Haqzarta 1,954 points.">
         </figure>
         </div>
 
@@ -300,7 +300,7 @@ Fewer players use **Custom settings** than Default Settings. **Custom settings**
     You could give **World** a try.
 
 4. Uncheck **Use default settings**.
-5. Set a custom **Time limit** by dragging the handle <img src="../../cursor.png" alt="The time limit handle in Custom Settings to start a game in Geoguessr. It is a circle."> from left to right.
+5. Set a custom **Time limit** by dragging the handle <img src="cursor.png" alt="The time limit handle in Custom Settings to start a game in Geoguessr. It is a circle."> from left to right.
 
     By default, the handle is on the far left, which means **No time limit**. The more you drag it to the right, the more time you add, up to 10 minutes a round.
 
@@ -326,7 +326,7 @@ Let's familiarize ourselves with the Geoguessr interface.
 <div style="text-align: center;">
         <figure>
         <figcaption><b>Geoguessr interface</b></figcaption>
-        <img src="../../ui.png" alt="The Panorama interface of Geoguessr. Numbers highlight different parts of the Panorama corresponding to future chapters of the guide.">
+        <img src="ui.png" alt="The Panorama interface of Geoguessr. Numbers highlight different parts of the Panorama corresponding to future chapters of the guide.">
         </figure>
         </div>
 
@@ -351,7 +351,7 @@ Let's divide the Geoguessr interface into 7 zones, with the following names:
 <div style="text-align: center;">
         <figure>
         <figcaption><b>Geoguessr Controls</b></figcaption>
-        <img src="../../controls.png" alt="The Controls interface. There are buttons with plus and minus signs to zoom in and zoom out. There is a cog button for Options. There is a flag button to Return to start. There is a pin button to Set a checkpoint. There is a Undo move button.">
+        <img src="controls.png" alt="The Controls interface. There are buttons with plus and minus signs to zoom in and zoom out. There is a cog button for Options. There is a flag button to Return to start. There is a pin button to Set a checkpoint. There is a Undo move button.">
         </figure>
         </div>
 
@@ -359,13 +359,13 @@ There are 5 different Controls:
 
 ###### Zoom
 
-<img src="../../zoom_in.png" alt="Zoom in button, a plus sign."> allows you to zoom in in the Panorama.
+<img src="zoom_in.png" alt="Zoom in button, a plus sign."> allows you to zoom in in the Panorama.
 
-<img src="../../zoom_out.png" alt="Zoom out button, a minus sign."> allows you to zoom out in the Panorama.
+<img src="zoom_out.png" alt="Zoom out button, a minus sign."> allows you to zoom out in the Panorama.
 
 ###### Options
 
-<img src="../../options.png" alt="Options button, a cog."> allows you to access the **Options**.
+<img src="options.png" alt="Options button, a cog."> allows you to access the **Options**.
 
 In the **Options**, you can control the **Effect volume** and the **Music volume** with sliders.
 
@@ -373,25 +373,25 @@ You can turn **ON** or **OFF** the **Sound**, **Classic Compass** and **Fullscre
 
 ###### Return to start
 
-<img src="../../return_to_start.png" alt="Return to start button, a flag."> allows you to **Return to start**.
+<img src="return_to_start.png" alt="Return to start button, a flag."> allows you to **Return to start**.
 
 {{< alert icon="💡" >}}You can also trigger the function by pressing **R** anytime during a game.{{< /alert >}}
 
 ###### Set checkpoint
 
-<img src="../../set_checkpoint.png" alt="Set checkpoint button, a pin."> allows you to **Set checkpoint**.
+<img src="set_checkpoint.png" alt="Set checkpoint button, a pin."> allows you to **Set checkpoint**.
 
 {{< alert icon="💡" >}}You can also trigger the function by pressing **C** anytime during a game.{{< /alert >}}
 
 ###### Return to checkpoint
 
-<img src="../../return_to_checkpoint.png" alt="Return to checkpoint button, a pin with an arrow."> appears appears after clicking <img src="../../set_checkpoint.png" alt="Set checkpoint button, a pin.">. <img src="../../return_to_checkpoint.png" alt="Return to checkpoint button, a pin with an arrow."> allows you to **Return to checkpoint**.
+<img src="return_to_checkpoint.png" alt="Return to checkpoint button, a pin with an arrow."> appears appears after clicking <img src="set_checkpoint.png" alt="Set checkpoint button, a pin.">. <img src="return_to_checkpoint.png" alt="Return to checkpoint button, a pin with an arrow."> allows you to **Return to checkpoint**.
 
 {{< alert icon="💡" >}}You can also trigger the function by pressing **C**, once a checkpoint has been set.{{< /alert >}}
 
 ###### Undo move
 
-<img src="../../undo_move.png" alt="Undo move button, a backward arrow."> allows you to **Undo move**.
+<img src="undo_move.png" alt="Undo move button, a backward arrow."> allows you to **Undo move**.
 
 {{< alert icon="💡" >}}You can also trigger the function by pressing **Z** anytime during a game, if you have moved since the beginning of the round. If you have not moved, it is grayed out.{{< /alert >}}
 
@@ -400,7 +400,7 @@ You can turn **ON** or **OFF** the **Sound**, **Classic Compass** and **Fullscre
 <div style="text-align: center;">
         <figure>
         <figcaption><b>Geoguessr Compass</b></figcaption>
-        <img src="../../compass.png" alt="The Compass, a horizontal bar with the facing orientation in its center.">
+        <img src="compass.png" alt="The Compass, a horizontal bar with the facing orientation in its center.">
         </figure>
         </div>
 
@@ -427,7 +427,7 @@ You can use the Compass and the Map to identify which street you may be in. Amer
 
 <div style="text-align: center;">
         <figure>
-        <img src="../../new_york.png" alt="A Panorama of New York, with a paved street and tall buildings.">
+        <img src="new_york.png" alt="A Panorama of New York, with a paved street and tall buildings.">
         </figure>
         </div>
 
@@ -440,7 +440,7 @@ as 34th Street.
 <div style="text-align: center;">
         <figure>
         <figcaption><b>Geoguessr Status</b></figcaption>
-        <img src="../../status.png" alt="The Status, with the current Map, the current round and your score.">
+        <img src="status.png" alt="The Status, with the current Map, the current round and your score.">
         </figure>
         </div>
 
@@ -463,14 +463,14 @@ The Geoguessr Status displays three information:
 <div style="text-align: center;">
         <figure>
         <figcaption><b>Geoguessr Map when non-expanded</b></figcaption>
-        <img src="../../map_before.png" alt="The inactive Map. There is a Place your pin on the map button. A location has not been guessed.">
+        <img src="map_before.png" alt="The inactive Map. There is a Place your pin on the map button. A location has not been guessed.">
         </figure>
         </div>
 
 <div style="text-align: center;">
         <figure>
         <figcaption><b>Geoguessr Map when expanded</b></figcaption>
-        <img src="../../map_after.png" alt="The active Map. There is a Guess button. A location has been guessed.">
+        <img src="map_after.png" alt="The active Map. There is a Guess button. A location has been guessed.">
         </figure>
         </div>
 
@@ -478,15 +478,15 @@ The Geoguessr Map displays Google Maps in a small window. You are free to zoom i
 
 ###### Zoom
 
-<img src="../../zoom_in.png" alt="Zoom in button, a plus sign."> allows you to zoom in the Map.
+<img src="zoom_in.png" alt="Zoom in button, a plus sign."> allows you to zoom in the Map.
 
-<img src="../../zoom_out.png" alt="Zoom out button, a minus sign."> allows you to zoom out in the Map.
+<img src="zoom_out.png" alt="Zoom out button, a minus sign."> allows you to zoom out in the Map.
 
 ###### Map size
 
-<img src="../../increase_size.png" alt="The button to increase the size of the Map. It is an arrow pointing to the Northwest."> allows you to make the Map window bigger, while <img src="../../decrease_size.png" alt="The button to decrease the size of the Map. It is an arrow pointing to the Southwest."> allows you to make the Map smaller.
+<img src="increase_size.png" alt="The button to increase the size of the Map. It is an arrow pointing to the Northwest."> allows you to make the Map window bigger, while <img src="decrease_size.png" alt="The button to decrease the size of the Map. It is an arrow pointing to the Southwest."> allows you to make the Map smaller.
 
-<img src="../../sticky_map.png" alt="The button to set the size of the Map. It is a pin pointing to the South."> allows you to keep the Map window in its expanded state. <img src="../../sticky_map_left.png" alt="The button to unset the size of the Map. It is a pin pointing to the East."> allows you to make the Map window non-expanded again.
+<img src="sticky_map.png" alt="The button to set the size of the Map. It is a pin pointing to the South."> allows you to keep the Map window in its expanded state. <img src="sticky_map_left.png" alt="The button to unset the size of the Map. It is a pin pointing to the East."> allows you to make the Map window non-expanded again.
 
 ###### Guess button
 
@@ -504,7 +504,7 @@ Three actions are available in the Panorama: moving, panning and zooming.
 
 <div style="text-align: center;">
         <figure>
-        <img src="../../move1.png" alt="The original location. It is a Panorama which compares with movements explained in the next images.">
+        <img src="move1.png" alt="The original location. It is a Panorama which compares with movements explained in the next images.">
         </figure>
         </div>
 
@@ -512,7 +512,7 @@ Three actions are available in the Panorama: moving, panning and zooming.
 
 <div style="text-align: center;">
         <figure>
-        <img src="../../move2.png" alt="A Panorama with a move, in comparison to the original location.">
+        <img src="move2.png" alt="A Panorama with a move, in comparison to the original location.">
         </figure>
         </div>
 
@@ -522,7 +522,7 @@ Moving allows you to go to the next available location.
 
 <div style="text-align: center;">
         <figure>
-        <img src="../../span1.png" alt="A Panorama with a pan, in comparison to the original location.">
+        <img src="span1.png" alt="A Panorama with a pan, in comparison to the original location.">
         </figure>
         </div>
 
@@ -530,7 +530,7 @@ Spanning allows you to rotate on yourself, while staying in the same location.
 
 <div style="text-align: center;">
         <figure>
-        <img src="../../span2.png" alt="A Panorama with a pan, in comparison to the original location.">
+        <img src="span2.png" alt="A Panorama with a pan, in comparison to the original location.">
         </figure>
         </div>
 
@@ -538,7 +538,7 @@ Spanning allows you to rotate on yourself, while staying in the same location.
 
 <div style="text-align: center;">
         <figure>
-        <img src="../../zoom1.png" alt="A Panorama with a zoom, in comparison to the original location.">
+        <img src="zoom1.png" alt="A Panorama with a zoom, in comparison to the original location.">
         </figure>
         </div>
 
@@ -551,7 +551,7 @@ Cincinnati. Indeed, Cincinnati is in the United States of America.
 <div style="text-align: center;">
         <figure>
         <figcaption><b>Geoguessr Movement Arrows</b></figcaption>
-        <img src="../../movement_arrows.png" alt="The Movement Arrows. Arrows point in opposite directions to move around the Panorama.">
+        <img src="movement_arrows.png" alt="The Movement Arrows. Arrows point in opposite directions to move around the Panorama.">
         </figure>
         </div>
 
@@ -570,7 +570,7 @@ In Regular Image Metadata, you can see the name of the company responsible for t
 <div style="text-align: center;">
         <figure>
         <figcaption><b>Image Metadata as it appears when the Panorama is by Google</b></figcaption>
-        <img src="../../metadata_image.png" alt="Panorama Google Image Metadata. There is the year of the Panorama, and buttons for Terms of Use and Report a problem.">
+        <img src="metadata_image.png" alt="Panorama Google Image Metadata. There is the year of the Panorama, and buttons for Terms of Use and Report a problem.">
         </figure>
         </div>
 
@@ -579,7 +579,7 @@ In Regular Image Metadata, you can see the name of the company responsible for t
 <div style="text-align: center;">
         <figure>
         <figcaption><b>Geoguessr Photo Spheres Image Metadata</b></figcaption>
-        <img src="../../metadata_image_user_full.png" alt="A Panorama with a child making faces at the camera.">
+        <img src="metadata_image_user_full.png" alt="A Panorama with a child making faces at the camera.">
         </figure>
         </div>
 
@@ -587,7 +587,7 @@ A child making faces at the camera: this is a user-submitted Panorama.
 
 <div style="text-align: center;">
         <figure>
-        <img src="../../metadata_image_user.png" alt="Panorama Photo Spheres Image Metadata. There is the name of the author of the Photo Spheres, and buttons for Terms of Use and Report a problem.">
+        <img src="metadata_image_user.png" alt="Panorama Photo Spheres Image Metadata. There is the name of the author of the Photo Spheres, and buttons for Terms of Use and Report a problem.">
         </figure>
         </div>
 
@@ -601,7 +601,7 @@ Keep calm, here are set of actions to apply to your games of Geoguessr.
         <figure>
         <figcaption>A flow chart of the first actions you should
                 be taking when beginning a game of Geoguessr</figcaption>
-        <img src="../../flow_chart.png" alt="A descending flowchart with instructions on what actions to take in Geoguessr.">
+        <img src="flow_chart.png" alt="A descending flowchart with instructions on what actions to take in Geoguessr.">
         </figure>
         </div>
 
@@ -619,26 +619,26 @@ Take a look at the following Map. Google Street View covers these countries.
 <div style="text-align: center;">
         <figure>
         <figcaption><b>Google Street View world coverage as of January 9th, 2022</b><br>Image source: <a href="https://www.google.com/maps/">Google Maps</a>. Blue lines represent roads mapped by Google.</figcaption>
-        <img src="../../world.png" alt="The Google Maps interface, with available locations as blue lines over the Map of the world.">
+        <img src="world.png" alt="The Google Maps interface, with available locations as blue lines over the Map of the world.">
         </figure>
         </div>
 
 <div style="text-align: center;">
         <figure>
         <figcaption><b>Coverage of Google Street View</b><br>Image source: <a href="https://en.wikipedia.org/wiki/Coverage_of_Google_Street_View">Wikipedia</a>.</figcaption>
-        <img src="../../google_street_view_coverage.png" alt="A Map of the World colored by country corresponding to different types of coverage by Google Maps.">
+        <img src="google_street_view_coverage.png" alt="A Map of the World colored by country corresponding to different types of coverage by Google Maps.">
         </figure>
         </div>
 
 |Color|Meaning|
 |-----|-------|
-|<img src="../../full_coverage.png" alt="A dark blue square.">|Countries with mostly full coverage|
-|<img src="../../partial_coverage.png" alt="A blue square.">|Countries with partial coverage|
-|<img src="../../official_coverage.png" alt="An orange square.">|Countries with full or partial coverage planned (official)|
-|<img src="../../unofficial_coverage.png" alt="A beige square.">|Countries with full or partial coverage planned (unofficial)|
-|<img src="../../private_businesses_tourist.png" alt="A dark green square.">|Countries with views of selected businesses and/or tourist attractions only|
-|<img src="../../private_businesses_only.png" alt="A light green square.">|Countries with views of private businesses only|
-|<img src="../../no_coverage.png" alt="A gray square.">|Countries with no current or planned coverage|
+|<img src="full_coverage.png" alt="A dark blue square.">|Countries with mostly full coverage|
+|<img src="partial_coverage.png" alt="A blue square.">|Countries with partial coverage|
+|<img src="official_coverage.png" alt="An orange square.">|Countries with full or partial coverage planned (official)|
+|<img src="unofficial_coverage.png" alt="A beige square.">|Countries with full or partial coverage planned (unofficial)|
+|<img src="private_businesses_tourist.png" alt="A dark green square.">|Countries with views of selected businesses and/or tourist attractions only|
+|<img src="private_businesses_only.png" alt="A light green square.">|Countries with views of private businesses only|
+|<img src="no_coverage.png" alt="A gray square.">|Countries with no current or planned coverage|
 
 ###### Using the location of the Sun to determine your hemisphere
 
@@ -653,7 +653,7 @@ You can use the location of the sun in the sky to know which part of the world y
 <div style="text-align: center;">
         <figure>
         <figcaption><b>The tropics</b><br>Image source: <a href="https://commons.wikimedia.org/wiki/File:World_map_indicating_tropics_and_subtropics.png">Wikipedia</a>.</figcaption>
-        <img src="../../tropics.png" alt="A Map of the world displaying the tropics. The zone between the tropics is highlighted.">
+        <img src="tropics.png" alt="A Map of the world displaying the tropics. The zone between the tropics is highlighted.">
         </figure>
         </div>
 
@@ -669,7 +669,7 @@ Few African countries are available on Geoguessr.
         <figure>
         <figcaption><b>Google Street View Africa coverage as of January 9th,
                                 2022</b><br>Image source: <a href="https://www.google.com/maps/">Google Maps</a>. Blue lines represent roads mapped by Google.</figcaption>
-        <img src="../../africa.png" alt="The Google Maps interface, with available locations as blue lines over the Map of Africa.">
+        <img src="africa.png" alt="The Google Maps interface, with available locations as blue lines over the Map of Africa.">
         </figure>
         </div>
 
@@ -684,14 +684,14 @@ You will find the best represented countries in the following table. This table 
 |Senegal|<ol><li>Right-hand traffic and kph.</li><li>Senegalese mostly speak Wolof, although French is a *lingua franca*.</li><li>Desert climate around its capital Dakar, which you are likely to see.</li></ol>
 |Ghana|<ol><li>Right-hand traffic and kph.</li><li>Ghanaians use English as *lingua franca*.</li><li>[Roof Racks](03_08_01_roof_rack.md), consult [Ghana](03_08_01_roof_rack.md#ghana).</li></ol>
 |Nigeria|<ol><li>Right-hand traffic and kph.</li><li>Nigerians mostly speak English.</li><li>[Roof Racks](03_08_01_roof_rack.md), see [Nigeria](03_08_01_roof_rack.md#nigeria).<ul><li>A white Toyota pick-up truck can follow you.</li></ul></li></ul>
-|Tunisia|<ol><li>Right-hand traffic and kph.</li><li>Tunisians mostly speak Arabic, followed by French. Road signs in Tunisia are in Arabic and French.</li><li>Due to French influence, French brands of cars are popular. You can spot Renault <img src="../../renault.png" alt="The logo of Renault, a lozenge."> and Citroën <img src="../../citroen.png" alt="The logo of Citroën, one chevron over another."> cars.
+|Tunisia|<ol><li>Right-hand traffic and kph.</li><li>Tunisians mostly speak Arabic, followed by French. Road signs in Tunisia are in Arabic and French.</li><li>Due to French influence, French brands of cars are popular. You can spot Renault <img src="renault.png" alt="The logo of Renault, a lozenge."> and Citroën <img src="citroen.png" alt="The logo of Citroën, one chevron over another."> cars.
 
 ###### Climate
 
 <div style="text-align: center;">
         <figure>
         <figcaption><b>Climate types in Africa</b><br>Image source: <a href="https://en.wikipedia.org/wiki/Climate_of_Africa">Wikipedia</a>.</figcaption>
-        <img src="../../africa_climates.png" alt="Climates types, with the different climates colored over the Map of Africa.">
+        <img src="africa_climates.png" alt="Climates types, with the different climates colored over the Map of Africa.">
         </figure>
         </div>
 
@@ -700,14 +700,14 @@ You will find the best represented countries in the following table. This table 
 <div style="text-align: center;">
         <figure>
         <figcaption><b>Google Street View Asia coverage as of January 9th, 2022</b><br>Image source: <a href="https://www.google.com/maps/">Google Maps</a>. Blue lines represent roads mapped by Google.</figcaption>
-        <img src="../../asia.png" alt="The Google Maps interface, with available locations as blue lines over the Map of Asia.">
+        <img src="asia.png" alt="The Google Maps interface, with available locations as blue lines over the Map of Asia.">
         </figure>
         </div>
 
 <div style="text-align: center;">
         <figure>
         <figcaption><b>Google Street View Southeast Asia coverage as of January 9th, 2022</b><br>Image source: <a href="https://www.google.com/maps/">Google Maps</a>. Blue lines represent roads mapped by Google.</figcaption>
-        <img src="../../southeast_asia.png" alt="The Google Maps interface, with available locations as blue lines over the Map of Southeast Asia.">
+        <img src="southeast_asia.png" alt="The Google Maps interface, with available locations as blue lines over the Map of Southeast Asia.">
         </figure>
         </div>
 
@@ -734,7 +734,7 @@ You will find the best represented countries in the following table. This table 
 <div style="text-align: center;">
         <figure>
         <figcaption><b>Climate types in Asia</b><br>Image source: <a href="https://en.wikipedia.org/wiki/Climate_of_Asia">Wikipedia</a>.</figcaption>
-        <img src="../../asia_climates.png" alt="Climates types, with the different climates colored over the Map of Asia.">
+        <img src="asia_climates.png" alt="Climates types, with the different climates colored over the Map of Asia.">
         </figure>
         </div>
 
@@ -743,7 +743,7 @@ You will find the best represented countries in the following table. This table 
 <div style="text-align: center;">
         <figure>
         <figcaption><b>Google Street View Europe coverage as of January 9th, 2022</b><br>Image source: <a href="https://www.google.com/maps/">Google Maps</a>. Blue lines represent roads mapped by Google.</figcaption>
-        <img src="../../europe.png" alt="The Google Maps interface, with available locations as blue lines over the Map of Europe.">
+        <img src="europe.png" alt="The Google Maps interface, with available locations as blue lines over the Map of Europe.">
         </figure>
         </div>
 
@@ -762,7 +762,7 @@ Languages should offer you a better chance of finding your location, consult Eur
 <div style="text-align: center;">
         <figure>
         <figcaption><b>Climate types in Europe</b><br>Image source: <a href="https://en.wikipedia.org/wiki/Climate_of_Europe">Wikipedia</a>.</figcaption>
-        <img src="../../europe_climates.png" alt="Climates types, with the different climates colored over the Map of Europe.">
+        <img src="europe_climates.png" alt="Climates types, with the different climates colored over the Map of Europe.">
         </figure>
         </div>
 
@@ -771,7 +771,7 @@ Languages should offer you a better chance of finding your location, consult Eur
 <div style="text-align: center;">
         <figure>
         <figcaption><b>Google Street View North America coverage as of January 9th, 2022</b><br>Image source: <a href="https://www.google.com/maps/">Google Maps</a>. Blue lines represent roads mapped by Google.</figcaption>
-        <img src="../../north_america.png" alt="The Google Maps interface, with available locations as blue lines over the Map of North America.">
+        <img src="north_america.png" alt="The Google Maps interface, with available locations as blue lines over the Map of North America.">
         </figure>
         </div>
 
@@ -785,7 +785,7 @@ Canada and the United States of America are harder to distinguish. Both countrie
         <figure>
         <figcaption><b>Québec territory in comparison to the rest of
                     Canada</b><br>Image source: <a href="https://upload.wikimedia.org/wikipedia/commons/3/3c/Quebec_in_Canada.svg">Wikipedia</a>.</figcaption>
-        <img src="../../quebec.png" alt="A Map highlighting the territory of Québec in comparison to the rest of Canada.">
+        <img src="quebec.png" alt="A Map highlighting the territory of Québec in comparison to the rest of Canada.">
         </figure>
         </div>
 
@@ -794,14 +794,14 @@ Canada and the United States of America are harder to distinguish. Both countrie
 <div style="text-align: center;">
         <figure>
         <figcaption><b>Climate types in North America</b><br>Image source: <a href="https://en.wikipedia.org/wiki/North_America">Wikipedia</a>.</figcaption>
-        <img src="../../northern_america_climates.png" alt="Climates types, with the different climates colored over the Map of North America.">
+        <img src="northern_america_climates.png" alt="Climates types, with the different climates colored over the Map of North America.">
         </figure>
         </div>
 
 <div style="text-align: center;">
         <figure>
         <figcaption><b>Climate types in the United States of America</b><br>Image source: <a href="https://prism.oregonstate.edu/">Northwest Alliance for Computational Science & Engineering</a>.</figcaption>
-        <img src="../../usa_climates.png" alt="Climates types, with the different climates colored over the Map of the USA.">
+        <img src="usa_climates.png" alt="Climates types, with the different climates colored over the Map of the USA.">
         </figure>
         </div>
 
@@ -820,7 +820,7 @@ Google Street View does not cover Oceania well.
 <div style="text-align: center;">
         <figure>
         <figcaption><b>Google Street View Oceania coverage as of January 9th, 2022</b><br>Image source: <a href="https://www.google.com/maps/">Google Maps</a>. Blue lines represent roads mapped by Google.</figcaption>
-        <img src="../../oceania.png" alt="The Google Maps interface, with available locations as blue lines over the Map of Oceania.">
+        <img src="oceania.png" alt="The Google Maps interface, with available locations as blue lines over the Map of Oceania.">
         </figure>
         </div>
 
@@ -835,7 +835,7 @@ New Zealand is more mountainous than Australia. A large part of Australia, the O
 <div style="text-align: center;">
         <figure>
         <figcaption><b>Climate types in Oceania</b><br>Image source: <a href="https://commons.wikimedia.org/wiki/File:Oceania_map_of_K%C3%B6ppen_climate_classification.svg">Wikipedia</a>.</figcaption>
-        <img src="../../oceania_climates.png" alt="Climates types, with the different climates colored over the Map of Oceania.">
+        <img src="oceania_climates.png" alt="Climates types, with the different climates colored over the Map of Oceania.">
         </figure>
         </div>
 
@@ -846,7 +846,7 @@ Regarding climate, New Zealand is colder, and as a consequence "greener".
 <div style="text-align: center;">
         <figure>
         <figcaption><b>Google Street View South America coverage as of January 9th, 2022</b><br>Image source: <a href="https://www.google.com/maps/">Google Maps</a>. Blue lines represent roads mapped by Google.</figcaption>
-        <img src="../../south_america_smaller.png" alt="The Google Maps interface, with available locations as blue lines over the Map of South America.">
+        <img src="south_america_smaller.png" alt="The Google Maps interface, with available locations as blue lines over the Map of South America.">
         </figure>
         </div>
 
@@ -858,7 +858,7 @@ You can easily recognize the Southeast of Brazil thanks to *terra rossa*, a rich
         <figure>
         <figcaption><b>A red-tinted road, due to terra rossa dust, near Paranaiguara,
                         Brazil.</b></figcaption>
-        <img src="../../terra_rossa.png" alt="A Panorama with a road tinted by red dirt.">
+        <img src="terra_rossa.png" alt="A Panorama with a road tinted by red dirt.">
         </figure>
         </div>
 
@@ -867,7 +867,7 @@ You can easily recognize the Southeast of Brazil thanks to *terra rossa*, a rich
 <div style="text-align: center;">
         <figure>
         <figcaption><b>Climate types in South America</b><br>Image source: <a href="https://en.wikipedia.org/wiki/Geography_of_South_America">Wikipedia</a>.</figcaption>
-        <img src="../../south_america_climates.png" alt="Climates types, with the different climates colored over the Map of South America.">
+        <img src="south_america_climates.png" alt="Climates types, with the different climates colored over the Map of South America.">
         </figure>
         </div>
 
@@ -878,16 +878,16 @@ You can recognize your location with the way cars drive. You can also use the lo
 <div style="text-align: center;">
         <figure>
         <figcaption><b>Countries by handedness of road traffic and unit of speed, 2020</b><br>Image source: <a href="https://en.wikipedia.org/wiki/Left-_and_right-hand_traffic">Wikipedia</a>.</figcaption>
-        <img src="../../road_handedness.png" alt="Road handedness, with the countries driving on the right or left colored over the Map of the world.">
+        <img src="road_handedness.png" alt="Road handedness, with the countries driving on the right or left colored over the Map of the world.">
         </figure>
         </div>
 
 |Color|Meaning|
 |-----|-------|
-|<img src="../../road_handedness_right.png" alt="A red square.">|Right-hand traffic and kph.|
-|<img src="../../road_handedness_left.png" alt="A dark blue square.">|Left-hand traffic and kph.|
-|<img src="../../road_handedness_right_mph.png" alt="An orange square.">|Right-hand traffic and mph.|
-|<img src="../../road_handedness_left_mph.png" alt="A light blue square.">|Left-hand traffic and mph.|
+|<img src="road_handedness_right.png" alt="A red square.">|Right-hand traffic and kph.|
+|<img src="road_handedness_left.png" alt="A dark blue square.">|Left-hand traffic and kph.|
+|<img src="road_handedness_right_mph.png" alt="An orange square.">|Right-hand traffic and mph.|
+|<img src="road_handedness_left_mph.png" alt="A light blue square.">|Left-hand traffic and mph.|
 
 Most countries drive on the right lane of the road. However, in former British Empire countries, such as the United Kingdom or South Africa, cars drive on the left lane of the road.
 
@@ -924,7 +924,7 @@ Recognizing Asian languages is difficult. Let's explore their writing difference
 <div style="text-align: center;">
         <figure>
         <figcaption><b>From left to right: a Korean character, a Mandarin character and a Japanese character</b><br>Image source: <a href="https://www.lingualift.com/blog/tell-chinese-japanese-korean-apart/">Lingualift</a>.</figcaption>
-        <img src="../../korean_chinese_japanese.png" alt="Two overlapping circles. The circle on the left has a Korean character. The overlapped space has a Mandarin character. The circle on the right has a Japanese character.">
+        <img src="korean_chinese_japanese.png" alt="Two overlapping circles. The circle on the left has a Korean character. The overlapped space has a Mandarin character. The circle on the right has a Japanese character.">
         </figure>
         </div>
 
@@ -937,7 +937,7 @@ Let's try distinguishing East Asian countries through their writing:
     <div style="text-align: center;">
         <figure>
         <figcaption><b>Article 1 of Universal Declaration of Human Rights in Korean</b><br>Image source: <a href="https://fr.wikipedia.org/wiki/Cor%C3%A9en/">Wikipedia</a>.</figcaption>
-        <img src="../../korean_rights.png" alt="All human beings are born free and equal in dignity and rights. They are endowed with reason and conscience and should act towards one another in a spirit of brotherhood.&quot; in Korean.">
+        <img src="korean_rights.png" alt="All human beings are born free and equal in dignity and rights. They are endowed with reason and conscience and should act towards one another in a spirit of brotherhood.&quot; in Korean.">
         </figure>
         </div>
 
@@ -948,7 +948,7 @@ Let's try distinguishing East Asian countries through their writing:
     <div style="text-align: center;">
         <figure>
         <figcaption><b>Article 1 of Universal Declaration of Human Rights in Mandarin</b><br>Image source: <a href="https://fr.wikipedia.org/wiki/Mandarin_(langue)/">Wikipedia</a>.</figcaption>
-        <img src="../../mandarin_rights.png" alt="All human beings are born free and equal in dignity and rights. They are endowed with reason and conscience and should act towards one another in a spirit of brotherhood.&quot; in Mandarin.">
+        <img src="mandarin_rights.png" alt="All human beings are born free and equal in dignity and rights. They are endowed with reason and conscience and should act towards one another in a spirit of brotherhood.&quot; in Mandarin.">
         </figure>
         </div>
 
@@ -959,7 +959,7 @@ Let's try distinguishing East Asian countries through their writing:
     <div style="text-align: center;">
         <figure>
         <figcaption><b>Article 1 of Universal Declaration of Human Rights in Japanese</b><br>Image source: <a href="https://fr.wikipedia.org/wiki/Japonais/">Wikipedia</a>.</figcaption>
-        <img src="../../japanese_rights.png" alt="All human beings are born free and equal in dignity and rights. They are endowed with reason and conscience and should act towards one another in a spirit of brotherhood.&quot; in Japanese.">
+        <img src="japanese_rights.png" alt="All human beings are born free and equal in dignity and rights. They are endowed with reason and conscience and should act towards one another in a spirit of brotherhood.&quot; in Japanese.">
         </figure>
         </div>
 
@@ -968,7 +968,7 @@ Let's try distinguishing East Asian countries through their writing:
 <div style="text-align: center;">
         <figure>
         <figcaption><b>From left to right: a Thai character, a Bengali character and a Khmer character</b><br></figcaption>
-        <img src="../../thai_bengali_cambodian.png" alt="Two overlapping circles. The circle on the left has a Thai character. The overlapped space has a Bengali character. The circle on the right has a Khmer character.">
+        <img src="thai_bengali_cambodian.png" alt="Two overlapping circles. The circle on the left has a Thai character. The overlapped space has a Bengali character. The circle on the right has a Khmer character.">
         </figure>
         </div>
 
@@ -979,7 +979,7 @@ Let's try distinguishing Southeast Asian countries through their writing:
     <div style="text-align: center;">
         <figure>
         <figcaption><b>Article 1 of Universal Declaration of Human Rights in Thai</b><br>Image source: <a href="https://fr.wikipedia.org/wiki/Tha%C3%AF">Wikipedia</a>.</figcaption>
-        <img src="../../thai_rights.png" alt="All human beings are born free and equal in dignity and rights. They are endowed with reason and conscience and should act towards one another in a spirit of brotherhood.&quot; in Thai.">
+        <img src="thai_rights.png" alt="All human beings are born free and equal in dignity and rights. They are endowed with reason and conscience and should act towards one another in a spirit of brotherhood.&quot; in Thai.">
         </figure>
         </div>
 
@@ -990,7 +990,7 @@ Let's try distinguishing Southeast Asian countries through their writing:
     <div style="text-align: center;">
         <figure>
         <figcaption><b>Article 1 of Universal Declaration of Human Rights in Bengali</b><br>Image source: <a href="https://fr.wikipedia.org/wiki/Bengali">Wikipedia</a>.</figcaption>
-        <img src="../../bengali_rights.png" alt="All human beings are born free and equal in dignity and rights. They are endowed with reason and conscience and should act towards one another in a spirit of brotherhood.&quot; in Bengali.">
+        <img src="bengali_rights.png" alt="All human beings are born free and equal in dignity and rights. They are endowed with reason and conscience and should act towards one another in a spirit of brotherhood.&quot; in Bengali.">
         </figure>
         </div>
 
@@ -999,7 +999,7 @@ Let's try distinguishing Southeast Asian countries through their writing:
     <div style="text-align: center;">
         <figure>
         <figcaption><b>Article 1 of Universal Declaration of Human Rights in Khmer</b><br>Image source: <a href="https://fr.wikipedia.org/wiki/Khmer">Wikipedia</a>.</figcaption>
-        <img src="../../cambodian_rights.png" alt="All human beings are born free and equal in dignity and rights. They are endowed with reason and conscience and should act towards one another in a spirit of brotherhood.&quot; in Khmer.">
+        <img src="cambodian_rights.png" alt="All human beings are born free and equal in dignity and rights. They are endowed with reason and conscience and should act towards one another in a spirit of brotherhood.&quot; in Khmer.">
         </figure>
         </div>
 
@@ -1012,7 +1012,7 @@ Let's try distinguishing Southeast Asian countries through their writing:
     <div style="text-align: center;">
         <figure>
         <figcaption><b>An entrance to a school in Singapore</b><br>In the foreground, observe the sign: "Watch Out For Vehicles". In the background, observe the name of the school in English and Mandarin.</figcaption>
-        <img src="../../singapore.png" alt="A Panorama with the entrance to a school in Singapore. The school has its names in different languages.">
+        <img src="singapore.png" alt="A Panorama with the entrance to a school in Singapore. The school has its names in different languages.">
         </figure>
         </div>
 
@@ -1023,7 +1023,7 @@ Let's try distinguishing Southeast Asian countries through their writing:
     <div style="text-align: center;">
         <figure>
         <figcaption><b>Street painting advertising the entrance of Barangay 420 in Manila</b><br>For English, you can spot the words "Welcome" as well as "City of Manila" on the left bridge pillar. For Spanish, on the right pillar, you can see the first names "Emiliana", "Rodrigo" or "Enrique". They are elected officials of the barangay. Their names are common throughout Spain and Latin America.</figcaption>
-        <img src="../../philippines_barangay.png" alt="A Panorama with a street in Manila, in the Philippines. A painting advertises the entrance to a neighborhood.">
+        <img src="philippines_barangay.png" alt="A Panorama with a street in Manila, in the Philippines. A painting advertises the entrance to a neighborhood.">
         </figure>
         </div>
 
@@ -1041,14 +1041,14 @@ You can zoom in the Map to find the word abbreviated by "BRGY." followed by its 
     <div style="text-align: center;">
         <figure>
         <figcaption><b>Article 1 of Universal Declaration of Human Rights in Malay</b><br>Image source: <a href="https://fr.wikipedia.org/wiki/Malais_(langue)">Wikipedia</a>.</figcaption>
-        <img src="../../malay_rights.png" alt="All human beings are born free and equal in dignity and rights. They are endowed with reason and conscience and should act towards one another in a spirit of brotherhood.&quot; in Malay.">
+        <img src="malay_rights.png" alt="All human beings are born free and equal in dignity and rights. They are endowed with reason and conscience and should act towards one another in a spirit of brotherhood.&quot; in Malay.">
         </figure>
         </div>
 
     <div style="text-align: center;">
         <figure>
         <figcaption><b>Article 1 of Universal Declaration of Human Rights in Indonesian</b><br>Image source: <a href="https://fr.wikipedia.org/wiki/Malais_(langue)">Wikipedia</a>.</figcaption>
-        <img src="../../indonesian_rights.png" alt="All human beings are born free and equal in dignity and rights. They are endowed with reason and conscience and should act towards one another in a spirit of brotherhood.&quot; in Indonesian.">
+        <img src="indonesian_rights.png" alt="All human beings are born free and equal in dignity and rights. They are endowed with reason and conscience and should act towards one another in a spirit of brotherhood.&quot; in Indonesian.">
         </figure>
         </div>
 
@@ -1057,24 +1057,24 @@ You can zoom in the Map to find the word abbreviated by "BRGY." followed by its 
 <div style="text-align: center;">
         <figure>
         <figcaption><b>How to figure out what European language you are reading</b><br>Image source: <a href="https://www.reddit.com/r/interestingasfuck/comments/bccwgl/how_to_figure_out_what_european_language_you_are/">Reddit</a>.</figcaption>
-        <img src="../../flowchart_european_languages.jpg" alt="A flowchart to recognize European languages through their alphabets.">
+        <img src="flowchart_european_languages.jpg" alt="A flowchart to recognize European languages through their alphabets.">
         </figure>
         </div>
 
 <div style="text-align: center;">
         <figure>
         <figcaption><b>"Hello" in various European languages</b><br>Image source: <a href="https://jakubmarian.com/hello-in-european-languages-map/">Jakub Marian</a>.</figcaption>
-        <img src="../../european_languages.png" alt="A Map of Europe with &quot;Hello&quot; superimposed on each country&apos;s language. Colors highlight groups of languages.">
+        <img src="european_languages.png" alt="A Map of Europe with &quot;Hello&quot; superimposed on each country&apos;s language. Colors highlight groups of languages.">
         </figure>
         </div>
 
 |Color|Language family|
 |-----|-----------------|
-|<img src="../../romance_languages.png" alt="A red square.">|Romance languages|
-|<img src="../../germanic_languages.png" alt="A brown square.">|Germanic languages|
-|<img src="../../slavic_languages.png" alt="A blue square.">|Slavic languages|
-|<img src="../../uralic_languages.png" alt="A dark green square.">|Uralic languages|
-|<img src="../../baltic_languages.png" alt="A dark blue square.">|Baltic languages|
+|<img src="romance_languages.png" alt="A red square.">|Romance languages|
+|<img src="germanic_languages.png" alt="A brown square.">|Germanic languages|
+|<img src="slavic_languages.png" alt="A blue square.">|Slavic languages|
+|<img src="uralic_languages.png" alt="A dark green square.">|Uralic languages|
+|<img src="baltic_languages.png" alt="A dark blue square.">|Baltic languages|
 
 ###### Romance Languages
 
@@ -1095,7 +1095,7 @@ By numbers of native speakers, Cyrillic Slavic languages are Russian, Ukrainian,
 <div style="text-align: center;">
         <figure>
         <figcaption><b>Article 1 of Universal Declaration of Human Rights in Russian</b><br>Image source: <a href="https://fr.wikipedia.org/wiki/Russe">Wikipedia</a>.</figcaption>
-        <img src="../../russian_rights.png" alt="All human beings are born free and equal in dignity and rights. They are endowed with reason and conscience and should act towards one another in a spirit of brotherhood.&quot; in Russian.">
+        <img src="russian_rights.png" alt="All human beings are born free and equal in dignity and rights. They are endowed with reason and conscience and should act towards one another in a spirit of brotherhood.&quot; in Russian.">
         </figure>
         </div>
 
@@ -1104,7 +1104,7 @@ By numbers of native speakers, Latin Slavic languages are Polish, Czech, Serbian
 <div style="text-align: center;">
         <figure>
         <figcaption><b>Article 1 of Universal Declaration of Human Rights in Czech</b><br>Image source: <a href="https://fr.wikipedia.org/wiki/Tch%C3%A8que">Wikipedia</a>.</figcaption>
-        <img src="../../czech_rights.png" alt="All human beings are born free and equal in dignity and rights. They are endowed with reason and conscience and should act towards one another in a spirit of brotherhood.&quot; in Czech.">
+        <img src="czech_rights.png" alt="All human beings are born free and equal in dignity and rights. They are endowed with reason and conscience and should act towards one another in a spirit of brotherhood.&quot; in Czech.">
         </figure>
         </div>
 
@@ -1117,7 +1117,7 @@ You can recognize Finnish and Estonian through their repeated letters. You can r
 <div style="text-align: center;">
         <figure>
         <figcaption><b>Article 1 of Universal Declaration of Human Rights in Finnish</b><br>Image source: <a href="https://fr.wikipedia.org/wiki/Finnois">Wikipedia</a>.</figcaption>
-        <img src="../../finnish_rights.png" alt="All human beings are born free and equal in dignity and rights. They are endowed with reason and conscience and should act towards one another in a spirit of brotherhood.&quot; in Finnish.">
+        <img src="finnish_rights.png" alt="All human beings are born free and equal in dignity and rights. They are endowed with reason and conscience and should act towards one another in a spirit of brotherhood.&quot; in Finnish.">
         </figure>
         </div>
 
@@ -1130,7 +1130,7 @@ By numbers of native speakers, Baltic languages are Lithuanian and Latvian.
 <div style="text-align: center;">
         <figure>
         <figcaption><b>Article 1 of Universal Declaration of Human Rights in Latvian</b><br>Image source: <a href="https://fr.wikipedia.org/wiki/Letton">Wikipedia</a>.</figcaption>
-        <img src="../../latvian_rights.png" alt="All human beings are born free and equal in dignity and rights. They are endowed with reason and conscience and should act towards one another in a spirit of brotherhood.&quot; in Latvian.">
+        <img src="latvian_rights.png" alt="All human beings are born free and equal in dignity and rights. They are endowed with reason and conscience and should act towards one another in a spirit of brotherhood.&quot; in Latvian.">
         </figure>
         </div>
 
@@ -1145,7 +1145,7 @@ Greek has its own alphabet, present in no other language in the world.
 <div style="text-align: center;">
         <figure>
         <figcaption><b>Article 1 of Universal Declaration of Human Rights in Greek</b><br>Image source: <a href="https://fr.wikipedia.org/wiki/Grec_moderne">Wikipedia</a>.</figcaption>
-        <img src="../../greek_rights.png" alt="All human beings are born free and equal in dignity and rights. They are endowed with reason and conscience and should act towards one another in a spirit of brotherhood.&quot; in Greek.">
+        <img src="greek_rights.png" alt="All human beings are born free and equal in dignity and rights. They are endowed with reason and conscience and should act towards one another in a spirit of brotherhood.&quot; in Greek.">
         </figure>
         </div>
 
@@ -1157,7 +1157,7 @@ Basque is a language isolate.
 <div style="text-align: center;">
         <figure>
         <figcaption><b>Article 1 of Universal Declaration of Human Rights in Basque</b><br>Image source: <a href="https://fr.wikipedia.org/wiki/Basque">Wikipedia</a>.</figcaption>
-        <img src="../../basque_rights.png" alt="All human beings are born free and equal in dignity and rights. They are endowed with reason and conscience and should act towards one another in a spirit of brotherhood.&quot; in Basque.">
+        <img src="basque_rights.png" alt="All human beings are born free and equal in dignity and rights. They are endowed with reason and conscience and should act towards one another in a spirit of brotherhood.&quot; in Basque.">
         </figure>
         </div>
 
@@ -1166,17 +1166,17 @@ Basque is a language isolate.
 <div style="text-align: center;">
         <figure>
         <figcaption><b>A Map of prominent American languages</b><br>Image source: <a href="https://commons.wikimedia.org/wiki/File:Languages_of_North_America.svg">Wikipedia</a>.</figcaption>
-        <img src="../../america_languages.png" alt="A Map of the America, with countries colored according to the language they speak.">
+        <img src="america_languages.png" alt="A Map of the America, with countries colored according to the language they speak.">
         </figure>
         </div>
 
 |Color|Meaning|
 |-----|-------|
-|<img src="../../english.png" alt="A red square.">|English|
-|<img src="../../spanish.png" alt="A green square.">|Spanish|
-|<img src="../../portuguese.png" alt="A light brown square.">|Portuguese|
-|<img src="../../french.png" alt="A dark blue square.">|French|
-|<img src="../../dutch.png" alt="A yellow square.">|Dutch|
+|<img src="english.png" alt="A red square.">|English|
+|<img src="spanish.png" alt="A green square.">|Spanish|
+|<img src="portuguese.png" alt="A light brown square.">|Portuguese|
+|<img src="french.png" alt="A dark blue square.">|French|
+|<img src="dutch.png" alt="A yellow square.">|Dutch|
 
 #### Oceania
 
@@ -1187,17 +1187,17 @@ At the moment of writing, Geoguessr only covers Australia and New Zealand in Oce
 <div style="text-align: center;">
         <figure>
         <figcaption><b>A Map of prominent American languages</b><br>Image source: <a href="https://commons.wikimedia.org/wiki/File:Languages_of_North_America.svg">Wikipedia</a>.</figcaption>
-        <img src="../../america_languages.png" alt="A Map of the America, with countries colored according to the language they speak.">
+        <img src="america_languages.png" alt="A Map of the America, with countries colored according to the language they speak.">
         </figure>
         </div>
 
 |Color|Meaning|
 |-----|-------|
-|<img src="../../english.png" alt="A red square.">|English|
-|<img src="../../spanish.png" alt="A green square.">|Spanish|
-|<img src="../../portuguese.png" alt="A light brown square.">|Portuguese|
-|<img src="../../french.png" alt="A dark blue square.">|French|
-|<img src="../../dutch.png" alt="A yellow square.">|Dutch|
+|<img src="english.png" alt="A red square.">|English|
+|<img src="spanish.png" alt="A green square.">|Spanish|
+|<img src="portuguese.png" alt="A light brown square.">|Portuguese|
+|<img src="french.png" alt="A dark blue square.">|French|
+|<img src="dutch.png" alt="A yellow square.">|Dutch|
 
 Most countries in South America speak Spanish. The exceptions are Guyana, Suriname and French Guiana. You will not find Guyana, Suriname or French Guiana in Geoguessr.
 
@@ -1206,14 +1206,14 @@ Most countries in South America speak Spanish. The exceptions are Guyana, Surina
 <div style="text-align: center;">
         <figure>
         <figcaption><b>Article 1 of Universal Declaration of Human Rights in Spanish</b><br>Image source: <a href="https://fr.wikipedia.org/wiki/Espagnol">Wikipedia</a>.</figcaption>
-        <img src="../../spanish_rights.png" alt="All human beings are born free and equal in dignity and rights. They are endowed with reason and conscience and should act towards one another in a spirit of brotherhood.&quot; in Spanish.">
+        <img src="spanish_rights.png" alt="All human beings are born free and equal in dignity and rights. They are endowed with reason and conscience and should act towards one another in a spirit of brotherhood.&quot; in Spanish.">
         </figure>
         </div>
 
 <div style="text-align: center;">
         <figure>
         <figcaption><b>Article 1 of Universal Declaration of Human Rights in Portuguese</b><br>Image source: <a href="https://fr.wikipedia.org/wiki/Portugais">Wikipedia</a>.</figcaption>
-        <img src="../../portuguese_rights.png" alt="All human beings are born free and equal in dignity and rights. They are endowed with reason and conscience and should act towards one another in a spirit of brotherhood.&quot; in Portuguese.">
+        <img src="portuguese_rights.png" alt="All human beings are born free and equal in dignity and rights. They are endowed with reason and conscience and should act towards one another in a spirit of brotherhood.&quot; in Portuguese.">
         </figure>
         </div>
 
@@ -1224,7 +1224,7 @@ Portuguese has distinctive diacritics: for example, the cedilla <b>ç</b>, as we
 <div style="text-align: center;">
         <figure>
         <figcaption><b>Publicity for a garage in Rio de Janeiro, Brazil, bearing Portuguese diacritics (e.g. suspensão).</b></figcaption>
-        <img src="../../brazil_languages.png" alt="The entrance to a garage in Brazil, advertising its services in Portuguese.">
+        <img src="brazil_languages.png" alt="The entrance to a garage in Brazil, advertising its services in Portuguese.">
         </figure>
         </div>
 
@@ -1249,7 +1249,7 @@ In Ghana, for example, the roof rack has black tape on one of its sides.
 <div style="text-align: center;">
         <figure>
         <figcaption><b>Ghanaian roof rack</b></figcaption>
-        <img src="../../ghana.png" alt="A Panorama in Ghana, with a roof rack on top of the car taking the image. The roof rack has black tape on one of its sides.">
+        <img src="ghana.png" alt="A Panorama in Ghana, with a roof rack on top of the car taking the image. The roof rack has black tape on one of its sides.">
         </figure>
         </div>
 
@@ -1260,7 +1260,7 @@ In Nigeria, the roof rack has black-and-yellow tape.
 <div style="text-align: center;">
         <figure>
         <figcaption><b>Nigerian roof rack</b></figcaption>
-        <img src="../../nigeria.png" alt="A Panorama in Nigeria, with a roof rack on top of the car taking the image. The roof rack has black-and-yellow tape.">
+        <img src="nigeria.png" alt="A Panorama in Nigeria, with a roof rack on top of the car taking the image. The roof rack has black-and-yellow tape.">
         </figure>
         </div>
 
@@ -1271,7 +1271,7 @@ In Kenya, the roof rack bears no significant hint. However, on the left front of
 <div style="text-align: center;">
         <figure>
         <figcaption><b>Kenyan roof rack</b></figcaption>
-        <img src="../../kenya.png" alt="A Panorama in Kenya, with a roof rack on top of the car taking the image. The car also has an arm in the front of the car.">
+        <img src="kenya.png" alt="A Panorama in Kenya, with a roof rack on top of the car taking the image. The car also has an arm in the front of the car.">
         </figure>
         </div>
 
@@ -1284,7 +1284,7 @@ In Mongolia, the roof rack has two beams crossing the racks.
 <div style="text-align: center;">
         <figure>
         <figcaption><b>Mongolian roof rack</b></figcaption>
-        <img src="../../mongolia.png" alt="A Panorama in Mongolia, with a roof rack on top of the car taking the image. The roof rack has two beams crossing the racks.">
+        <img src="mongolia.png" alt="A Panorama in Mongolia, with a roof rack on top of the car taking the image. The roof rack has two beams crossing the racks.">
         </figure>
         </div>
 
@@ -1295,7 +1295,7 @@ In Kyrgyzstan, the roof rack has no distinguishing feature. Try to find other hi
 <div style="text-align: center;">
         <figure>
         <figcaption><b>Kyrgyz roof rack</b></figcaption>
-        <img src="../../kyrgyzstan1.png" alt="A Panorama in Kyrgyzstan, with a roof rack on top of the car taking the image.">
+        <img src="kyrgyzstan1.png" alt="A Panorama in Kyrgyzstan, with a roof rack on top of the car taking the image.">
         </figure>
         </div>
 
@@ -1304,7 +1304,7 @@ In the following case, moving the camera around reveals Arabic script. Arabic is
 <div style="text-align: center;">
         <figure>
         <figcaption><b>Kyrgyz writing</b></figcaption>
-        <img src="../../kyrgyzstan2.png" alt="A Panorama in Kyrgyzstan with a mosque.">
+        <img src="kyrgyzstan2.png" alt="A Panorama in Kyrgyzstan with a mosque.">
         </figure>
         </div>
 
@@ -1319,13 +1319,13 @@ Here are a few common issues while playing Geoguessr, and our solutions.
 <div style="text-align: center;">
         <figure>
         <figcaption><b>Geoguessr shows me a black screen</b></figcaption>
-        <img src="../../black_screen.png" alt="A Panorama displaying black instead of an image.">
+        <img src="black_screen.png" alt="A Panorama displaying black instead of an image.">
         </figure>
         </div>
 
 Everything is going to be okay, you only have insufficient connection speed. Try the following course of action:
 
-1. Begin by refreshing <img src="../../refresh.png" alt="The Refresh button on a web browser."> your tab.
+1. Begin by refreshing <img src="refresh.png" alt="The Refresh button on a web browser."> your tab.
 
     - On Windows, this feature is next to the **Back** and **Forward** buttons. This applies to most web browsers, including Google Chrome, Mozilla Firefox and Microsoft Edge.
 
@@ -1345,7 +1345,7 @@ Everything is going to be okay, you only have insufficient connection speed. Try
 <div style="text-align: center;">
         <figure>
         <figcaption><b>Geoguessr shows me a black screen</b></figcaption>
-        <img src="../../no_network.png" alt="An error page on a web browser saying that the browser failed to reach Geoguessr.">
+        <img src="no_network.png" alt="An error page on a web browser saying that the browser failed to reach Geoguessr.">
         </figure>
         </div>
 
@@ -1368,7 +1368,7 @@ It seems you are not connected to the Internet anymore. Try the following course
     <div style="text-align: center;">
         <figure>
         <figcaption><b>This is a router</b></figcaption>
-        <img src="../../router.png" alt="A black router on a white background.">
+        <img src="router.png" alt="A black router on a white background.">
         </figure>
         </div>
 
@@ -1398,7 +1398,7 @@ In a NM (No Moving) game, you cannot move. However, you can pan or zoom. NM make
 <div style="text-align: center;">
         <figure>
         <figcaption><b>ItsRC holds the (NM) Country Streaks record with 117 countries guessed in a row without moving</b></figcaption>
-        <img src="../../streaks_nm.png" alt="The Geotips No Moving Country Streaks record. Player ItsRC holds the record with 117 countries guessed in a row without moving.">
+        <img src="streaks_nm.png" alt="The Geotips No Moving Country Streaks record. Player ItsRC holds the record with 117 countries guessed in a row without moving.">
         </figure>
         </div>
 
@@ -1413,7 +1413,7 @@ No player has ever had a perfect game (25,000 points) playing this way.
 <div style="text-align: center;">
         <figure>
         <figcaption><b>Player scrypero holds the (NMPZ) Solo High Score record with 24,795 points</b></figcaption>
-        <img src="../../solo_nmpz.png" alt="The Geotips No Moving Panning or Zooming Solo High Score record. Player scrypero holds the (NMPZ) Solo High Score record with 24,795 points.">
+        <img src="solo_nmpz.png" alt="The Geotips No Moving Panning or Zooming Solo High Score record. Player scrypero holds the (NMPZ) Solo High Score record with 24,795 points.">
         </figure>
         </div>
 
@@ -1426,7 +1426,7 @@ You can choose to apply scripts to Geoguessr to make the game harder. For exampl
 <div style="text-align: center;">
         <figure>
         <figcaption><b>A YouTuber playing Battle Royale Countries and deliberately hiding the Google car to make the game harder.</b></br>Image source: <a href="https://www.youtube.com/watch?v=z59fXJevBzw">YouTube</a></figcaption>
-        <img src="../../ncnc.png" alt="A YouTube screenshot of someone playing Geoguessr , and having obstructed the car in the Panorama.">
+        <img src="ncnc.png" alt="A YouTube screenshot of someone playing Geoguessr , and having obstructed the car in the Panorama.">
         </figure>
         </div>
 
@@ -1456,7 +1456,7 @@ Make sure your computer runs Windows 10, or a later version of Windows.
 
     <div style="text-align: center;">
         <figure>
-        <img src="../../windows_capture.png" alt="The Screen Recorder interface in Windows. The Recorder displays the length of the recording. There is a Stop recording button and Start microphone recording button.">
+        <img src="windows_capture.png" alt="The Screen Recorder interface in Windows. The Recorder displays the length of the recording. There is a Stop recording button and Start microphone recording button.">
         </figure>
         </div>
 
@@ -1482,7 +1482,7 @@ You can of course learn patterns and clues inherent to Geoguessr. However, what 
 
 <div style="text-align: center;">
         <figure>
-        <img src="../../meme.jpg" alt="A meme from the TV show The Office (US). One character (a boss) shakes the hand of another character, who seems uncomfortable. Over the boss, superimposed text says &quot;People I know thinking I can pinpoint any location in the world off a picture&quot;. Over the other character, superimposed text says &quot;Me only knowing it was Ghana because of tape on a roof rack&quot;.">
+        <img src="meme.jpg" alt="A meme from the TV show The Office (US). One character (a boss) shakes the hand of another character, who seems uncomfortable. Over the boss, superimposed text says &quot;People I know thinking I can pinpoint any location in the world off a picture&quot;. Over the other character, superimposed text says &quot;Me only knowing it was Ghana because of tape on a roof rack&quot;.">
         </figure>
         </div>
 
