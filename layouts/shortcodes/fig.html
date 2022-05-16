@@ -12,7 +12,7 @@
     </figcaption>
     {{ end }}
     {{ if .Get "desc"}}
-    <aside>{{ .Get "desc" }}</aside>
+    <aside>{{ .Get "desc" | markdownify }}</aside>
     {{ end }}
     {{ with .Get "link" }}<a href="{{ . }}">{{ end }}
         <img src="{{ .Get "src" }}" {{ if or (.Get "alt") (.Get "caption") }}alt="{{ with .Get "alt" }}{{ . }}{{ else }}{{ .Get "caption" }}{{ end }}"{{ end }} />
