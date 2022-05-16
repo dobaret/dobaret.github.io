@@ -288,7 +288,7 @@ Fewer players use **Custom settings** than Default Settings. **Custom settings**
     You could give **World** a try.
 
 4. Uncheck **Use default settings**.
-5. Set a custom **Time limit** by dragging the handle ![](cursor.png "The time limit handle in Custom Settings to start a game in Geoguessr. It is a circle.") from left to right.
+5. Set a custom **Time limit** by dragging the handle ![The time limit handle in Custom Settings to start a game in Geoguessr. It is a circle.](cursor.png) from left to right.
 
     By default, the handle is on the far left, which means **No time limit**. The more you drag it to the right, the more time you add, up to 10 minutes a round.
 
