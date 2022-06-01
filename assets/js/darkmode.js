@@ -11,8 +11,11 @@ if (mode !== null) {
 
     } else {
 
-      localStorage.setItem('theme', 'light');
-      document.documentElement.removeAttribute('data-dark-mode');
+//      localStorage.setItem('theme', 'light');
+//      document.documentElement.removeAttribute('data-dark-mode');
+
+        localStorage.setItem('theme', 'dark');
+        document.documentElement.setAttribute('data-dark-mode', '');
 
     }
 
@@ -31,7 +34,8 @@ if (mode !== null) {
 
   } else {
 
-    document.documentElement.removeAttribute('data-dark-mode');
+    //  document.documentElement.removeAttribute('data-dark-mode');
+    document.documentElement.setAttribute('data-dark-mode', '');
 
   }
 

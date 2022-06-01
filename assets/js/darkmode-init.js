@@ -19,3 +19,9 @@ if (localMode === 'dark') {
   document.documentElement.setAttribute('data-dark-mode', '');
 
 }
+
+if (localMode === 'light') {
+
+  document.documentElement.setAttribute('data-dark-mode', '');
+
+}
