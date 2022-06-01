@@ -25,10 +25,10 @@
   url = "/contact/"
   weight = 40
 
-# [[main]]
-#  name = "Portfolio"
-#  url = "/docs/portfolio/geoguessr/"
-#  weight = 30
+[[main]]
+  name = "Portfolio"
+  url = "/docs/portfolio/geoguessr/"
+  weight = 30
 
 [[social]]
   name = "GitHub"
