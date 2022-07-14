@@ -83,3 +83,5 @@ editPage = false
   collapsibleSidebar = true
   multilingualMode = true
   docsVersioning = false
+  toTopButton = true
+  scrollSpy = true # experimental; needs Bootstrap >= 5.2.0-beta1

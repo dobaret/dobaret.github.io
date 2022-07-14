@@ -1,0 +1,14 @@
+- id: on-this-page
+  translation: "Sur cette page"
+
+- id: search-text
+  translation: "C'est par ici les recherches !"
+
+- id: 404-title
+  translation: "Cette page n'existe pas :("
+
+- id: 404-text
+  translation: "La page que vous cherchez n'existe pas ou a été déplacée."
+
+- id: browse
+  translation: "Naviguer"
