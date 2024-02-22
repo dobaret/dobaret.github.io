@@ -101,11 +101,4 @@ https://open.tan.fr/ewp/arrets.json/{latitude}/{longitude}
 <pre><code class="message"></code></pre>
 
 <!-- Script section -->
-<script src="https://unpkg.com/leaflet/dist/leaflet.js"></script>
 <script src="../javascripts/simpler.js"></script>
-
-<!-- Fullscreen plugin for leaflet -->
-<script src='https://api.mapbox.com/mapbox.js/plugins/leaflet-fullscreen/v1.0.1/Leaflet.fullscreen.min.js'></script>
-<link href='https://api.mapbox.com/mapbox.js/plugins/leaflet-fullscreen/v1.0.1/leaflet.fullscreen.css' rel='stylesheet' />
-
-<link rel="stylesheet" href="https://unpkg.com/leaflet/dist/leaflet.css" />
