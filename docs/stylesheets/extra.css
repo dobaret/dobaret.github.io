@@ -1,0 +1,146 @@
+/* Make tables occupy whole width of <article> */
+/* https://github.com/squidfunk/mkdocs-material/discussions/3530 */
+
+.md-typeset__table {
+    width: 100%;
+}
+
+.md-typeset__table table:not([class]) {
+    display: table;
+}
+
+.message {
+    min-height: 39.53px;
+}
+
+code {
+    white-space: pre-wrap;
+}
+
+.tagline {
+    justify-content: center;
+    font-weight: bold;
+    font-size: 20px;
+}
+
+.spacing1, .spacing2, .spacing3, .tagline {
+    display: flex;
+}
+
+.spacing1 {
+    justify-content: space-between;
+    margin-bottom: 1em;
+}
+
+.spacing2 {
+    justify-content: space-evenly;
+    margin-bottom: 1em;
+}
+
+.spacing3 {
+    justify-content: center;
+}
+
+#map {
+    z-index:1;
+    height: 400px;
+    border: 2px solid var(--md-primary-fg-color);
+    font-size: 12px;
+    font-family: var(--md-text-font);
+    margin-bottom: 1em;
+}
+
+.center-marker {
+    font-size: 20px;
+    color: black;
+}
+
+.libelle {
+    font-weight: bold;
+    display: block;
+}
+
+.waiting-time {
+    font-style: italic;
+}
+
+.language-get::before {
+    content: "GET";
+    font-size: 15px;
+    font-weight: bold;
+    padding-right: 30px;
+}
+
+/* highlight.js section */
+
+pre code.hljs{
+    display:block;
+    overflow-x:auto;
+    padding:1em
+}
+
+code.hljs{
+    padding:3px 5px
+}
+
+.hljs{
+    background:#f3f3f3;
+    color:#444
+}
+
+.hljs-comment{
+    color:#697070
+}
+
+.hljs-punctuation,.hljs-tag{
+    color:#444a
+}
+
+.hljs-attr {
+    color: var(--md-code-hl-keyword-color) !important;
+}
+
+.hljs-tag .hljs-attr, .hljs-tag .hljs-name{
+    color: #3f6ec6 !important;
+}
+
+.hljs-attribute,.hljs-doctag,.hljs-keyword,.hljs-meta .hljs-keyword,.hljs-name,.hljs-selector-tag{
+    font-weight:normal;
+}
+
+.hljs-deletion,.hljs-number,.hljs-quote,.hljs-selector-class,.hljs-selector-id,.hljs-string,.hljs-template-tag,.hljs-type{
+    color: var(--md-code-hl-string-color);
+}
+
+.hljs-section,.hljs-title{
+    color:#800;
+    font-weight:700
+}
+
+.hljs-link,.hljs-operator,.hljs-regexp,.hljs-selector-attr,.hljs-selector-pseudo,.hljs-symbol,.hljs-template-variable,.hljs-variable{
+    color:#ab5656
+}
+
+.hljs-literal{
+    color:#695
+}
+
+.hljs-addition,.hljs-built_in,.hljs-bullet,.hljs-code{
+    color:#397300
+}
+
+.hljs-meta{
+    color:#1f7199
+}
+
+.hljs-meta .hljs-string{
+    color:#38a
+}
+
+.hljs-emphasis{
+    font-style:italic
+}
+
+.hljs-strong{
+    font-weight:700
+}
