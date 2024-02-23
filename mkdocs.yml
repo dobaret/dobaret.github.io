@@ -1,10 +1,44 @@
-site_name: My Docs
+site_name: Dorian Baret
 theme:
   name: material
+  icon:
+    logo: fontawesome/solid/square-pen 
+  custom_dir: overrides
   features:
     - content.code.copy
+    - navigation.tabs
+  palette:
+    - media: "(prefers-color-scheme)"
+      toggle:
+        icon: material/link
+        name: Switch to light mode
+    - media: "(prefers-color-scheme: light)"
+      scheme: default
+      primary: custom
+      accent: indigo
+      toggle:
+        icon: material/toggle-switch
+        name: Switch to dark mode
+    - media: "(prefers-color-scheme: dark)"
+      scheme: slate
+      primary: black
+      accent: indigo
+      toggle:
+        icon: material/toggle-switch-off
+        name: Switch to system preference
+nav:
+  - Home:
+    - 'index.md'
+  - API Naolib:
+    - 'list_all_stops.md'
+    - 'stops_near_lat_long.md'
+    - 'waiting_time_stop.md'
+    - "Lalala": 'test.html'
 markdown_extensions:
   - attr_list
+  - pymdownx.emoji:
+      emoji_index: !!python/name:material.extensions.emoji.twemoji
+      emoji_generator: !!python/name:material.extensions.emoji.to_svg
   - tables
   - pymdownx.highlight:
       anchor_linenums: true
