@@ -2,7 +2,7 @@
 
 My name is Dorian Baret.
 
-I'm currently a technical writer at [Fluid Topics](https://www.fluidtopics.com/). I take care of docs.fluidtopics.com.
+I'm currently a :material-typewriter: technical writer at [Fluid Topics](https://www.fluidtopics.com/). I take care of [docs.fluidtopics.com](https://docs.fluidtopics.com/).
 
 In my free time, I like to :material-bike-fast: cycle and play :material-badminton: badminton.
 
