@@ -8,7 +8,7 @@ https://open.tan.fr/ewp/arrets.json
 
 ## Response body
 
-```json
+```json title="JSON"
 [
   {
     "codeLieu": "ABCH",

@@ -13,7 +13,7 @@ https://open.tan.fr/ewp/arrets.json/{latitude}/{longitude}
 
 ## Response body
 
-```json
+```json title="JSON"
 [
   {
     "codeLieu": "MVSI",

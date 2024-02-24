@@ -3,6 +3,14 @@
     --md-primary-bg-color: black;
 }
 
+.md-grid {
+    max-width: 1180px; 
+}
+
+.md-header--shadow {
+    box-shadow: none;
+}
+
 /* Make tables occupy whole width of <article> */
 /* https://github.com/squidfunk/mkdocs-material/discussions/3530 */
 
@@ -81,4 +89,16 @@ code {
     height: 20px;
     margin: 10px;
     margin-bottom: 13px;
+}
+
+.do_not_break {
+    display: inline-block;
+}
+
+.md-typeset a, .md-nav--primary .md-nav__item--active > .md-nav__link {
+    color: var(--md-accent-fg-color);
+}
+
+.md-typeset a:hover, .md-nav__link[href]:hover, .md-nav--primary .md-nav__item--active > .md-nav__link:hover {
+    color: var(--md-typeset-a-color);
 }

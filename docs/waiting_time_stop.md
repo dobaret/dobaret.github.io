@@ -12,7 +12,7 @@ https://open.tan.fr/ewp/tempsattente.json/{codeArret}
 
 ## Response body
 
-```json
+```json title="JSON"
 [
     {
         "sens": 1,
