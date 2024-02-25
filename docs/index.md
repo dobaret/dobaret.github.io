@@ -1,12 +1,13 @@
 # Welcome!
 
-My name is **Dorian Baret**.
+My name is **Dorian Baret**(1).
+{ .annotate }
 
-*[Dorian Baret]: [dɔ.ʁjɑ̃ ba.ʁɛ]
+1.  :material-volume-high: [dɔ.ʁjɑ̃ ba.ʁɛ]
 
-I'm currently a <span class="do_not_break">:fontawesome-solid-computer: software</span> technical writer at [Fluid Topics](https://www.fluidtopics.com/).
+I'm currently a <span class="do_not_break">:fontawesome-solid-computer: software</span> technical writer at [Fluid&nbsp;Topics](https://www.fluidtopics.com/).
 
-I take care of [docs.fluidtopics.com](https://docs.fluidtopics.com/) using :simple-markdown: Markdown, :simple-gitlab: GitLab, :simple-docker: Docker and Vale.
+I take care of [docs.fluidtopics.com](https://docs.fluidtopics.com/) using <span class="do_not_break">:simple-markdown: Markdown</span>, <span class="do_not_break">:simple-gitlab: GitLab</span>, <span class="do_not_break">:simple-docker: Docker</span> and Vale.
 
 In my free time, I like to <span class="do_not_break">:material-bike-fast: cycle</span> and play <span class="do_not_break">:material-badminton: badminton</span>.
 
@@ -27,7 +28,7 @@ In my free time, I like to <span class="do_not_break">:material-bike-fast: cycle
 
     Focus on your content and generate a responsive and searchable static site
 
-    [:octicons-arrow-right-24: Reference](#)
+    [:octicons-arrow-right-24: API Naolib](list_all_stops.md)
 
 </div>
 

@@ -38,6 +38,8 @@ nav:
     - 'stops_near_lat_long.md'
     - 'waiting_time_stop.md'
     - "Lalala": 'test.html'
+  - Contact:
+    - contact.md
 markdown_extensions:
   - attr_list
   - pymdownx.emoji:
