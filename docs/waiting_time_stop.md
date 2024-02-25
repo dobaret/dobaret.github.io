@@ -131,10 +131,10 @@ https://open.tan.fr/ewp/tempsattente.json/{codeArret}
 | `dernierDepart`     | Array  |                  |
 | `tempsReel`     | Array  |                  |
 | `ligne`     | Array  |                  |
-| ;nbsp;nbsp;nbsp;nbsp;`numLigne` | Array  |                  |
-| ;nbsp;nbsp;nbsp;nbsp;`typeLigne` | Array  |                  |
+|                 `numLigne` | Array  |                  |
+|                 `typeLigne` | Array  |                  |
 | `arret` | Array  |                  |
-| ;nbsp;nbsp;nbsp;nbsp;`codeArret` | Array  |                  |
+|                 `codeArret` | Array  |                  |
 
 ## Return codes
 

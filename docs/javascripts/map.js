@@ -127,22 +127,49 @@ document.addEventListener('DOMContentLoaded', function() {
         fetch(tempsUrl)
             .then(response => response.json())
             .then(data => {
-                const waitingTime = data[0].temps;
-                let waitingMessage;
-                if (waitingTime === "") {
-                    waitingMessage = "Bonne nuit !";
-                } else if (waitingTime === "proche") {
-                    waitingMessage = "Proche !";
-                } else {
-                    waitingMessage = `<span class="waiting-time-value">${waitingTime}</span>`;
-                }
-                const popupContent = `<div class="popup-content"><span class="libelle">${libelle}</span><span class="waiting-time">Temps d'attente : </span>${waitingMessage}</div>`;
+                // Filter and sort the data based on waiting times
+                const filteredData = data.filter(item => item.tempsReel === "true")
+                                         .sort((a, b) => {
+                                             if (a.temps === "proche") return -1;
+                                             if (b.temps === "proche") return 1;
+                                             return parseInt(a.temps) - parseInt(b.temps);
+                                         });
+    
+                // Generating the table structure
+                let tableContent = `
+                <div class="table-container">
+                    <table>
+                        <thead>
+                            <tr>
+                                <th>Line number</th>
+                                <th>Direction</th>
+                                <th>Waiting time</th>
+                            </tr>
+                        </thead>
+                        <tbody>`;
+    
+                // Populating table rows with data
+                filteredData.forEach(item => {
+                    let waitingTime = item.temps === "proche" ? "Proche !" : item.temps;
+                    tableContent += `
+                        <tr>
+                            <td>${item.ligne.numLigne}</td>
+                            <td>${item.terminus}</td>
+                            <td>${waitingTime}</td>
+                        </tr>`;
+                });
+    
+                // Closing table tag
+                tableContent += `</tbody></table></div>`;
+    
+                // Creating the popup content with table
+                const popupContent = `<div class="popup-content"><span class="libelle">${libelle} (${codeLieu})</span>${tableContent}</div>`;
                 marker.setPopupContent(popupContent); // Update popup content
             })
             .catch(error => {
                 logMessage(`Error fetching bus stop waiting time for ${codeLieu}: ${error}`, 'error');
             });
-    }
+    }    
 
     // Function to display bus stops on the map
     function displayBusStops(stopDetails) {
@@ -163,7 +190,7 @@ document.addEventListener('DOMContentLoaded', function() {
                 });
 
                 var marker = L.marker([lat, lon], { icon: redIcon }).addTo(markers);
-                marker.bindPopup(`<div class="popup-content"><span class="libelle">${libelle}</span><span class="waiting-time">Loading...</span></div>`); // Bind popup without opening
+                marker.bindPopup(); // Bind popup without opening
                 fetchWaitingTime(codeLieu, libelle, lat, lon, marker);
             }
         });
