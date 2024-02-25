@@ -52,9 +52,11 @@ markdown_extensions:
       pygments_lang_class: true
   - pymdownx.inlinehilite
   - pymdownx.snippets
+  - pymdownx.details
   - pymdownx.superfences
   - md_in_html
   - abbr
+  - admonition
 extra_css:
   - stylesheets/extra.css
   - stylesheets/hljs.css
