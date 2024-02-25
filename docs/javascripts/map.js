@@ -128,48 +128,53 @@ document.addEventListener('DOMContentLoaded', function() {
             .then(response => response.json())
             .then(data => {
                 // Filter and sort the data based on waiting times
-                const filteredData = data.filter(item => item.tempsReel === "true")
-                                         .sort((a, b) => {
-                                             if (a.temps === "proche") return -1;
-                                             if (b.temps === "proche") return 1;
-                                             return parseInt(a.temps) - parseInt(b.temps);
-                                         });
-    
-                // Generating the table structure
-                let tableContent = `
-                <div class="table-container">
-                    <table>
-                        <thead>
-                            <tr>
-                                <th>Line number</th>
-                                <th>Direction</th>
-                                <th>Waiting time</th>
-                            </tr>
-                        </thead>
-                        <tbody>`;
-    
-                // Populating table rows with data
-                filteredData.forEach(item => {
-                    let waitingTime = item.temps === "proche" ? "Coming!" : item.temps;
+                const filteredData = data.filter(item => item.temps !== "")
+                                        .sort((a, b) => {
+                                            if (a.temps === "proche") return -1;
+                                            if (b.temps === "proche") return 1;
+                                            return parseInt(a.temps) - parseInt(b.temps);
+                                        });
+
+                // Generating the table structure if there's data
+                let tableContent = "";
+                if (filteredData.length > 0) {
                     tableContent += `
-                        <tr>
-                            <td>${item.ligne.numLigne}</td>
-                            <td>${item.terminus}</td>
-                            <td>${waitingTime}</td>
-                        </tr>`;
-                });
-    
-                // Closing table tag
-                tableContent += `</tbody></table></div>`;
-    
-                // Creating the popup content with table
+                        <div class="table-container">
+                            <table>
+                                <thead>
+                                    <tr>
+                                        <th>Line number</th>
+                                        <th>Direction</th>
+                                        <th>Waiting time</th>
+                                    </tr>
+                                </thead>
+                                <tbody>`;
+
+                    // Populating table rows with data
+                    filteredData.forEach(item => {
+                        let waitingTime = item.temps === "proche" ? "Coming!" : item.temps;
+                        tableContent += `
+                            <tr>
+                                <td>${item.ligne.numLigne}</td>
+                                <td>${item.terminus}</td>
+                                <td>${waitingTime}</td>
+                            </tr>`;
+                    });
+
+                    // Closing table tag
+                    tableContent += `</tbody></table></div>`;
+                } else {
+                    tableContent = "<span>No transport found in the next hour.</span>";
+                }
+
+                // Creating the popup content with table or message
                 const popupContent = `<div class="popup-content"><span class="libelle">${libelle} (${codeLieu})</span>${tableContent}</div>`;
                 marker.setPopupContent(popupContent); // Update popup content
             })
             .catch(error => {
                 logMessage(`Error fetching bus stop waiting time for ${codeLieu}: ${error}`, 'error');
             });
-    }    
+    }
 
     // Function to display bus stops on the map
     function displayBusStops(stopDetails) {
