@@ -150,7 +150,7 @@ document.addEventListener('DOMContentLoaded', function() {
     
                 // Populating table rows with data
                 filteredData.forEach(item => {
-                    let waitingTime = item.temps === "proche" ? "Proche !" : item.temps;
+                    let waitingTime = item.temps === "proche" ? "Coming!" : item.temps;
                     tableContent += `
                         <tr>
                             <td>${item.ligne.numLigne}</td>

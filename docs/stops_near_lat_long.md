@@ -1,15 +1,22 @@
-# Search for stops near a latitude/longitude
+# Search for stops near a latitude and longitude
 
 ## Description
+
+This web services allows you to search for all stops in the Naolib network within a 500-meter radius of a given latitude and longitude.
+
+## URL
 
 ``` { .get }
 https://open.tan.fr/ewp/arrets.json/{latitude}/{longitude}
 ```
 
-| Path parameter | Type   | Description |
-| -------------- | ------ | ----------- |
-| `latitude`     | String |             |
-| `longitude`    | String |             |
+| Path parameter | Type   |
+|----------------|--------|
+| `latitude`     | Number |
+| `longitude`    | Number |
+
+!!! info
+    Use latitude and longitude values with at least five decimals. Five decimals correspond to an accuracy of 1.11m.
 
 ## Response body
 
@@ -63,21 +70,31 @@ https://open.tan.fr/ewp/arrets.json/{latitude}/{longitude}
 ]
 ```
 
-| Element     | Type   |  Description     |
-| ----------- | ------ | ---------------- |
-| `codeLieu`  | String |                  |
-| `libelle`   | String |                  |
-| `distance`  | String |                  |
-| `ligne`     | Array  |                  |
+| Element    | Type   | Description                                                                |
+|------------|--------|----------------------------------------------------------------------------|
+| `codeLieu` | String | The identifier of a stop.                                                  |
+| `libelle`  | String | The full name of a stop.                                                   |
+| `distance` | String | The distance in meters from the latitude and longitude set in the request. |
+| `ligne`    | Array  | Transport lines to which the stop belongs.                                 |
+| `numLigne` | String | The number of a transport line to which the stop belongs. |
 
 ## Return codes
 
-| Return code   | Description     |
-| ------------- | ---------------- |
-| `latitude`    | String | 
-| `longitude`   | String | 
+| Return code | Description |
+|-------------|-------------|
+| `200 OK`    | The request was successful. | 
 
 ## Try the call
+
+/// details | Demonstration methodology
+This demonstration gets the current longitude and latitude of the marker at the center of the map.
+
+Using the longitude and latitude, it calls the Search for stops near a latitude and longitude web service.
+
+It then prints the response it gets in the `.message` element.
+
+Enough said: try it out!
+///
 
 <pre><code class="url"></code></pre>
 

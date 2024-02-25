@@ -2,6 +2,10 @@
 
 ## Description
 
+This web services allows you to list all stops in the Naolib network.
+
+## URL
+
 ``` { .get }
 https://open.tan.fr/ewp/arrets.json
 ```
@@ -49,14 +53,23 @@ https://open.tan.fr/ewp/arrets.json
     "ligne": []
   },
 ```
-<!--TODO: AJOUTER ANNOTATION QUI DIT C PAS VRAIMENT FINI-->
 
-| Element   | Type   |  Description     |
-| --------- | ------ | ---------------- |
-| `codeLieu`  | String |                  |
-| `libelle`   | String |                  |
-| `distance`  | String |                  |
-| `ligne`     | Array  |                  |
+!!! info
+    This response example is shortened for clarity.
+
+| Element    | Type   | Description |
+|------------|--------|-------------|
+| `codeLieu` | String | The identifier of a stop. |
+| `libelle`  | String | The full name of a stop. |
+| `distance` | String | The distance in meters from the latitude and longitude set in the request when [searching for stops near a latitude/longitude](stops_near_lat_long.md). When listing all stops, its value is `null`. |
+| `ligne`    | Array  | Transport lines to which the stop belongs. |
+| `numLigne` | String  | The number of a transport line to which the stop belongs. |
+
+## Return codes
+
+| Return code | Description |
+|-------------|-------------|
+| `200 OK`    | The request was successful. | 
 
 ## Try the call
 

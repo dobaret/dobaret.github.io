@@ -35,13 +35,23 @@ In my free time, I like to <span class="do_not_break">:material-bike-fast: cycle
 
     [:octicons-arrow-right-24: Getting started](#)
 
--   :material-bus-clock:{ .lg .middle } __TAN__
+-   :material-bus-clock:{ .lg .middle } __Naolib__
 
     ---
 
-    Focus on your content and generate a responsive and searchable static site
+    Documentation of the Naolib API.
+    
+    Naolib is the company responsible for the public transport network of Nantes.
 
-    [:octicons-arrow-right-24: API Naolib](list_all_stops.md)
+    [:octicons-arrow-right-24: Introduction](naolib_api.md)
+
+-   :material-email: __Contact__
+
+    ---
+
+    Looking to talk to me?
+
+    [:octicons-arrow-right-24: Let's get in touch?](contact.md)
 
 </div>
 

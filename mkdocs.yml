@@ -33,7 +33,8 @@ nav:
   - Home:
     - 'index.md'
     - 'about.md'
-  - API Naolib:
+  - Naolib API:
+    - 'naolib_api.md'
     - 'list_all_stops.md'
     - 'stops_near_lat_long.md'
     - 'waiting_time_stop.md'
@@ -52,6 +53,7 @@ markdown_extensions:
       pygments_lang_class: true
   - pymdownx.inlinehilite
   - pymdownx.snippets
+  - pymdownx.blocks.details
   - pymdownx.details
   - pymdownx.superfences
   - md_in_html
