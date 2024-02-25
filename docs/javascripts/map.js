@@ -195,7 +195,7 @@ document.addEventListener('DOMContentLoaded', function() {
                 });
 
                 var marker = L.marker([lat, lon], { icon: redIcon }).addTo(markers);
-                marker.bindPopup(); // Bind popup without opening
+                marker.bindPopup(`<div class="popup-content"><span class="libelle">${libelle} (${codeLieu})</span><span>Loading...</span></div>`); // Bind popup without opening
                 fetchWaitingTime(codeLieu, libelle, lat, lon, marker);
             }
         });
