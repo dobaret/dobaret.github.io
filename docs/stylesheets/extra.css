@@ -81,6 +81,11 @@ code {
     overflow: auto;
 }
 
+.leaflet-popup-content-wrapper, .leaflet-popup-tip {
+    background-color: var(--md-default-bg-color) !important;
+    color: var(--md-typeset-color) !important;
+}
+
 .table-container thead {
     position: sticky;
     top: 0;
