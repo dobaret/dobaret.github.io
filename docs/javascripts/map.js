@@ -178,7 +178,7 @@ document.addEventListener('DOMContentLoaded', function() {
 
     // Function to display bus stops on the map
     function displayBusStops(stopDetails) {
-        logMessage(`Found ${stopDetails.length} bus stops.`);
+        logMessage(`Found ${stopDetails.length} bus stops in a 500m radius.`);
 
         // Clear previous markers
         markers.clearLayers();
