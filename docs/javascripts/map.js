@@ -20,6 +20,9 @@ document.addEventListener('DOMContentLoaded', function() {
 
     var centerMarker;
 
+    // Declare circle variable globally
+    var circle;
+
     // Initial addition of center marker
     addOrUpdateCenterMarker();
 
@@ -87,6 +90,23 @@ document.addEventListener('DOMContentLoaded', function() {
             const { latitude, longitude } = getCurrentLatLng();
             var lat = latitude;
             var lng = longitude;
+
+            // Clear previous circles
+            if (circle) {
+                map.removeLayer(circle);
+            }
+
+            // Draw circle around the center
+            var center = L.latLng(latitude, longitude);
+            var radius = 500; // Adjust as needed
+            var circleOptions = {
+                color: 'red',
+                fillColor: '#f03',
+                fillOpacity: 0.2
+            };
+
+            circle = L.circle(center, {radius: radius, ...circleOptions}).addTo(map);
+
             url += lat + '/' + lng;
             logMessage('Fetching bus stops for ' + latitude + ' / ' + longitude + '...');
             fetch(url)
