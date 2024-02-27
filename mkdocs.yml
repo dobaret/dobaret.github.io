@@ -68,6 +68,7 @@ extra_javascript:
   - https://unpkg.com/leaflet/dist/leaflet.js
   - https://cdnjs.cloudflare.com/ajax/libs/highlight.js/11.4.0/highlight.min.js
   - https://api.mapbox.com/mapbox.js/plugins/leaflet-fullscreen/v1.0.1/Leaflet.fullscreen.min.js
+  - https://cdn.rawgit.com/hayeswise/Leaflet.PointInPolygon/v1.0.0/wise-leaflet-pip.js
 plugins:
   - search
   - open-in-new-tab
