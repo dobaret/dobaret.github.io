@@ -117,8 +117,8 @@ code {
 }
 
 .leaflet-bar a {
-    color: var(--md-typeset-color);
-    background-color: var(--md-default-bg-color);
+    color: var(--md-typeset-color) !important;
+    background-color: var(--md-default-bg-color) !important;
 }
 
 .table-container thead {
