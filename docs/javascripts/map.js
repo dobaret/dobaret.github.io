@@ -212,7 +212,7 @@ document.addEventListener('DOMContentLoaded', function() {
 
         // Draw circle around the center
         var center = L.latLng(latitude, longitude);
-        var radius = 500; // Adjust as needed
+        var radius = 550; // Adjust as needed
         var circleOptions = {
             color: 'red',
             fillColor: '#f03',
