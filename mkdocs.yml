@@ -39,6 +39,7 @@ nav:
     - 'stops_near_lat_long.md'
     - 'waiting_time_stop.md'
     - "Lalala": 'test.html'
+    - "CV": 'cv.md'
   - Contact:
     - contact.md
 markdown_extensions:
@@ -59,9 +60,11 @@ markdown_extensions:
   - md_in_html
   - abbr
   - admonition
+  - neoteroi.timeline
 extra_css:
   - stylesheets/extra.css
   - stylesheets/hljs.css
+  - stylesheets/timeline.css
   - https://unpkg.com/leaflet/dist/leaflet.css
   - https://api.mapbox.com/mapbox.js/plugins/leaflet-fullscreen/v1.0.1/leaflet.fullscreen.css
 extra_javascript:

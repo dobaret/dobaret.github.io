@@ -1,0 +1,39 @@
+[
+    {
+        "title": "Antidot (full remote)",
+        "content": "<ul><li>Technical documentation of SaaS tool Fluid Topics (API, UI, etc.)</li><li>Development of internal tools to improve documentation quality (automatic checking of files against the style guide, automatic detection of dead links, etc.).</li></ul>",
+        "icon": ":material-rocket-launch-outline:",
+        "sub_title": "Since April 2023"
+    },
+    {
+        "title": "Topsolid (Saint-Herblain)",
+        "content": "<ul><li>Creation and maintenance of software technical documentation in French (CAD product training guides).</li><li>Complete redesign of the CSS style sheets used for the creation of PDFs.</li><li>FR>EN translation of e-learning videos.</li><li>Proofreading of promotional and technical material in French and English.</li></ul>",
+        "icon": ":octicons-sun-16:",
+        "key": "cyan",
+        "sub_title": "2022 - 2023"
+    },
+    {
+        "title": "Talend (Nantes)",
+        "content": "<ul><li>Creation and maintenance of software technical documentation in English: onboarding tutorials for Talend Studio, creation of internal guides related to product localization and documentation, documentation updates with the feedback received from the support team, etc. Use of the docs-as-code philosophy with DITA (XML).</li><li>Creation of feature videos for beginners.</li><li>EN>FR translation.</li><li>UX Writing for Technical Writers training.</li></ul>",
+        "icon": ":octicons-sun-16:",
+        "key": "cyan",
+        "sub_title": "2021 - 2022"
+    },
+    {
+        "title": "Master's in technical writing (Paris)",
+        "icon": ":fontawesome-solid-pen-to-square:",
+        "sub_title": "2021 - 2022"
+    },
+    {
+        "title": "Trans4europe (Roubaix)",
+        "content": "<ul><li>Organization and management of multilingual translation projects.</li><li>Analysis and preparation of work packages for CAT tools.</li><li>Management of ~20 internal translators as well as freelance translators.</li><li>Correspondence with our clients' project managers.</li><li>Translation quality monitoring.</li><li>Management of a shared email inbox.</li></ul>",
+        "icon": ":material-translate:",
+        "sub_title": "2020 - 2021"
+    },
+    {
+        "title": "Master's in translation (Rennes)",
+        "key": "pink",
+        "icon": ":material-translate:",
+        "sub_title": "2018 - 2020"
+    }
+]
