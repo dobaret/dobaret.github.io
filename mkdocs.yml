@@ -32,17 +32,18 @@ theme:
 nav:
   - Home:
     - 'index.md'
-    - 'about.md'
+  - Resume:
+    - cv.md
   - Naolib API:
     - 'naolib_api.md'
     - 'list_all_stops.md'
     - 'stops_near_lat_long.md'
     - 'waiting_time_stop.md'
     - "Lalala": 'test.html'
-  - CV:
-    - cv.md
   - Contact:
     - contact.md
+  - About:
+    - about.md
 markdown_extensions:
   - attr_list
   - pymdownx.emoji:
