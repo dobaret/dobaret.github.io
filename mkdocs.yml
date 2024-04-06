@@ -39,7 +39,8 @@ nav:
     - 'stops_near_lat_long.md'
     - 'waiting_time_stop.md'
     - "Lalala": 'test.html'
-    - "CV": 'cv.md'
+  - CV:
+    - cv.md
   - Contact:
     - contact.md
 markdown_extensions:
