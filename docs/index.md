@@ -24,4 +24,5 @@ I maintain [docs.fluidtopics.com](https://docs.fluidtopics.com/) using the [docs
 
 In my free time, I like to <span class="do_not_break">:material-bike-fast: cycle</span> and play <span class="do_not_break">:material-badminton: badminton</span>.
 
-(Check out my documentation of the [Naolib API](naolib_api.md) for a preview of my work!)
+!!! tip
+    Check out my documentation of the [Naolib API](naolib_api.md) for a preview of my work!

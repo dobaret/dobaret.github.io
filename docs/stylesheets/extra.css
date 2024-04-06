@@ -3,6 +3,10 @@
     --md-primary-bg-color: black;
 }
 
+footer {
+    display: none;
+}
+
 .md-grid {
     max-width: 61rem;
 }
