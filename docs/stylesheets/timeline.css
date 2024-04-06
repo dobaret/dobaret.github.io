@@ -665,6 +665,11 @@
 .nt-timeline.vertical.left {
   padding-left: 100px;
 }
+@media only screen and (max-width: 480px) {
+  .nt-timeline.vertical.left {
+    padding: 0;
+  }
+}
 .nt-timeline.vertical.left .nt-timeline-item {
   padding-left: 70px;
 }
@@ -745,6 +750,12 @@
   top: 4px;
   font-size: 16px;
   color: var(--nt-color-50);
+}
+
+@media only screen and (max-width: 480px) {
+  .nt-timeline-sub-title {
+    position: initial;
+  }
 }
 
 [data-md-color-scheme=slate] .nt-timeline-sub-title {
@@ -1272,7 +1283,7 @@ details .nt-timeline.vertical.center:not(.alternate) .nt-timeline-item .nt-timel
   grid-template-columns: repeat(6, 1fr);
 }
 
-@media only screen and (max-width: 400px) {
+@media only screen and (max-width: 480px) {
   .nt-cards.nt-grid {
     grid-template-columns: repeat(1, 1fr) !important;
   }
