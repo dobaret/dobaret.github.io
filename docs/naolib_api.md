@@ -1,6 +1,6 @@
 # Introduction
 
-This section is based on the [Open Data TAN (1.0.0) Swagger](https://open.tan.fr/doc/openapi).
+This section is based on the [Open Data TAN (1.0.0)](https://open.tan.fr/doc/openapi) Swagger.
 
 !!! info
 
