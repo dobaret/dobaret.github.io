@@ -19,6 +19,7 @@
     },
     {
         "title": "Master's in technical writing (Paris)",
+        "content": "<ul><li>Bilingual Master's degree (EN/FR) and apprenticeship (2 weeks at a company / 2 weeks at university).</li><li>Courses in technical writing, in its technologies (DITA), introduction to e-learning.</li></ul>",
         "icon": ":material-school:",
         "sub_title": "2021 - 2022"
     },
@@ -30,6 +31,7 @@
     },
     {
         "title": "Master's in translation (Rennes)",
+        "content": "<ul><li>EMT Master's degree - Translation, localization and project management.</li><li>Courses in technical translation, localization, in their tools (CAT) as well as project management.</li></ul>",
         "icon": ":material-school:",
         "sub_title": "2018 - 2020"
     }
