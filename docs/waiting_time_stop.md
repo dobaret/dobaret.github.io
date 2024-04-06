@@ -164,6 +164,9 @@ Next, the demonstration gets the waiting times for each stop, and displays them 
 Enough said: try it out!
 ///
 
+!!! warning
+    The database of stops does not exactly match the locations returned by the Naolib API. Consequently, some markers can appear outside the radius of the circle.
+
 <div id="map"></div>
 
 <p class="current"></p>

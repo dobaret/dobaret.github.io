@@ -20,8 +20,8 @@ My name is **Dorian Baret**(1).
 
 I'm currently a <span class="do_not_break">:fontawesome-solid-computer: software</span> technical writer at Antidot. We make a tool called [Fluid&nbsp;Topics](https://www.fluidtopics.com/).
 
-I maintain [docs.fluidtopics.com](https://docs.fluidtopics.com/) by using the [docs-as-code](about.md) philosophy.
+I maintain [docs.fluidtopics.com](https://docs.fluidtopics.com/) using the [docs-as-code](about.md) philosophy.
 
 In my free time, I like to <span class="do_not_break">:material-bike-fast: cycle</span> and play <span class="do_not_break">:material-badminton: badminton</span>.
 
-(Check out my documentation of the [Naolib API](naolib_api.md) fpr a preview of my work!)
+(Check out my documentation of the [Naolib API](naolib_api.md) for a preview of my work!)
