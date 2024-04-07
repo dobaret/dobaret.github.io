@@ -118,4 +118,4 @@ Enough said: try it out!
 <pre><code class="message"></code></pre>
 
 <!-- Script section -->
-<script src="../javascripts/simpler.js"></script>
+<script src="../javascripts/stops_near_lat_long.js"></script>

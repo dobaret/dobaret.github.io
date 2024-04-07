@@ -180,4 +180,4 @@ Enough said: try it out!
 <pre><code class="message"></code></pre>
 
 <!-- Script section -->
-<script src="../javascripts/map.js"></script>
+<script src="../javascripts/waiting_time_stop.js"></script>

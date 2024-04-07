@@ -81,4 +81,4 @@ https://open.tan.fr/ewp/arrets.json
 <pre><code class="message"></code></pre>
 
 <!-- Script section -->
-<script src="../javascripts/much_simpler.js"></script>
+<script src="../javascripts/list_all_stops.js"></script>
