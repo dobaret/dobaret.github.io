@@ -1,6 +1,7 @@
 site_name: Dorian Baret
 theme:
   name: material
+  favicon: images/favicon.png
   icon:
     logo: fontawesome/solid/square-pen 
     admonition:
