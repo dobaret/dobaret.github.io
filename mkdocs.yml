@@ -77,5 +77,4 @@ extra_javascript:
   - https://api.mapbox.com/mapbox.js/plugins/leaflet-fullscreen/v1.0.1/Leaflet.fullscreen.min.js
   - https://cdn.rawgit.com/hayeswise/Leaflet.PointInPolygon/v1.0.0/wise-leaflet-pip.js
 plugins:
-  - search
   - open-in-new-tab
