@@ -3,6 +3,8 @@ theme:
   name: material
   icon:
     logo: fontawesome/solid/square-pen 
+    admonition:
+      tip: material/lightbulb-on
   custom_dir: overrides
   features:
     - content.code.copy
