@@ -42,7 +42,7 @@ nav:
     - 'list_all_stops.md'
     - 'stops_near_lat_long.md'
     - 'waiting_time_stop.md'
-    - "Lalala": 'test.html'
+    # - "Lalala": 'test.html'
   - Contact:
     - contact.md
   - About:
