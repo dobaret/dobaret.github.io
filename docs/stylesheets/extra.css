@@ -143,3 +143,7 @@ code {
     font-weight: bold;
     display: block;
 }
+
+li::marker {
+    font-weight: bold;
+}
