@@ -5,10 +5,10 @@ As a technical writer, I'm really interested in the [docs-as-code](https://www.w
 This website follows its principles:
 
 1. I write the pages in a plain text format: Markdown.
-2. I commit changes to a GitHub repository.
+2. I commit changes to a [GitHub repository](https://github.com/dobaret/dobaret.github.io).
 3. When the `main` branch of the GitHub repository receives a commit:
 
-    1. A GitHub action installs MkDocs in a virtual environment.  
+    1. A GitHub action installs [MkDocs](https://www.mkdocs.org/) in a virtual environment.  
     2. MkDocs automatically transforms the Markdown source files into HTML files.
     3. GitHub automatically pushes the HTML files to the `gh-pages` branch of the repository.
 
