@@ -1,149 +1,184 @@
 :root {
-    --md-primary-fg-color: #97c1a9;
-    --md-primary-bg-color: black;
+	--md-primary-fg-color: #97c1a9;
+	--md-primary-bg-color: black;
 }
 
 footer {
-    display: none;
+	display: none;
 }
 
 .md-header--shadow {
-    box-shadow: none;
+	box-shadow: none;
 }
 
-.md-typeset a, .md-nav--primary .md-nav__item--active > .md-nav__link {
-    color: var(--md-accent-fg-color);
+.md-typeset a,
+.md-nav--primary .md-nav__item--active>.md-nav__link {
+	color: var(--md-accent-fg-color);
 }
 
-.md-typeset a:hover, .md-nav__link[href]:hover, .md-nav--primary .md-nav__item--active > .md-nav__link:hover {
-    color: var(--md-typeset-a-color);
+.md-typeset a:hover,
+.md-nav__link[href]:hover,
+.md-nav--primary .md-nav__item--active>.md-nav__link:hover {
+	color: var(--md-typeset-a-color);
 }
 
 .phonetics {
-    /* TBD */
+	/* TBD */
 }
 
 /* Make tables occupy whole width of <article> */
 /* https://github.com/squidfunk/mkdocs-material/discussions/3530 */
 
 .md-typeset__table {
-    width: 100%;
+	width: 100%;
 }
 
 .md-typeset table:not([class]) {
-    background-color: var(--md-default-bg-color);
-    border: .05rem solid var(--md-typeset-table-color);
-    border-radius: .1rem;
-    display: inline-block;
-    font-size: .7rem;
-    max-width: 100%;
-    /* Make table headers in maps sticky */
-    overflow: visible;
-    touch-action: auto;
-    display: table;
+	background-color: var(--md-default-bg-color);
+	border: .05rem solid var(--md-typeset-table-color);
+	border-radius: .1rem;
+	display: inline-block;
+	font-size: .7rem;
+	max-width: 100%;
+	/* Make table headers in maps sticky */
+	overflow: visible;
+	touch-action: auto;
+	display: table;
 }
 
 code {
-    white-space: pre-wrap;
+	white-space: pre-wrap;
 }
 
 .linkedin-logo {
-    width: 20px;
-    height: 20px;
-    margin: 10px;
-    margin-bottom: 13px;
+	width: 20px;
+	height: 20px;
+	margin: 10px;
+	margin-bottom: 13px;
 }
 
 .github-logo {
-    width: 20px;
-    height: 20px;
-    margin: 10px;
-    margin-bottom: 13px;
+	width: 20px;
+	height: 20px;
+	margin: 10px;
+	margin-bottom: 13px;
 }
 
 /* HTML elements in Markdown */
 
 .message {
-    min-height: 39.53px;
+	min-height: 39.53px;
 }
 
 .tagline {
-    justify-content: center;
-    font-weight: bold;
-    font-size: 20px;
+	justify-content: center;
+	font-weight: bold;
+	font-size: 20px;
 }
 
-.spacing1, .spacing2, .spacing3, .tagline {
-    display: flex;
+.spacing1,
+.spacing2,
+.spacing3,
+.tagline {
+	display: flex;
 }
 
 .spacing1 {
-    justify-content: space-between;
-    margin-bottom: 1em;
+	justify-content: space-between;
+	margin-bottom: 1em;
 }
 
 .spacing2 {
-    justify-content: space-evenly;
-    margin-bottom: 1em;
+	justify-content: space-evenly;
+	margin-bottom: 1em;
 }
 
 .spacing3 {
-    justify-content: center;
+	justify-content: center;
 }
 
 .language-get::before {
-    content: "GET";
-    font-size: 15px;
-    font-weight: bold;
-    padding-right: 30px;
+	content: "GET";
+	font-size: 15px;
+	font-weight: bold;
+	padding-right: 30px;
 }
 
 .do_not_break {
-    display: inline-block;
+	display: inline-block;
 }
 
 /* Leaflet */
 
 #map {
-    z-index:1;
-    height: 500px;
-    border: 2px solid var(--md-primary-fg-color);
-    font-size: 12px;
-    font-family: var(--md-text-font);
-    margin-bottom: 1em;
+	z-index: 1;
+	height: 500px;
+	border: 2px solid var(--md-primary-fg-color);
+	font-size: 12px;
+	font-family: var(--md-text-font);
+	margin-bottom: 1em;
 }
 
 .table-container {
-    max-height: 400px;
-    overflow: auto;
+	max-height: 400px;
+	overflow: auto;
 }
 
-.leaflet-popup-content-wrapper, .leaflet-popup-tip {
-    background-color: var(--md-default-bg-color) !important;
-    color: var(--md-typeset-color) !important;
+.leaflet-popup-content-wrapper,
+.leaflet-popup-tip {
+	background-color: var(--md-default-bg-color) !important;
+	color: var(--md-typeset-color) !important;
 }
 
 .leaflet-bar a {
-    color: var(--md-typeset-color) !important;
-    background-color: var(--md-default-bg-color) !important;
+	color: var(--md-typeset-color) !important;
+	background-color: var(--md-default-bg-color) !important;
 }
 
 .table-container thead {
-    position: sticky;
-    top: 0;
-    background-color: var(--md-default-bg-color);
+	position: sticky;
+	top: 0;
+	background-color: var(--md-default-bg-color);
 }
 
 .center-marker {
-    font-size: 20px;
-    color: black;
+	font-size: 20px;
+	color: black;
 }
 
 .libelle {
-    font-weight: bold;
-    display: block;
+	font-weight: bold;
+	display: block;
 }
 
 li::marker {
-    font-weight: bold;
+	font-weight: bold;
+}
+
+#floatingImage {
+	position: absolute;
+	display: none;
+	pointer-events: none;
+	width: 250px;
+	height: auto;
+	z-index: 1000;
+}
+
+@media (max-width: 1024px) {
+	#floatingImage {
+		width: 180px;
+	}
+}
+
+@media (max-width: 600px) {
+	#floatingImage {
+		width: 120px;
+	}
+}
+
+.insertedImage {
+	position: static !important;
+	display: block !important;
+	pointer-events: auto;
+	margin-top: 10px;
 }
