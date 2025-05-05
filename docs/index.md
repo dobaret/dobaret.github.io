@@ -22,7 +22,7 @@ I'm currently a <span class="do_not_break">:fontawesome-solid-computer: software
 
 I maintain [docs.fluidtopics.com](https://docs.fluidtopics.com/) using the [docs-as-code](about.md) philosophy.
 
-In my free time, I like to <span id="bikeHover" class="do_not_break">:material-bike-fast: cycle</span>, do some <span class="do_not_break">:material-run-fast: running</span>, and spend time with my <span id="catHover" class="do_not_break">:material-cat: cat</span>.
+In my free time, I like to <span id="bikeHover" class="do_not_break">:material-bike-fast: <span class="do_not_break_word">cycle</span></span>, do some <span class="do_not_break">:material-run-fast: running</span>, and spend time with my <span id="catHover" class="do_not_break">:material-cat: <span class="do_not_break_word">cat</span></span>.
 
 !!! tip
     Check out my documentation of the [Naolib API](naolib_api.md) for a preview of my work!

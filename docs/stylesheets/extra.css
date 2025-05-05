@@ -108,6 +108,10 @@ code {
 	display: inline-block;
 }
 
+.do_not_break > .do_not_break_word {
+	text-decoration: underline;
+}
+
 /* Leaflet */
 
 #map {
