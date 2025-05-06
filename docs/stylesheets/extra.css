@@ -108,10 +108,6 @@ code {
 	display: inline-block;
 }
 
-.do_not_break > .do_not_break_word {
-	text-decoration: underline;
-}
-
 /* Leaflet */
 
 #map {
@@ -157,32 +153,4 @@ code {
 
 li::marker {
 	font-weight: bold;
-}
-
-#floatingImage {
-	position: absolute;
-	display: none;
-	pointer-events: none;
-	width: 250px;
-	height: auto;
-	z-index: 1000;
-}
-
-@media (max-width: 1024px) {
-	#floatingImage {
-		width: 180px;
-	}
-}
-
-@media (max-width: 600px) {
-	#floatingImage {
-		width: 120px;
-	}
-}
-
-.insertedImage {
-	position: static !important;
-	display: block !important;
-	pointer-events: auto;
-	margin-top: 10px;
 }
