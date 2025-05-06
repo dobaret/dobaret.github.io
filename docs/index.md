@@ -11,9 +11,11 @@ My name is **Dorian Baret**(1).
     2. Under **Language**, select **French (France)**.
     3. Copy the following:
         
+        <div class="phonetics">
         ```
         dɔʁjɑ̃baʁɛ
         ```
+        </div>
 
     4. Paste the phonetic transcription.
     5. Click **Listen**.

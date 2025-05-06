@@ -22,8 +22,10 @@ footer {
 	color: var(--md-typeset-a-color);
 }
 
-.phonetics {
-	/* TBD */
+@import url('https://fonts.googleapis.com/css2?family=Noto+Sans:ital,wght@0,100..900;1,100..900&family=Voces&display=swap');
+
+.phonetics, .phonetics code {
+  font-family: 'Voces', sans-serif !important;
 }
 
 /* Make tables occupy whole width of <article> */
