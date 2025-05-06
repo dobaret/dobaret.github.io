@@ -3,9 +3,19 @@ theme:
   name: material
   favicon: images/favicon.png
   icon:
-    logo: fontawesome/solid/square-pen 
+    logo: 
+      - fontawesome/solid/lightbulb
+      - fontawesome/solid/keyboard
+      - fontawesome/solid/computer
     admonition:
       tip: material/lightbulb-on
+  social:
+    - icon: fontawesome/brands/linkedin-in
+      link: https://www.linkedin.com/in/dorian-baret/
+      title: "Let's get in touch?"
+    - icon: fontawesome/brands/github
+      link: https://github.com/dobaret/dobaret.github.io
+      title: "dobaret/dobaret.github.io"
   custom_dir: overrides
   features:
     - content.code.copy

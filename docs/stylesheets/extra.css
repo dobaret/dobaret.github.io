@@ -50,18 +50,46 @@ code {
 	white-space: pre-wrap;
 }
 
-.linkedin-logo {
-	width: 20px;
-	height: 20px;
-	margin: 10px;
-	margin-bottom: 13px;
+.social-icons {
+	display: flex;
 }
 
-.github-logo {
-	width: 20px;
-	height: 20px;
-	margin: 10px;
-	margin-bottom: 13px;
+header .md-logo, header .social-icons {
+	display: flex;
+	gap: 22px;
+}
+
+header svg {
+	fill: var(--md-primary-bg-color);
+	width: auto !important;
+	height: 1.2rem !important;
+}
+
+header .social-icons {
+	margin-right: 10px !important;
+}
+
+.social-icons {
+	margin-left: 8px;
+}
+
+.md-logo {
+	display: flex !important;
+	flex-direction: row;
+}
+
+@media only screen and (max-device-width : 480px) {
+	header .md-logo {
+		display: none !important;
+	}
+
+	.md-logo {
+		gap: 10px !important;
+	}
+
+	.md-logo svg {
+		height: 1.5rem !important;
+	}
 }
 
 /* HTML elements in Markdown */
@@ -154,3 +182,4 @@ code {
 li::marker {
 	font-weight: bold;
 }
+
