@@ -749,7 +749,6 @@
   width: 50%;
   top: 4px;
   font-size: 16px;
-  color: var(--nt-color-50);
 }
 
 @media only screen and (max-width: 480px) {
@@ -1637,4 +1636,12 @@ details .nt-timeline.vertical.center:not(.alternate) .nt-timeline-item .nt-timel
 }
 .nt-contribs .nt-group-49 {
   background-color: var(--nt-color-49);
+}
+
+li.location {
+	list-style-type: none;
+	margin-left: -.625em !important; 
+	margin-top: -20px;
+	font-size: 15px;
+	font-style: italic;
 }
