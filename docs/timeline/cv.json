@@ -7,19 +7,19 @@
     },
     {
         "title": "Topsolid",
-        "content": "<ul><li class='location'>Saint-Herblain</li><li>Creation and maintenance of software technical documentation in French (CAD product training guides).</li><li>Complete redesign of the CSS style sheets used for the creation of PDFs.</li><li>FR>EN translation of e-learning videos.</li><li>Proofreading of promotional and technical material in French and English.</li></ul>",
+        "content": "<ul><li class='location'>Saint-Herblain</li><li>Created and maintained technical documentation in French for computer-aided design (CAD) training.</li><li>Redesigned the CSS stylesheets used to generate PDFs, improving readability and visual consistency.</li><li>Translated e-learning videos from French to English, to ease the onboarding of international clients.</li><li>Proofread promotional and technical materials in both French and English.</li></ul>",
         "icon": ":fontawesome-solid-pen-to-square:",
         "sub_title": "2022 - 2023"
     },
     {
         "title": "Talend",
-        "content": "<ul><li class='location'>Nantes</li><li>Creation and maintenance of software technical documentation in English: onboarding tutorials for Talend Studio, creation of internal guides related to product localization and documentation, documentation updates with the feedback received from the support team, etc. Use of the docs-as-code philosophy with DITA (XML).</li><li>Creation of feature videos for beginners.</li><li>EN>FR translation.</li><li>UX Writing for Technical Writers training.</li></ul>",
+        "content": "<ul><li class='location'>Nantes</li><li>Created and maintained technical software documentation using a docs-as-code approach (covering onboarding tutorials for Talend Studio, or internal guides on localization and documentation workflows).</li><li>Created beginner-focused feature videos to support user onboarding using Camtasia, and Adobe Photoshop.</li><li>Translated documentation from English to French.</li><li><a href='https://uxcontent.com/ux-writing-for-tech-writers/' target='_blank'>UX Writing for Technical Writers</a> training.</li></ul>",
         "icon": ":fontawesome-solid-pen-to-square:",
         "sub_title": "2021 - 2022"
     },
     {
         "title": "Master's in technical writing",
-        "content": "<ul><li class='location'>Paris</li><li>Bilingual Master's degree (EN/FR) and apprenticeship (2 weeks at a company / 2 weeks at university).</li><li>Courses in technical writing, in its technologies (DITA), introduction to e-learning.</li></ul>",
+        "content": "<ul><li class='location'>Paris</li><li>Bilingual Master’s degree (EN/FR) and apprenticeship. Courses in technical writing, in its technologies, introduction to e-learning.</li></ul>",
         "icon": ":material-school:",
         "sub_title": "2021 - 2022"
     },
