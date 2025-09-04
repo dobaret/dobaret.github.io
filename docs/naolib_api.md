@@ -8,7 +8,7 @@ This section is based on the [Open Data TAN (1.0.0)](https://open.tan.fr/doc/ope
 
 As the Naolib API is not fully documented, I have attempted to document it myself.
 
-I have analyzed its behavior and responses, using my knowledge of the transport system of Nantes, where I live.
+I have analyzed its behavior and responses, using my knowledge of the transport system of Nantes, where I used to live.
 
 !!! warning
 
