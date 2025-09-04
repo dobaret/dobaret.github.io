@@ -1,0 +1,38 @@
+[
+    {
+        "title": "Antidot / Fluid Topics",
+        "content": "<ul><li class='location'>Full remote</li><li>Created and maintained technical software documentation for the Fluid Topics SaaS platform using a docs-as-code approach (covering the API, UI, release notes, and format-specific connectors). This collaborative process involves product owners, developers, customer support, and professional services to align with user needs, reduce support load, and effectively showcase the product’s value.</li><li>Applied a <a href='https://www.writethedocs.org/guide/doc-ops/' target='_blank'>DocOps philosophy</a> by developing internal tools to support content quality and maintenance:<ul><li>Improved documentation consistency, quality, and accessibility by building a <a href='https://vale.sh/' target='_blank'>Vale</a>-based tool to check content against our style guide, and provide AI suggestions in GitLab merge requests using the OpenAI API (including automatic image alt text).</li><li>Improved review coverage by creating a <code>/reviewroulette</code> Slack command to get the oldest Markdown files for review, and automatically generate Jira tickets.</li><li>Improved site reliability and user trust by implementing scheduled dead-link detection, keeping <a href='http://docs.fluidtopics.com' target='_blank'>docs.fluidtopics.com</a> free of broken links.</li></ul></li><li>Completed '<a href='https://www.plb.fr/formation/developpement/formation-python,13-219.php' target='_blank'>Formation Python, programmation objet'</a> training.</li></ul>",
+        "icon": ":fontawesome-solid-pen-to-square:",
+        "sub_title": "Since April 2023"
+    },
+    {
+        "title": "Topsolid",
+        "content": "<ul><li class='location'>Saint-Herblain</li><li>Created and maintained technical documentation in French for computer-aided design (CAD) training.</li><li>Redesigned the CSS stylesheets used to generate PDFs, improving readability and visual consistency.</li><li>Translated e-learning videos from French to English, to ease the onboarding of international clients.</li><li>Proofread promotional and technical materials in both French and English.</li></ul>",
+        "icon": ":fontawesome-solid-pen-to-square:",
+        "sub_title": "2022 - 2023"
+    },
+    {
+        "title": "Talend",
+        "content": "<ul><li class='location'>Nantes</li><li>Created and maintained technical software documentation using a docs-as-code approach (covering onboarding tutorials for Talend Studio, or internal guides on localization and documentation workflows).</li><li>Created beginner-focused feature videos to support user onboarding using Camtasia, and Adobe Photoshop.</li><li>Translated documentation from English to French.</li><li><a href='https://uxcontent.com/ux-writing-for-tech-writers/' target='_blank'>UX Writing for Technical Writers</a> training.</li></ul>",
+        "icon": ":fontawesome-solid-pen-to-square:",
+        "sub_title": "2021 - 2022"
+    },
+    {
+        "title": "Master's in technical writing",
+        "content": "<ul><li class='location'>Paris</li><li>Bilingual Master’s degree (EN/FR) and apprenticeship. Courses in technical writing, in its technologies, introduction to e-learning.</li></ul>",
+        "icon": ":material-school:",
+        "sub_title": "2021 - 2022"
+    },
+    {
+        "title": "Trans4europe",
+        "content": "<ul><li class='location'>Roubaix</li><li>Organization and management of multilingual translation projects.</li><li>Analysis and preparation of work packages for CAT tools.</li><li>Management of ~20 internal translators as well as freelance translators.</li><li>Correspondence with our clients' project managers.</li><li>Translation quality monitoring.</li><li>Management of a shared email inbox.</li></ul>",
+        "icon": ":material-translate:",
+        "sub_title": "2020 - 2021"
+    },
+    {
+        "title": "Master's in translation",
+        "content": "<ul><li class='location'>Rennes</li><li>EMT Master's degree - Translation, localization and project management.</li><li>Courses in technical translation, localization, in their tools (CAT) as well as project management.</li></ul>",
+        "icon": ":material-school:",
+        "sub_title": "2018 - 2020"
+    }
+]

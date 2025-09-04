@@ -1,0 +1,186 @@
+:root {
+	--md-primary-fg-color: #97c1a9;
+	--md-primary-bg-color: black;
+}
+
+footer {
+	display: none;
+}
+
+.md-header--shadow {
+	box-shadow: none;
+}
+
+.md-typeset a,
+.md-nav--primary .md-nav__item--active>.md-nav__link {
+	color: var(--md-accent-fg-color);
+}
+
+.md-typeset a:hover,
+.md-nav__link[href]:hover,
+.md-nav--primary .md-nav__item--active>.md-nav__link:hover {
+	color: var(--md-typeset-a-color);
+}
+
+@import url('https://fonts.googleapis.com/css2?family=Noto+Sans:ital,wght@0,100..900;1,100..900&family=Voces&display=swap');
+
+.phonetics, .phonetics code {
+  font-family: 'Voces', sans-serif !important;
+}
+
+/* Make tables occupy whole width of <article> */
+/* https://github.com/squidfunk/mkdocs-material/discussions/3530 */
+
+.md-typeset__table {
+	width: 100%;
+}
+
+.md-typeset table:not([class]) {
+	background-color: var(--md-default-bg-color);
+	border: .05rem solid var(--md-typeset-table-color);
+	border-radius: .1rem;
+	display: inline-block;
+	font-size: .7rem;
+	max-width: 100%;
+	/* Make table headers in maps sticky */
+	overflow: visible;
+	touch-action: auto;
+	display: table;
+}
+
+code {
+	white-space: pre-wrap;
+}
+
+.social-icons {
+	display: flex;
+}
+
+header .md-logo, header .social-icons {
+	display: flex;
+	gap: 22px;
+}
+
+header svg {
+	fill: var(--md-primary-bg-color);
+	width: auto !important;
+	height: 1.2rem !important;
+}
+
+header .social-icons {
+	margin-right: 10px !important;
+}
+
+.social-icons {
+	margin-left: 8px;
+}
+
+.md-logo {
+	display: flex !important;
+	flex-direction: row;
+}
+
+@media only screen and (max-device-width : 480px) {
+	header .md-logo {
+		display: none !important;
+	}
+
+	.md-logo {
+		gap: 10px !important;
+	}
+
+	.md-logo svg {
+		height: 1.5rem !important;
+	}
+}
+
+/* HTML elements in Markdown */
+
+.message {
+	min-height: 39.53px;
+}
+
+.tagline {
+	justify-content: center;
+	font-weight: bold;
+	font-size: 20px;
+}
+
+.spacing1,
+.spacing2,
+.spacing3,
+.tagline {
+	display: flex;
+}
+
+.spacing1 {
+	justify-content: space-between;
+	margin-bottom: 1em;
+}
+
+.spacing2 {
+	justify-content: space-evenly;
+	margin-bottom: 1em;
+}
+
+.spacing3 {
+	justify-content: center;
+}
+
+.language-get::before {
+	content: "GET";
+	font-size: 15px;
+	font-weight: bold;
+	padding-right: 30px;
+}
+
+.do_not_break {
+	display: inline-block;
+}
+
+/* Leaflet */
+
+#map {
+	z-index: 1;
+	height: 500px;
+	border: 2px solid var(--md-primary-fg-color);
+	font-size: 12px;
+	font-family: var(--md-text-font);
+	margin-bottom: 1em;
+}
+
+.table-container {
+	max-height: 400px;
+	overflow: auto;
+}
+
+.leaflet-popup-content-wrapper,
+.leaflet-popup-tip {
+	background-color: var(--md-default-bg-color) !important;
+	color: var(--md-typeset-color) !important;
+}
+
+.leaflet-bar a {
+	color: var(--md-typeset-color) !important;
+	background-color: var(--md-default-bg-color) !important;
+}
+
+.table-container thead {
+	position: sticky;
+	top: 0;
+	background-color: var(--md-default-bg-color);
+}
+
+.center-marker {
+	font-size: 20px;
+	color: black;
+}
+
+.libelle {
+	font-weight: bold;
+	display: block;
+}
+
+li::marker {
+	font-weight: bold;
+}
